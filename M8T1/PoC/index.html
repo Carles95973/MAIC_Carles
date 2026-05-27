@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BANANO CORP · Asistente Documental</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0f1117;
+  --surface: #181c27;
+  --surface2: #1e2333;
+  --surface3: #252b3d;
+  --border: rgba(255,255,255,0.07);
+  --border2: rgba(255,255,255,0.12);
+  --text: #e8eaf0;
+  --text-soft: #8b90a0;
+  --text-mute: #555b6e;
+  --accent: #4f8ef7;
+  --accent-soft: rgba(79,142,247,0.12);
+  --accent-border: rgba(79,142,247,0.3);
+  --green: #34d399;
+  --green-soft: rgba(52,211,153,0.1);
+  --yellow: #fbbf24;
+  --yellow-soft: rgba(251,191,36,0.1);
+  --red: #f87171;
+  --tag-bg: rgba(255,255,255,0.06);
+}
+
+html, body {
+  height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---- LAYOUT ---- */
+.app {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  grid-template-rows: 100vh;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* ---- SIDEBAR ---- */
+.sidebar {
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.sidebar-header {
+  padding: 20px 20px 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.logo-icon {
+  width: 32px;
+  height: 32px;
+  background: var(--accent);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+}
+
+.logo-text {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.logo-sub {
+  font-size: 11px;
+  color: var(--text-mute);
+  font-family: 'DM Mono', monospace;
+  margin-top: 1px;
+}
+
+.project-selector {
+  background: var(--surface2);
+  border: 1px solid var(--border2);
+  border-radius: 8px;
+  padding: 10px 12px;
+  cursor: pointer;
+  transition: border-color 0.15s;
+}
+
+.project-selector:hover {
+  border-color: var(--accent-border);
+}
+
+.project-selector .proj-label {
+  font-size: 10px;
+  color: var(--text-mute);
+  font-family: 'DM Mono', monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 4px;
+}
+
+.project-selector .proj-name {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-selector .proj-name::after {
+  content: "⌄";
+  color: var(--text-mute);
+  font-size: 12px;
+}
+
+.sidebar-section {
+  padding: 16px 12px 8px;
+}
+
+.sidebar-section-label {
+  font-size: 10px;
+  font-family: 'DM Mono', monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-mute);
+  padding: 0 8px;
+  margin-bottom: 4px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  color: var(--text-soft);
+  font-size: 13px;
+  transition: all 0.12s;
+  margin-bottom: 2px;
+}
+
+.nav-item:hover {
+  background: var(--surface3);
+  color: var(--text);
+}
+
+.nav-item.active {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid var(--accent-border);
+}
+
+.nav-item .icon {
+  font-size: 15px;
+  width: 20px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.doc-sources {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px 12px;
+  border-top: 1px solid var(--border);
+  margin-top: 8px;
+}
+
+.doc-source-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 2px;
+  transition: background 0.12s;
+}
+
+.doc-source-item:hover { background: var(--surface3); }
+
+.doc-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.doc-dot.green { background: var(--green); }
+.doc-dot.yellow { background: var(--yellow); }
+.doc-dot.blue { background: var(--accent); }
+.doc-dot.red { background: var(--red); }
+
+.doc-name {
+  font-size: 12px;
+  color: var(--text-soft);
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.doc-count {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--text-mute);
+}
+
+.sidebar-footer {
+  padding: 12px 16px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.avatar {
+  width: 28px;
+  height: 28px;
+  background: linear-gradient(135deg, #4f8ef7, #34d399);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 600;
+  color: white;
+  flex-shrink: 0;
+}
+
+.user-name {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.user-role {
+  font-size: 11px;
+  color: var(--text-mute);
+}
+
+/* ---- MAIN CHAT AREA ---- */
+.main {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--bg);
+}
+
+.chat-header {
+  padding: 16px 28px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--surface);
+  flex-shrink: 0;
+}
+
+.chat-title {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.chat-subtitle {
+  font-size: 12px;
+  color: var(--text-mute);
+  margin-top: 1px;
+}
+
+.header-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-icon {
+  width: 32px;
+  height: 32px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  color: var(--text-soft);
+  transition: all 0.12s;
+}
+
+.btn-icon:hover {
+  background: var(--surface3);
+  color: var(--text);
+  border-color: var(--border2);
+}
+
+.messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  scroll-behavior: smooth;
+}
+
+.messages::-webkit-scrollbar { width: 4px; }
+.messages::-webkit-scrollbar-track { background: transparent; }
+.messages::-webkit-scrollbar-thumb { background: var(--surface3); border-radius: 2px; }
+
+/* ---- MESSAGES ---- */
+.msg {
+  display: flex;
+  gap: 12px;
+  animation: fadeUp 0.3s ease both;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.msg.user {
+  flex-direction: row-reverse;
+}
+
+.msg-avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.msg.assistant .msg-avatar {
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-border);
+  font-size: 15px;
+}
+
+.msg.user .msg-avatar {
+  background: linear-gradient(135deg, #4f8ef7, #34d399);
+  font-size: 11px;
+  font-weight: 600;
+  color: white;
+}
+
+.msg-content {
+  flex: 1;
+  max-width: 78%;
+}
+
+.msg.user .msg-content {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.msg-bubble {
+  padding: 12px 16px;
+  border-radius: 12px;
+  line-height: 1.6;
+  font-size: 14px;
+}
+
+.msg.user .msg-bubble {
+  background: var(--accent);
+  color: white;
+  border-radius: 12px 4px 12px 12px;
+  max-width: 100%;
+}
+
+.msg.assistant .msg-bubble {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px 12px 12px 12px;
+  color: var(--text);
+}
+
+.msg-bubble p { margin-bottom: 10px; }
+.msg-bubble p:last-child { margin-bottom: 0; }
+
+/* ---- CITATIONS ---- */
+.citations {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.citation {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-left: 3px solid;
+  border-radius: 0 6px 6px 0;
+  padding: 8px 12px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.12s;
+}
+
+.citation:hover {
+  border-color: var(--accent-border);
+  background: var(--surface3);
+}
+
+.citation.cte { border-left-color: var(--green); }
+.citation.acta { border-left-color: var(--yellow); }
+.citation.contrato { border-left-color: var(--accent); }
+.citation.proyecto { border-left-color: var(--red); }
+
+.cit-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 3px;
+}
+
+.cit-source {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.citation.cte .cit-source { color: var(--green); }
+.citation.acta .cit-source { color: var(--yellow); }
+.citation.contrato .cit-source { color: var(--accent); }
+.citation.proyecto .cit-source { color: var(--red); }
+
+.cit-page {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--text-mute);
+}
+
+.cit-text {
+  color: var(--text-soft);
+  line-height: 1.4;
+}
+
+/* ---- CONFIDENCE BAR ---- */
+.confidence {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  font-size: 11px;
+  color: var(--text-mute);
+}
+
+.conf-bar {
+  flex: 1;
+  height: 3px;
+  background: var(--surface3);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.conf-fill {
+  height: 100%;
+  background: var(--green);
+  border-radius: 2px;
+  transition: width 0.5s ease;
+}
+
+/* ---- QUICK ACTIONS ---- */
+.quick-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.quick-btn {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 5px 12px;
+  font-size: 12px;
+  color: var(--text-soft);
+  cursor: pointer;
+  transition: all 0.12s;
+  white-space: nowrap;
+}
+
+.quick-btn:hover {
+  background: var(--accent-soft);
+  border-color: var(--accent-border);
+  color: var(--accent);
+}
+
+/* ---- TABLA DENTRO DE MENSAJE ---- */
+.msg-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+.msg-table th {
+  text-align: left;
+  padding: 8px 12px;
+  background: var(--surface3);
+  color: var(--text-soft);
+  font-weight: 500;
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.msg-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-soft);
+  vertical-align: top;
+}
+
+.msg-table tr:last-child td { border-bottom: none; }
+
+.status-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.status-badge.ok { background: var(--green-soft); color: var(--green); }
+.status-badge.warn { background: var(--yellow-soft); color: var(--yellow); }
+
+/* ---- INPUT AREA ---- */
+.input-area {
+  padding: 16px 28px 20px;
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+  flex-shrink: 0;
+}
+
+.suggested-queries {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.suggested-q {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 12px;
+  color: var(--text-soft);
+  cursor: pointer;
+  transition: all 0.12s;
+}
+
+.suggested-q:hover {
+  background: var(--surface3);
+  border-color: var(--border2);
+  color: var(--text);
+}
+
+.input-row {
+  display: flex;
+  gap: 10px;
+  align-items: flex-end;
+}
+
+.input-box {
+  flex: 1;
+  background: var(--surface2);
+  border: 1px solid var(--border2);
+  border-radius: 10px;
+  padding: 12px 16px;
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  resize: none;
+  outline: none;
+  transition: border-color 0.15s;
+  min-height: 46px;
+  max-height: 120px;
+}
+
+.input-box:focus {
+  border-color: var(--accent-border);
+}
+
+.input-box::placeholder {
+  color: var(--text-mute);
+}
+
+.send-btn {
+  width: 44px;
+  height: 44px;
+  background: var(--accent);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: white;
+  transition: all 0.15s;
+  flex-shrink: 0;
+}
+
+.send-btn:hover {
+  background: #3d7de8;
+  transform: translateY(-1px);
+}
+
+.input-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 8px;
+  font-size: 11px;
+  color: var(--text-mute);
+  font-family: 'DM Mono', monospace;
+}
+
+.input-meta span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.doc-scope {
+  display: flex;
+  gap: 6px;
+}
+
+.scope-tag {
+  background: var(--tag-bg);
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+}
+
+/* ---- TYPING INDICATOR ---- */
+.typing {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 12px;
+}
+
+.typing span {
+  width: 6px;
+  height: 6px;
+  background: var(--text-mute);
+  border-radius: 50%;
+  animation: bounce 1.4s infinite ease-in-out;
+}
+
+.typing span:nth-child(1) { animation-delay: 0s; }
+.typing span:nth-child(2) { animation-delay: 0.2s; }
+.typing span:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes bounce {
+  0%, 60%, 100% { transform: translateY(0); opacity: 0.4; }
+  30% { transform: translateY(-5px); opacity: 1; }
+}
+
+/* ---- TOAST ---- */
+.toast {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: var(--surface2);
+  border: 1px solid var(--border2);
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-size: 13px;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: all 0.2s;
+  pointer-events: none;
+  z-index: 100;
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ---- TIMESTAMP ---- */
+.msg-time {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--text-mute);
+  margin-top: 5px;
+}
+
+.msg.user .msg-time {
+  text-align: right;
+}
+
+</style>
+</head>
+<body>
+
+<div class="app">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <div class="logo">
+        <div class="logo-icon">📋</div>
+        <div>
+          <div class="logo-text">DocAssist</div>
+          <div class="logo-sub">BANANO CORP</div>
+        </div>
+      </div>
+      <div class="project-selector">
+        <div class="proj-label">Proyecto activo</div>
+        <div class="proj-name">Torre Residencial Eixample</div>
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-section-label">Navegación</div>
+      <div class="nav-item active" onclick="showToast('Asistente activo')">
+        <span class="icon">💬</span> Asistente
+      </div>
+      <div class="nav-item" onclick="showToast('Módulo en desarrollo')">
+        <span class="icon">📂</span> Documentos
+      </div>
+      <div class="nav-item" onclick="showToast('Módulo en desarrollo')">
+        <span class="icon">📋</span> Actas
+      </div>
+      <div class="nav-item" onclick="showToast('Módulo en desarrollo')">
+        <span class="icon">🔍</span> Trazabilidad
+      </div>
+    </div>
+
+    <div class="doc-sources">
+      <div class="sidebar-section-label" style="padding: 0; margin-bottom: 8px;">Documentos cargados</div>
+      <div class="doc-source-item">
+        <div class="doc-dot green"></div>
+        <div class="doc-name">CTE DB-HE · Ahorro energía</div>
+        <div class="doc-count">847p</div>
+      </div>
+      <div class="doc-source-item">
+        <div class="doc-dot green"></div>
+        <div class="doc-name">CTE DB-SI · Seguridad incendio</div>
+        <div class="doc-count">312p</div>
+      </div>
+      <div class="doc-source-item">
+        <div class="doc-dot yellow"></div>
+        <div class="doc-name">Actas reunión · mar 2026</div>
+        <div class="doc-count">14 docs</div>
+      </div>
+      <div class="doc-source-item">
+        <div class="doc-dot yellow"></div>
+        <div class="doc-name">Actas reunión · abr 2026</div>
+        <div class="doc-count">9 docs</div>
+      </div>
+      <div class="doc-source-item">
+        <div class="doc-dot blue"></div>
+        <div class="doc-name">Proyecto Ejecutivo v3.2</div>
+        <div class="doc-count">1.240p</div>
+      </div>
+      <div class="doc-source-item">
+        <div class="doc-dot red"></div>
+        <div class="doc-name">Contrato principal · BANANO</div>
+        <div class="doc-count">128p</div>
+      </div>
+      <div class="doc-source-item">
+        <div class="doc-dot red"></div>
+        <div class="doc-name">Contrato subcontr. · Fachadas</div>
+        <div class="doc-count">64p</div>
+      </div>
+    </div>
+
+    <div class="sidebar-footer">
+      <div class="avatar">JM</div>
+      <div>
+        <div class="user-name">Jordi Martínez</div>
+        <div class="user-role">Jefe de obra</div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- MAIN -->
+  <div class="main">
+    <div class="chat-header">
+      <div>
+        <div class="chat-title">Asistente de proyecto</div>
+        <div class="chat-subtitle">Torre Residencial Eixample · 7 fuentes documentales activas</div>
+      </div>
+      <div class="header-actions">
+        <div class="btn-icon" title="Exportar conversación" onclick="showToast('Exportando...')">↗</div>
+        <div class="btn-icon" title="Nueva consulta" onclick="clearChat()">✕</div>
+      </div>
+    </div>
+
+    <div class="messages" id="messages">
+
+      <!-- MENSAJE BIENVENIDA -->
+      <div class="msg assistant">
+        <div class="msg-avatar">🤖</div>
+        <div class="msg-content">
+          <div class="msg-bubble">
+            <p>Hola Jordi. Tengo cargados los documentos del proyecto <strong>Torre Residencial Eixample</strong>. Puedo consultarte sobre normativa CTE, el proyecto ejecutivo, los contratos y todas las actas de reunión de los últimos meses.</p>
+            <div class="quick-actions">
+              <div class="quick-btn" onclick="sendPreset(0)">🏗️ Consultar normativa</div>
+              <div class="quick-btn" onclick="sendPreset(1)">📋 Decisión en acta</div>
+              <div class="quick-btn" onclick="sendPreset(2)">📄 Verificar contrato</div>
+              <div class="quick-btn" onclick="sendPreset(3)">🔍 Trazabilidad fachada</div>
+              <div class="quick-btn" onclick="sendPreset(4)">✍️ Generar acta</div>
+            </div>
+          </div>
+          <div class="msg-time">09:14</div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="input-area">
+      <div class="suggested-queries" id="suggestions">
+        <div class="suggested-q" onclick="sendPreset(0)">¿Espesor mínimo aislamiento CTE fachada?</div>
+        <div class="suggested-q" onclick="sendPreset(1)">¿Qué se decidió sobre el pavimento en la reunión del 15/03?</div>
+        <div class="suggested-q" onclick="sendPreset(2)">¿El contrato de fachadas cubre modificaciones de la DF?</div>
+        <div class="suggested-q" onclick="sendPreset(3)">Decisiones sobre fachada ventilada últimos 30 días</div>
+        <div class="suggested-q" onclick="sendPreset(4)">Generar acta de la reunión de hoy</div>
+      </div>
+      <div class="input-row">
+        <textarea class="input-box" id="userInput" placeholder="Haz una pregunta sobre el proyecto..." rows="1"
+          onkeydown="if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();sendMessage()}"
+          oninput="autoResize(this)"></textarea>
+        <button class="send-btn" onclick="sendMessage()">↑</button>
+      </div>
+      <div class="input-meta">
+        <span>⏎ enviar · Shift+⏎ nueva línea</span>
+        <div class="doc-scope">
+          <span class="scope-tag">CTE</span>
+          <span class="scope-tag">ACTAS</span>
+          <span class="scope-tag">CONTRATOS</span>
+          <span class="scope-tag">PROYECTO</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const presets = [
+  {
+    user: "¿Qué espesor mínimo de aislamiento exige el CTE para una fachada ventilada en zona climática C2?",
+    response: () => `
+      <p>Para una fachada ventilada en zona climática <strong>C2 (Barcelona)</strong>, el CTE DB-HE establece lo siguiente:</p>
+      <p>La transmitancia máxima de la fachada debe ser <strong>U ≤ 0,56 W/m²K</strong>. Para cumplir con esta exigencia con una cámara de aire ventilada, el espesor mínimo orientativo de aislamiento es:</p>
+      <table class="msg-table">
+        <thead>
+          <tr><th>Material</th><th>Espesor mín.</th><th>Conductividad λ</th><th>Estado</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Lana mineral</td><td>80 mm</td><td>0,035 W/mK</td><td><span class="status-badge ok">Válido</span></td></tr>
+          <tr><td>EPS (poliestireno)</td><td>70 mm</td><td>0,038 W/mK</td><td><span class="status-badge ok">Válido</span></td></tr>
+          <tr><td>Espuma PIR</td><td>55 mm</td><td>0,026 W/mK</td><td><span class="status-badge ok">Válido</span></td></tr>
+        </tbody>
+      </table>
+      <p style="margin-top:10px;font-size:13px;color:var(--text-soft)">⚠️ El proyecto ejecutivo (p. 247) especifica lana mineral de 100 mm, por encima del mínimo normativo.</p>
+    `,
+    citations: [
+      { type: 'cte', source: 'CTE DB-HE · Tabla 2.3', page: 'p. 34', text: 'Transmitancia límite de cerramientos en zona C: U ≤ 0,56 W/m²K para fachadas.' },
+      { type: 'proyecto', source: 'Proyecto Ejecutivo v3.2 · Memoria constructiva', page: 'p. 247', text: 'Fachada ventilada: aislamiento lana mineral 100 mm, λ = 0,035 W/mK, separadores de acero galvanizado.' }
+    ],
+    confidence: 94
+  },
+  {
+    user: "¿Qué se decidió en la reunión del 15/04 sobre el cambio de pavimento en planta 2?",
+    response: () => `
+      <p>En el acta de la <strong>reunión del 15 de abril de 2026</strong> (acta nº 18) se tomaron las siguientes decisiones sobre el pavimento de la planta 2:</p>
+      <p>✅ Se aprobó el cambio de gres porcelánico 60×60 a <strong>microcemento continuo de 3 mm</strong> en zonas comunes, con las condiciones siguientes:</p>
+      <p>→ La DF (Arq. Núria Solà) debe validar la muestra de color <em>Bone White</em> antes del 30 de abril.<br>→ El instalador debe presentar ficha técnica del producto antes de iniciar trabajos.<br>→ No hay variación de coste según lo acordado con la contrata.</p>
+      <p style="color:var(--yellow);font-size:13px">⚠️ <strong>Estado actual:</strong> A fecha de hoy no consta en el sistema la validación de la muestra por parte de la DF. Pendiente de confirmación.</p>
+    `,
+    citations: [
+      { type: 'acta', source: 'Acta reunión nº 18 · 15 abril 2026', page: 'Punto 4.2', text: 'Se acuerda cambiar gres porcelánico 60x60 por microcemento continuo 3mm en zonas comunes P2. Validación muestra antes del 30/04.' },
+      { type: 'acta', source: 'Acta reunión nº 17 · 08 abril 2026', page: 'Punto 3.1', text: 'Primera propuesta de cambio presentada por la contrata. La DF solicita muestras de tres colores.' }
+    ],
+    confidence: 88
+  },
+  {
+    user: "¿El contrato con el subcontratista de fachadas cubre las modificaciones que pide la dirección facultativa?",
+    response: () => `
+      <p>Según el <strong>Contrato de subcontratación de fachadas</strong> (firmado el 12/02/2026), la cobertura de modificaciones por instrucción de la DF es <strong>parcial</strong>:</p>
+      <table class="msg-table">
+        <thead><tr><th>Tipo de modificación</th><th>Cobertura</th></tr></thead>
+        <tbody>
+          <tr><td>Cambios de material sin aumento de coste</td><td><span class="status-badge ok">Incluido</span></td></tr>
+          <tr><td>Cambios de diseño con coste adicional ≤ 3%</td><td><span class="status-badge ok">Incluido</span></td></tr>
+          <tr><td>Cambios de diseño con coste adicional > 3%</td><td><span class="status-badge warn">Requiere adenda</span></td></tr>
+          <tr><td>Cambio de sistema constructivo completo</td><td><span class="status-badge warn">Requiere adenda</span></td></tr>
+        </tbody>
+      </table>
+      <p style="margin-top:10px;font-size:13px;color:var(--text-soft)">ℹ️ Para modificaciones que superen el 3% del presupuesto parcial de fachadas (base: 347.000€) se requiere adenda firmada por ambas partes antes de ejecutar.</p>
+    `,
+    citations: [
+      { type: 'contrato', source: 'Contrato subcontr. Fachadas · Cláusula 8.3', page: 'p. 22', text: 'Las instrucciones de la DF que supongan variación de coste superior al 3% del contrato parcial requerirán adenda firmada.' },
+      { type: 'contrato', source: 'Contrato subcontr. Fachadas · Anexo B', page: 'p. 58', text: 'Presupuesto base de referencia para cálculo de variaciones: 347.200€ + IVA.' }
+    ],
+    confidence: 97
+  },
+  {
+    user: "Muéstrame todas las decisiones tomadas sobre la fachada ventilada en los últimos 30 días",
+    response: () => `
+      <p>He encontrado <strong>6 decisiones</strong> relacionadas con la fachada ventilada en los últimos 30 días, distribuidas en 4 reuniones:</p>
+      <table class="msg-table">
+        <thead><tr><th>Fecha</th><th>Acta</th><th>Decisión</th></tr></thead>
+        <tbody>
+          <tr><td>28/04</td><td>Acta nº 19</td><td>Aprobado inicio montaje panel zona A (plantas 4–7)</td></tr>
+          <tr><td>28/04</td><td>Acta nº 19</td><td>DF solicita muestro de anclajes antes de planta 8</td></tr>
+          <tr><td>15/04</td><td>Acta nº 18</td><td>Confirmado proveedor panel composite Alucobond</td></tr>
+          <tr><td>15/04</td><td>Acta nº 18</td><td>Aislamiento lana mineral 100mm validado por DF</td></tr>
+          <tr><td>08/04</td><td>Acta nº 17</td><td>Aprobado replanteo de modulación de panel</td></tr>
+          <tr><td>02/04</td><td>Acta nº 16</td><td>Resuelto problema de condensaciones zona esquina NE</td></tr>
+        </tbody>
+      </table>
+      <p style="margin-top:10px;font-size:13px;color:var(--yellow)">⚠️ Pendiente: muestra de anclajes de planta 8 solicitada el 28/04. No consta respuesta en el sistema.</p>
+    `,
+    citations: [
+      { type: 'acta', source: 'Actas reuniones nº 16–19 · abril 2026', page: 'Múltiples puntos', text: 'Decisiones consolidadas sobre fachada ventilada. Ver actas individuales para contexto completo.' }
+    ],
+    confidence: 91
+  },
+  {
+    user: "Genera un acta de la reunión de hoy a partir de estos puntos:\n1. Cambio de proveedor de carpintería exterior a Schüco\n2. Retraso en entrega de vidrios — nueva fecha 20/06\n3. Se aprueba reducir espesor de aislamiento fachada de 100mm a 60mm por ajuste de costes\n4. Próxima reunión el 10/06",
+    response: () => `
+      <p>He generado el borrador del acta. Antes de mostrártelo, he detectado <strong>1 contradicción</strong> con la documentación existente del proyecto:</p>
+
+      <div style="background:rgba(248,113,113,0.08);border:1px solid rgba(248,113,113,0.3);border-left:3px solid #f87171;border-radius:0 6px 6px 0;padding:12px 14px;margin-bottom:16px;">
+        <div style="font-family:'DM Mono',monospace;font-size:10px;text-transform:uppercase;letter-spacing:0.1em;color:#f87171;margin-bottom:6px;">⚠ Contradicción detectada · Punto 3</div>
+        <div style="font-size:13px;color:var(--text-soft);margin-bottom:6px)">El punto 3 propone reducir el aislamiento de fachada a <strong style="color:var(--text)">60 mm</strong>, pero esto <strong style="color:#f87171">incumple el CTE DB-HE</strong> para zona climática C2, que exige un mínimo de 80 mm (U ≤ 0,56 W/m²K). Además, el aislamiento de 100 mm fue validado por la DF en el acta nº 18 del 15/04/2026.</div>
+        <div style="font-size:12px;color:var(--text-mute)">Fuentes: CTE DB-HE Tabla 2.3 · Acta nº 18 punto 3.2</div>
+      </div>
+
+      <p style="font-size:13px;color:var(--text-soft);margin-bottom:14px">¿Quieres que genere el acta igualmente marcando este punto como pendiente de revisión técnica, o prefieres modificar el punto antes de continuar?</p>
+
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <div class="quick-btn" onclick="showActaDraft()" style="border-color:rgba(79,142,247,0.4);color:var(--accent)">📄 Generar acta con advertencia</div>
+        <div class="quick-btn" onclick="showToast('Editando punto 3...')">✏️ Modificar punto 3 primero</div>
+      </div>
+    `,
+    citations: [
+      { type: 'cte', source: 'CTE DB-HE · Tabla 2.3', page: 'p. 34', text: 'Transmitancia límite fachadas zona C: U ≤ 0,56 W/m²K. Espesor mínimo orientativo lana mineral: 80 mm.' },
+      { type: 'acta', source: 'Acta reunión nº 18 · 15 abril 2026', page: 'Punto 3.2', text: 'La DF valida aislamiento lana mineral 100mm en fachada ventilada. Queda incorporado al proyecto ejecutivo.' }
+    ],
+    confidence: 99
+  }
+];
+
+let msgCount = 0;
+
+function autoResize(el) {
+  el.style.height = 'auto';
+  el.style.height = Math.min(el.scrollHeight, 120) + 'px';
+}
+
+function scrollBottom() {
+  const msgs = document.getElementById('messages');
+  msgs.scrollTop = msgs.scrollHeight;
+}
+
+function sendPreset(i) {
+  const p = presets[i];
+  addUserMsg(p.user);
+  hideSuggestions();
+  setTimeout(() => addTyping(), 400);
+  setTimeout(() => {
+    removeTyping();
+    addAssistantMsg(p.response(), p.citations, p.confidence);
+  }, 1800);
+}
+
+function sendMessage() {
+  const input = document.getElementById('userInput');
+  const text = input.value.trim();
+  if (!text) return;
+  addUserMsg(text);
+  input.value = '';
+  input.style.height = 'auto';
+  hideSuggestions();
+  setTimeout(() => addTyping(), 400);
+  setTimeout(() => {
+    removeTyping();
+    addGenericResponse(text);
+  }, 2000);
+}
+
+function hideSuggestions() {
+  const s = document.getElementById('suggestions');
+  s.style.display = 'none';
+}
+
+function addUserMsg(text) {
+  msgCount++;
+  const time = new Date().toLocaleTimeString('es', {hour:'2-digit', minute:'2-digit'});
+  const div = document.createElement('div');
+  div.className = 'msg user';
+  div.style.animationDelay = '0s';
+  div.innerHTML = `
+    <div class="msg-avatar">JM</div>
+    <div class="msg-content">
+      <div class="msg-bubble">${text}</div>
+      <div class="msg-time">${time}</div>
+    </div>
+  `;
+  document.getElementById('messages').appendChild(div);
+  scrollBottom();
+}
+
+function addTyping() {
+  const div = document.createElement('div');
+  div.className = 'msg assistant';
+  div.id = 'typing-indicator';
+  div.innerHTML = `
+    <div class="msg-avatar">🤖</div>
+    <div class="msg-content">
+      <div class="msg-bubble" style="padding:10px 16px">
+        <div class="typing"><span></span><span></span><span></span></div>
+      </div>
+    </div>
+  `;
+  document.getElementById('messages').appendChild(div);
+  scrollBottom();
+}
+
+function removeTyping() {
+  const t = document.getElementById('typing-indicator');
+  if (t) t.remove();
+}
+
+function addAssistantMsg(html, citations, confidence) {
+  const time = new Date().toLocaleTimeString('es', {hour:'2-digit', minute:'2-digit'});
+
+  let citsHtml = '';
+  if (citations && citations.length) {
+    citsHtml = '<div class="citations">';
+    citations.forEach(c => {
+      citsHtml += `
+        <div class="citation ${c.type}" onclick="showToast('Abriendo: ${c.source}')">
+          <div class="cit-header">
+            <span class="cit-source">${c.source}</span>
+            <span class="cit-page">${c.page}</span>
+          </div>
+          <div class="cit-text">${c.text}</div>
+        </div>
+      `;
+    });
+    citsHtml += '</div>';
+  }
+
+  let confHtml = '';
+  if (confidence) {
+    confHtml = `
+      <div class="confidence">
+        <span>Confianza</span>
+        <div class="conf-bar"><div class="conf-fill" style="width:${confidence}%"></div></div>
+        <span>${confidence}%</span>
+      </div>
+    `;
+  }
+
+  const div = document.createElement('div');
+  div.className = 'msg assistant';
+  div.innerHTML = `
+    <div class="msg-avatar">🤖</div>
+    <div class="msg-content">
+      <div class="msg-bubble">
+        ${html}
+        ${citsHtml}
+        ${confHtml}
+      </div>
+      <div class="msg-time">${time}</div>
+    </div>
+  `;
+  document.getElementById('messages').appendChild(div);
+  scrollBottom();
+}
+
+function addGenericResponse(userText) {
+  addAssistantMsg(
+    `<p>He buscado en los documentos del proyecto una respuesta a tu consulta. En este momento el sistema no tiene suficiente contexto para responder con precisión.</p>
+     <p>Prueba con una de las preguntas de ejemplo en la barra inferior para ver el sistema en acción.</p>`,
+    null, null
+  );
+}
+
+function clearChat() {
+  const msgs = document.getElementById('messages');
+  msgs.innerHTML = `
+    <div class="msg assistant">
+      <div class="msg-avatar">🤖</div>
+      <div class="msg-content">
+        <div class="msg-bubble">
+          <p>Nueva consulta iniciada. ¿Qué quieres buscar en los documentos del proyecto?</p>
+          <div class="quick-actions">
+            <div class="quick-btn" onclick="sendPreset(0)">🏗️ Consultar normativa</div>
+            <div class="quick-btn" onclick="sendPreset(1)">📋 Decisión en acta</div>
+            <div class="quick-btn" onclick="sendPreset(2)">📄 Verificar contrato</div>
+            <div class="quick-btn" onclick="sendPreset(3)">🔍 Trazabilidad fachada</div>
+            <div class="quick-btn" onclick="sendPreset(4)">✍️ Generar acta</div>
+          </div>
+        </div>
+        <div class="msg-time">Ahora</div>
+      </div>
+    </div>
+  `;
+  const s = document.getElementById('suggestions');
+  s.style.display = 'flex';
+}
+
+function showActaDraft() {
+  const html = `
+    <p>Borrador de acta generado. El punto 3 queda marcado como <strong style="color:#f87171">pendiente de revisión técnica</strong>:</p>
+    <div style="background:var(--surface2);border:1px solid var(--border2);border-radius:8px;padding:16px;margin-top:10px;font-size:13px;line-height:1.7">
+      <div style="font-family:'DM Mono',monospace;font-size:10px;color:var(--text-mute);margin-bottom:12px;text-transform:uppercase;letter-spacing:0.1em">ACTA Nº 20 · Torre Residencial Eixample · 27/05/2026</div>
+      <p><strong>Asistentes:</strong> Jordi Martínez (JO), Núria Solà (DF), Pere Vila (Contrata)</p>
+      <p style="margin-top:10px"><strong>1.</strong> Se aprueba el cambio de proveedor de carpintería exterior a <strong>Schüco</strong>. La contrata gestionará la adenda contractual correspondiente antes del 03/06.</p>
+      <p style="margin-top:8px"><strong>2.</strong> Retraso confirmado en entrega de vidrios. Nueva fecha comprometida: <strong>20 de junio de 2026</strong>. La contrata asume posibles penalizaciones según cláusula 7.2 del contrato.</p>
+      <p style="margin-top:8px;padding:8px;background:rgba(248,113,113,0.08);border-left:2px solid #f87171"><strong>3. ⚠️ PENDIENTE REVISIÓN TÉCNICA:</strong> Se plantea reducir espesor de aislamiento de fachada de 100mm a 60mm por ajuste de costes. <em>El sistema ha detectado posible incumplimiento de CTE DB-HE (zona C2, U ≤ 0,56 W/m²K) y contradicción con acta nº 18. Requiere validación técnica antes de incorporar al proyecto.</em></p>
+      <p style="margin-top:8px"><strong>4.</strong> Próxima reunión de obra: <strong>10 de junio de 2026</strong>, misma sala, 10:00h.</p>
+    </div>
+    <div style="display:flex;gap:8px;margin-top:12px;flex-wrap:wrap">
+      <div class="quick-btn" onclick="showToast('Exportando PDF...')">📥 Exportar PDF</div>
+      <div class="quick-btn" onclick="showToast('Enviando a participantes...')">📧 Enviar a participantes</div>
+    </div>
+  `;
+  addAssistantMsg(html, [], null);
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = '✓ ' + msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2000);
+}
+</script>
+</body>
+</html>

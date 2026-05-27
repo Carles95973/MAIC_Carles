@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "maic-m8t1"
+version = "0.1.0"
+description = ""
+authors = ["Carles95973 <carles.farre.serra@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.14"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
