@@ -1,0 +1,3558 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_25._gestion_de_las_estructuras_de_acero_durante_su_vida_de_servicio",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1055797264759972812,
+    "filename": "capitulo_25._gestion_de_las_estructuras_de_acero_durante_su_vida_de_servicio.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/98"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 421.94,
+            "r": 128.74729200000002,
+            "b": 412.09946961325966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Capítulo 25",
+      "text": "Capítulo 25"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 393.5,
+            "r": 524.556888,
+            "b": 383.65946961325966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Gestión de las estructuras de acero durante su vida de servicio",
+      "text": "Gestión de las estructuras de acero durante su vida de servicio"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "398",
+      "text": "398"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 148.92,
+            "t": 735.375,
+            "r": 457.14086100000014,
+            "b": 726.7244585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Evaluación de estructuras existentes de acero",
+      "text": "Evaluación de estructuras existentes de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.52,
+            "t": 708.08,
+            "r": 246.132,
+            "b": 700.6811049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Objeto y planteamiento",
+      "text": "Objeto y planteamiento",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 682.635,
+            "r": 553.0926660000002,
+            "b": 637.914182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            368
+          ]
+        }
+      ],
+      "orig": "La evaluación de estructuras existentes de acero persigue el objetivo de cuantificar los niveles de seguridad de las estructuras y estimar la vida útil residual. Eso permite también identificar las zonas más sensibles o de mayores riesgos y, consiguientemente, orientar las actuaciones de reparación y refuerzo a las que se refieren los Artículos 105 y 106 siguientes.",
+      "text": "La evaluación de estructuras existentes de acero persigue el objetivo de cuantificar los niveles de seguridad de las estructuras y estimar la vida útil residual. Eso permite también identificar las zonas más sensibles o de mayores riesgos y, consiguientemente, orientar las actuaciones de reparación y refuerzo a las que se refieren los Artículos 105 y 106 siguientes."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 626.115,
+            "r": 552.7932820000001,
+            "b": 606.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "En paralelo con el formato de proyecto y comprobación de estructuras de nueva planta, se mantiene, para la evaluación de estructuras existentes de acero, el marco de los Estados Límite.",
+      "text": "En paralelo con el formato de proyecto y comprobación de estructuras de nueva planta, se mantiene, para la evaluación de estructuras existentes de acero, el marco de los Estados Límite."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 594.795,
+            "r": 552.8610359999998,
+            "b": 550.074182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            384
+          ]
+        }
+      ],
+      "orig": "Cabe advertir, no obstante, que en el contexto general del mantenimiento de las estructuras, descrito en el Artículo 24, la comprobación de los Estados Limites de Servicio (ELS) no precisa de evaluación analítica, puesto que puede deducirse de los resultados del conjunto de inspecciones que se haya llevado a cabo en la estructura (rutinarias, principales y, en su caso, especiales).",
+      "text": "Cabe advertir, no obstante, que en el contexto general del mantenimiento de las estructuras, descrito en el Artículo 24, la comprobación de los Estados Limites de Servicio (ELS) no precisa de evaluación analítica, puesto que puede deducirse de los resultados del conjunto de inspecciones que se haya llevado a cabo en la estructura (rutinarias, principales y, en su caso, especiales)."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 538.155,
+            "r": 552.9609379999998,
+            "b": 506.03418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "Por lo tanto, la evaluación de las estructuras existentes de acero se ciñe al ámbito de los Estados Límite Últimos (ELU). La satisfacción de cualquiera de los estados limite últimos obedece a la comprobación de la inecuación",
+      "text": "Por lo tanto, la evaluación de las estructuras existentes de acero se ciñe al ámbito de los Estados Límite Últimos (ELU). La satisfacción de cualquiera de los estados limite últimos obedece a la comprobación de la inecuación"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 280.08,
+            "t": 494.235,
+            "r": 315.38975999999997,
+            "b": 486.9486408839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Ed ≤ Rd",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 475.515,
+            "r": 552.7231610000002,
+            "b": 456.11418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "como en el proyecto de obra nueva. En caso contrario, salvo que se plantee otro criterio de análisis estructural deberá plantearse una intervención de refuerzo.",
+      "text": "como en el proyecto de obra nueva. En caso contrario, salvo que se plantee otro criterio de análisis estructural deberá plantearse una intervención de refuerzo."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 444.315,
+            "r": 553.0154560000002,
+            "b": 374.274182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            550
+          ]
+        }
+      ],
+      "orig": "Por su parte, la determinación de la vida útil residual de una construcción de acero consistirá el deducir el período de tiempo, desde el instante de la evaluación, en el que la estructura o alguna de sus partes tarda en alcanzar alguno de los ELS o ELU identificados ya en la fase de proyecto o bien en el instante de evaluación. Los umbrales de aceptación, tanto en ELS como en ELU, están implícitos en las bases de proyecto y, en su caso, en el Programa de Inspección y Mantenimiento, como se explicita en el Capítulo 6 de este Código Estructural.",
+      "text": "Por su parte, la determinación de la vida útil residual de una construcción de acero consistirá el deducir el período de tiempo, desde el instante de la evaluación, en el que la estructura o alguna de sus partes tarda en alcanzar alguno de los ELS o ELU identificados ya en la fase de proyecto o bien en el instante de evaluación. Los umbrales de aceptación, tanto en ELS como en ELU, están implícitos en las bases de proyecto y, en su caso, en el Programa de Inspección y Mantenimiento, como se explicita en el Capítulo 6 de este Código Estructural."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.52,
+            "t": 355.88,
+            "r": 511.8000000000005,
+            "b": 348.4811049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Principios básicos del análisis de construcciones existentes de acero",
+      "text": "Principios básicos del análisis de construcciones existentes de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 336.555,
+            "r": 552.9834689999998,
+            "b": 291.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            393
+          ]
+        }
+      ],
+      "orig": "Dado que la modificación, reparación y el refuerzo de una estructura existente puede resultar muy costosa, cabe plantearse la alternativa, no tan frecuente en la fase de proyecto de obra nueva, de utilizar criterios y procedimientos más sofisticados, manteniéndose una lógica proporcionalidad entre la ingeniería asociada a estos refinamientos, el coste previsible y los beneficios esperables.",
+      "text": "Dado que la modificación, reparación y el refuerzo de una estructura existente puede resultar muy costosa, cabe plantearse la alternativa, no tan frecuente en la fase de proyecto de obra nueva, de utilizar criterios y procedimientos más sofisticados, manteniéndose una lógica proporcionalidad entre la ingeniería asociada a estos refinamientos, el coste previsible y los beneficios esperables."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 280.03499999999997,
+            "r": 552.9801600000002,
+            "b": 247.91418232044202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "Para el análisis de construcciones metálicas existentes, como señala el Artículo 25, es posible utilizar tanto un formato semi-probabilista con coeficientes parciales modificados, como un planteamiento probabilista.",
+      "text": "Para el análisis de construcciones metálicas existentes, como señala el Artículo 25, es posible utilizar tanto un formato semi-probabilista con coeficientes parciales modificados, como un planteamiento probabilista."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 235.995,
+            "r": 553.1147260000002,
+            "b": 165.4804376367615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            629
+          ]
+        }
+      ],
+      "orig": "El procedimiento de análisis estructural en estado limite último para la deducción de esfuerzos puede ser realizado a partir de modelos que se basan en el comportamiento elástico lineal de los materiales, en la teoría de la plasticidad (también denominado 'análisis limite' o plástico) o procedimientos de análisis no lineal, como los que se plantean en el Capítulo 5 de los Anejos 22 y 29. En todo caso, cualquiera de los análisis estructurales mencionados, deberán incluir los deterioros o daños detectados en la estructura. Este planteamiento responderá al criterio clásico de comprobación planteado en la inecuación Ed ≤ Rd .",
+      "text": "El procedimiento de análisis estructural en estado limite último para la deducción de esfuerzos puede ser realizado a partir de modelos que se basan en el comportamiento elástico lineal de los materiales, en la teoría de la plasticidad (también denominado 'análisis limite' o plástico) o procedimientos de análisis no lineal, como los que se plantean en el Capítulo 5 de los Anejos 22 y 29. En todo caso, cualquiera de los análisis estructurales mencionados, deberán incluir los deterioros o daños detectados en la estructura. Este planteamiento responderá al criterio clásico de comprobación planteado en la inecuación Ed ≤ Rd ."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 147.68000000000006,
+            "r": 322.1520000000001,
+            "b": 140.28110497237572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Propiedades de los materiales y geometría",
+      "text": "Propiedades de los materiales y geometría",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.84,
+            "t": 128.35500000000002,
+            "r": 472.87762299999986,
+            "b": 121.55418232044201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Las propiedades de los materiales y la geometría admiten tres niveles de definición:",
+      "text": "Las propiedades de los materiales y la geometría admiten tres niveles de definición:"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 67.2,
+            "t": 109.755,
+            "r": 552.9845059999999,
+            "b": 77.63418232044205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "a) Valores tomados de la documentación del proyecto (resultados de los ensayos de control, valores definidos en los planos y en las bases de cálculo, resultados de ensayo posteriores en el contexto de inspecciones especiales realizadas en el pasado, etc.).",
+      "text": "Valores tomados de la documentación del proyecto (resultados de los ensayos de control, valores definidos en los planos y en las bases de cálculo, resultados de ensayo posteriores en el contexto de inspecciones especiales realizadas en el pasado, etc.).",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "399",
+      "text": "399"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.2,
+            "t": 736.635,
+            "r": 553.0970119999998,
+            "b": 704.5141823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "b) Valores deducidos de una campaña de ensayos no destructivos (ultrasonidos, líquidos penetrantes, radiografías, etc.), acompañada de una caracterización completa de la geometría de las piezas y de las uniones correspondientes.",
+      "text": "Valores deducidos de una campaña de ensayos no destructivos (ultrasonidos, líquidos penetrantes, radiografías, etc.), acompañada de una caracterización completa de la geometría de las piezas y de las uniones correspondientes.",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.2,
+            "t": 692.715,
+            "r": 552.993187,
+            "b": 673.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "c) Extracción de probetas y ensayos en laboratorio, tanto del acero de chapas y perfiles como de tornillos y otros elementos de unión.",
+      "text": "Extracción de probetas y ensayos en laboratorio, tanto del acero de chapas y perfiles como de tornillos y otros elementos de unión.",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 661.395,
+            "r": 553.1158289999998,
+            "b": 616.674182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "El alcance de la investigación necesaria para caracterizar perfiles, chapas y elementos de unión dependerá de la respuesta obtenida en el análisis previo, del tipo de mecanismo de fallo previsible y de lo determinante que resulte la caracterización del material en la capacidad portante general de la estructura o la pieza.",
+      "text": "El alcance de la investigación necesaria para caracterizar perfiles, chapas y elementos de unión dependerá de la respuesta obtenida en el análisis previo, del tipo de mecanismo de fallo previsible y de lo determinante que resulte la caracterización del material en la capacidad portante general de la estructura o la pieza."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 604.755,
+            "r": 552.8958610000003,
+            "b": 585.354182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "Asimismo, será preciso incorporar coeficientes correctores a la geometría de partida en función del estado de deterioro de las piezas, lo que puede afectar a la reducción de su capacidad resistente.",
+      "text": "Asimismo, será preciso incorporar coeficientes correctores a la geometría de partida en función del estado de deterioro de las piezas, lo que puede afectar a la reducción de su capacidad resistente."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.6,
+            "t": 566.96,
+            "r": 190.056,
+            "b": 559.5611049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Análisis estructural",
+      "text": "Análisis estructural",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 547.635,
+            "r": 552.8947580000001,
+            "b": 528.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Los criterios y procedimientos de análisis estructural responderán a los principios establecidos en el Capítulo 20.",
+      "text": "Los criterios y procedimientos de análisis estructural responderán a los principios establecidos en el Capítulo 20."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.48,
+            "t": 491.175,
+            "r": 552.9629550000004,
+            "b": 466.32445856353587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "Criterios generales para la reparación de estructuras de acero",
+      "text": "Criterios generales para la reparación de estructuras de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 447.68,
+            "r": 226.69199999999995,
+            "b": 440.2811049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "105.1. Contexto general y objeto",
+      "text": "105.1. Contexto general y objeto",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 428.35499999999996,
+            "r": 552.9150829999995,
+            "b": 383.634182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            368
+          ]
+        }
+      ],
+      "orig": "El proyecto de reparación debe ser el resultado de un trabajo previo de estudio de la información disponible, de un análisis adecuado de evaluación estructural y de vida útil residual y, por tanto, de un diagnóstico preciso, que dictamine la causa o causas que explican los daños observados y que, eventualmente, condicionan su nivel de seguridad y vida útil residual.",
+      "text": "El proyecto de reparación debe ser el resultado de un trabajo previo de estudio de la información disponible, de un análisis adecuado de evaluación estructural y de vida útil residual y, por tanto, de un diagnóstico preciso, que dictamine la causa o causas que explican los daños observados y que, eventualmente, condicionan su nivel de seguridad y vida útil residual."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 371.835,
+            "r": 552.982366,
+            "b": 326.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            360
+          ]
+        }
+      ],
+      "orig": "Consiguientemente, la definición de cualquier tipo de reparación exige la detección previa de los tipos de deterioros presentes, la comprensión de los mecanismos que han dado lugar a cada deterioro o daño y las actuaciones correspondientes, incluyendo la prognosis de durabilidad de las mismas, aspecto asociado a la vida útil adicional que exija la propiedad.",
+      "text": "Consiguientemente, la definición de cualquier tipo de reparación exige la detección previa de los tipos de deterioros presentes, la comprensión de los mecanismos que han dado lugar a cada deterioro o daño y las actuaciones correspondientes, incluyendo la prognosis de durabilidad de las mismas, aspecto asociado a la vida útil adicional que exija la propiedad."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 315.19499999999994,
+            "r": 552.8616679999999,
+            "b": 295.7941823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "El objeto de este artículo es presentar la sistemática que debe seguirse para proyectar y ejecutar la reparación de elementos estructurales de acero.",
+      "text": "El objeto de este artículo es presentar la sistemática que debe seguirse para proyectar y ejecutar la reparación de elementos estructurales de acero."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 277.4,
+            "r": 423.6240000000002,
+            "b": 270.00110497237574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "105.2. Clasificación de los deterioros y daños objeto de reparación",
+      "text": "105.2. Clasificación de los deterioros y daños objeto de reparación",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 258.07500000000005,
+            "r": 552.8616680000002,
+            "b": 238.67418232044201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "A los efectos de las estructuras existentes de acero, los deterioros objeto de reparación se pueden clasificar en dos grandes grupos:",
+      "text": "A los efectos de las estructuras existentes de acero, los deterioros objeto de reparación se pueden clasificar en dos grandes grupos:"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.2,
+            "t": 226.755,
+            "r": 552.9733329999999,
+            "b": 207.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "a) Deterioros y daños producidos por los procesos de degradación del propio acero por acciones mecánicas, físico-ambientales, químicas, etc.",
+      "text": "Deterioros y daños producidos por los procesos de degradación del propio acero por acciones mecánicas, físico-ambientales, químicas, etc.",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.2,
+            "t": 195.55500000000006,
+            "r": 378.79419099999956,
+            "b": 188.75418232044194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "b) Deterioros y daños producidos en las uniones de las piezas.",
+      "text": "Deterioros y daños producidos en las uniones de las piezas.",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 170.36,
+            "r": 212.90399999999997,
+            "b": 162.96110497237567,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "105.3. Proyecto de reparación",
+      "text": "105.3. Proyecto de reparación",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.84,
+            "t": 151.03500000000008,
+            "r": 473.5934699999998,
+            "b": 144.23418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Para la redacción del proyecto de reparación, se seguirá el siguiente procedimiento:",
+      "text": "Para la redacción del proyecto de reparación, se seguirá el siguiente procedimiento:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.2,
+            "t": 132.43499999999995,
+            "r": 552.9843629999999,
+            "b": 112.91418232044202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "1. Inspección especial previa que, con carácter general, se habrá realizado antes de concluir en la necesidad de acometer un proyecto de reparación, como prevé el Artículo 24.",
+      "text": "Inspección especial previa que, con carácter general, se habrá realizado antes de concluir en la necesidad de acometer un proyecto de reparación, como prevé el Artículo 24.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.2,
+            "t": 101.11500000000001,
+            "r": 552.9821569999999,
+            "b": 81.71418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "2. Mapa de daños o deterioros, como resultado de la inspección especial, asociado a un catálogo de daños o deterioros elaborado desde la perspectiva de la solución de reparación y no tanto",
+      "text": "Mapa de daños o deterioros, como resultado de la inspección especial, asociado a un catálogo de daños o deterioros elaborado desde la perspectiva de la solución de reparación y no tanto",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "400",
+      "text": "400"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.2,
+            "t": 736.635,
+            "r": 552.858764,
+            "b": 717.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "desde la etiología de los deterioros o daños. Dicho mapa representará, sobre planos, la ubicación y la identificación de los diferentes tipos de daño, con referencia explícita al catálogo de daños.",
+      "text": "desde la etiología de los deterioros o daños. Dicho mapa representará, sobre planos, la ubicación y la identificación de los diferentes tipos de daño, con referencia explícita al catálogo de daños."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.2,
+            "t": 705.3149999999999,
+            "r": 552.9689209999998,
+            "b": 685.914182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "3. Formulación de un catálogo de soluciones que describa, para cada uno de los daños y deterioros identificados en ese catálogo, la solución prevista para su reparación.",
+      "text": "Formulación de un catálogo de soluciones que describa, para cada uno de los daños y deterioros identificados en ese catálogo, la solución prevista para su reparación.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 673.995,
+            "r": 552.9239069999996,
+            "b": 629.2741823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "En función de los criterios de vida útil adicional que se desee otorgar a la estructura de acero, de la importancia del elemento objeto de reparación, de su accesibilidad o de otras consideraciones (estéticas, históricas o patrimoniales), la propiedad convendrá con el proyectista si las soluciones de reparación tienen carácter:",
+      "text": "En función de los criterios de vida útil adicional que se desee otorgar a la estructura de acero, de la importancia del elemento objeto de reparación, de su accesibilidad o de otras consideraciones (estéticas, históricas o patrimoniales), la propiedad convendrá con el proyectista si las soluciones de reparación tienen carácter:"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 616.635,
+            "r": 553.1025270000001,
+            "b": 584.6341823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": " Activo o preventivo, asociado a la idea de impedir el deterioro, en lo sucesivo, del elemento en cuestión, lo que implica estrategias de protección con elementos de sacrificio o con sistemas de tan lento deterioro que, en la práctica, su degradación sea irrelevante; o",
+      "text": " Activo o preventivo, asociado a la idea de impedir el deterioro, en lo sucesivo, del elemento en cuestión, lo que implica estrategias de protección con elementos de sacrificio o con sistemas de tan lento deterioro que, en la práctica, su degradación sea irrelevante; o",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 571.995,
+            "r": 552.921635,
+            "b": 552.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": " pasivo, asociado a la idea de que, al cabo de un cierto tiempo, será necesario de nuevo proceder a una reparación, cuando se haya agotado la vida útil adicional conferida tras la reparación.",
+      "text": " pasivo, asociado a la idea de que, al cabo de un cierto tiempo, será necesario de nuevo proceder a una reparación, cuando se haya agotado la vida útil adicional conferida tras la reparación.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 540.675,
+            "r": 552.9944989999999,
+            "b": 495.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "En el proyecto de reparación, los planos podrán incluir una síntesis del método de reparación propuesto por el proyectista. El pliego de condiciones técnicas particulares contendrá la identificación de las unidades correspondientes, las especificaciones de los materiales, la forma de ejecución y la definición de la forma de medición y abono.",
+      "text": "En el proyecto de reparación, los planos podrán incluir una síntesis del método de reparación propuesto por el proyectista. El pliego de condiciones técnicas particulares contendrá la identificación de las unidades correspondientes, las especificaciones de los materiales, la forma de ejecución y la definición de la forma de medición y abono."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 478.155,
+            "r": 276.2562109999997,
+            "b": 471.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "105.3.1. Catálogo de daños y mapa de daños",
+      "text": "105.3.1. Catálogo de daños y mapa de daños",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 459.435,
+            "r": 552.8572560000003,
+            "b": 440.03418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Con el fin de identificar de manera inequívoca el estado de la estructura, el proyecto de reparación contendrá un catálogo de daños que, orientado a la elaboración del mapa de daños, incluirá:",
+      "text": "Con el fin de identificar de manera inequívoca el estado de la estructura, el proyecto de reparación contendrá un catálogo de daños que, orientado a la elaboración del mapa de daños, incluirá:"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 427.395,
+            "r": 552.937077,
+            "b": 407.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": " una denominación abreviada (un código corto de letras y números) para que se pueda incorporar al mapa de daños;",
+      "text": " una denominación abreviada (un código corto de letras y números) para que se pueda incorporar al mapa de daños;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 395.235,
+            "r": 482.2336739999998,
+            "b": 388.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": " una descripción sucinta pero suficiente del deterioro o daño objeto de reparación;",
+      "text": " una descripción sucinta pero suficiente del deterioro o daño objeto de reparación;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 375.91499999999996,
+            "r": 547.5621580000001,
+            "b": 369.11418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": " unas fotografías o croquis suficientemente descriptivos del deterioro o daño correspondiente; y",
+      "text": " unas fotografías o croquis suficientemente descriptivos del deterioro o daño correspondiente; y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 356.59499999999997,
+            "r": 553.099218,
+            "b": 324.47418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": " una identificación de la causa o causas que han producido estos deterioros o daños, aunque tengan orígenes diferentes pero manifestaciones similares y, sobre todo, se traten con la misma solución terapéutica.",
+      "text": " una identificación de la causa o causas que han producido estos deterioros o daños, aunque tengan orígenes diferentes pero manifestaciones similares y, sobre todo, se traten con la misma solución terapéutica.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 312.67499999999995,
+            "r": 552.9404519999998,
+            "b": 280.5541823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "El mapa de daños deberá incluir asimismo las referencias suficientes como para realizar la medición correspondiente y, en función de la posición de la zona objeto de reparación y de su accesibilidad, elaborar el correspondiente presupuesto.",
+      "text": "El mapa de daños deberá incluir asimismo las referencias suficientes como para realizar la medición correspondiente y, en función de la posición de la zona objeto de reparación y de su accesibilidad, elaborar el correspondiente presupuesto."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 262.755,
+            "r": 284.3025959999998,
+            "b": 255.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "105.3.2. Catálogo de soluciones de reparación",
+      "text": "105.3.2. Catálogo de soluciones de reparación",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 244.03500000000008,
+            "r": 553.018765,
+            "b": 211.91418232044202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "El proyecto contendrá una definición pormenorizada de los procedimientos de reparación de las estructuras metálicas de acero afectadas por todos y cada uno de los daños y deterioros tipificados en el catálogo de daños y localizado en el correspondiente mapa de daños.",
+      "text": "El proyecto contendrá una definición pormenorizada de los procedimientos de reparación de las estructuras metálicas de acero afectadas por todos y cada uno de los daños y deterioros tipificados en el catálogo de daños y localizado en el correspondiente mapa de daños."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 193.64,
+            "r": 286.092,
+            "b": 186.24110497237564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "105.4. Plan de Inspección y Mantenimiento",
+      "text": "105.4. Plan de Inspección y Mantenimiento",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 174.31500000000005,
+            "r": 552.9636150000001,
+            "b": 142.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "En consonancia con los principios establecidos en el Artículo 24, el proyecto de reparación contendrá, como el de obra nueva, un plan de inspección y mantenimiento con los contenidos referidos a las actuaciones de reparación emprendidas, con mención específica a:",
+      "text": "En consonancia con los principios establecidos en el Artículo 24, el proyecto de reparación contendrá, como el de obra nueva, un plan de inspección y mantenimiento con los contenidos referidos a las actuaciones de reparación emprendidas, con mención específica a:"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 129.55500000000006,
+            "r": 364.74983499999985,
+            "b": 122.75418232044194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": " La vida útil adicional prevista para la estructura reparada;",
+      "text": " La vida útil adicional prevista para la estructura reparada;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 110.11500000000001,
+            "r": 501.19424399999974,
+            "b": 103.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": " la frecuencia deseable de las inspecciones de seguimiento de la estructura reparada;",
+      "text": " la frecuencia deseable de las inspecciones de seguimiento de la estructura reparada;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 90.79499999999996,
+            "r": 499.2717149999996,
+            "b": 83.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": " los criterios de inspección específicos que, en su caso, deban seguir los inspectores;",
+      "text": " los criterios de inspección específicos que, en su caso, deban seguir los inspectores;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 71.35500000000002,
+            "r": 547.6316469999998,
+            "b": 64.55418232044201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": " las actuaciones de mantenimiento ordinario o especializado que, en su caso, deban realizarse.",
+      "text": " las actuaciones de mantenimiento ordinario o especializado que, en su caso, deban realizarse.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "401",
+      "text": "401"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 736.635,
+            "r": 552.983469,
+            "b": 691.914182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "De manera igualmente similar al caso de proyecto de obra nueva, una vez concluidos los trabajos, la dirección facultativa será responsable de la redacción de la actualización del plan de mantenimiento incluido en el proyecto de reparación. Dicho plan se entregará a la propiedad para la gestión de la conservación de la obra.",
+      "text": "De manera igualmente similar al caso de proyecto de obra nueva, una vez concluidos los trabajos, la dirección facultativa será responsable de la redacción de la actualización del plan de mantenimiento incluido en el proyecto de reparación. Dicho plan se entregará a la propiedad para la gestión de la conservación de la obra."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 148.92,
+            "t": 654.735,
+            "r": 545.8174760000005,
+            "b": 646.0844585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Criterios generales para el refuerzo de estructuras de acero",
+      "text": "Criterios generales para el refuerzo de estructuras de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 627.44,
+            "r": 226.69199999999995,
+            "b": 620.0411049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "106.1. Contexto general y objeto",
+      "text": "106.1. Contexto general y objeto",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 608.115,
+            "r": 552.979057,
+            "b": 550.794182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            443
+          ]
+        }
+      ],
+      "orig": "Las actuaciones de refuerzo de estructuras de acero comparten con las de reparación de estructuras del mismo material la necesidad de haber desarrollado un trabajo previo de estudio de la información disponible, de un análisis adecuado de evaluación estructural y de vida útil residual y, por tanto, del punto de partida, en términos de prestaciones y vida útil residual, para el correcto planteamiento del alcance y procedimiento de refuerzo.",
+      "text": "Las actuaciones de refuerzo de estructuras de acero comparten con las de reparación de estructuras del mismo material la necesidad de haber desarrollado un trabajo previo de estudio de la información disponible, de un análisis adecuado de evaluación estructural y de vida útil residual y, por tanto, del punto de partida, en términos de prestaciones y vida útil residual, para el correcto planteamiento del alcance y procedimiento de refuerzo."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 538.875,
+            "r": 552.9609379999998,
+            "b": 519.474182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "El objeto de este artículo es establecer la sistemática que debe seguirse a la hora de proyectar y ejecutar el refuerzo de elementos estructurales de acero.",
+      "text": "El objeto de este artículo es establecer la sistemática que debe seguirse a la hora de proyectar y ejecutar el refuerzo de elementos estructurales de acero."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 501.08,
+            "r": 437.6400000000003,
+            "b": 493.6811049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "106.2. Clasificación de los refuerzos estructurales en piezas de acero",
+      "text": "106.2. Clasificación de los refuerzos estructurales en piezas de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 481.755,
+            "r": 552.8605650000003,
+            "b": 462.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "A los efectos de las estructuras existentes, los trabajos de refuerzo que cabe emprender se pueden clasificar en dos grandes grupos:",
+      "text": "A los efectos de las estructuras existentes, los trabajos de refuerzo que cabe emprender se pueden clasificar en dos grandes grupos:"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.2,
+            "t": 450.435,
+            "r": 552.9115649999998,
+            "b": 443.634182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "a) Incremento de la capacidad de carga sin modificación de las secciones del elemento estructural.",
+      "text": "Incremento de la capacidad de carga sin modificación de las secciones del elemento estructural.",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.2,
+            "t": 431.835,
+            "r": 406.87105599999956,
+            "b": 425.03418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "b) Incremento de la capacidad resistente de la sección o de la pieza.",
+      "text": "Incremento de la capacidad resistente de la sección o de la pieza.",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 406.76,
+            "r": 347.40000000000015,
+            "b": 399.3611049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "106.3. Procedimientos de refuerzo de piezas de acero",
+      "text": "106.3. Procedimientos de refuerzo de piezas de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 387.435,
+            "r": 552.842917,
+            "b": 367.91418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "A partir de la clasificación realizada en el apartado 106.2, se plantean los dos procedimientos siguientes de refuerzo de estructuras existentes de acero.",
+      "text": "A partir de la clasificación realizada en el apartado 106.2, se plantean los dos procedimientos siguientes de refuerzo de estructuras existentes de acero."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 356.115,
+            "r": 552.987881,
+            "b": 311.39418232044204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "La valoración estructural de todos los estados posibles, el inicial, los de las fases constructivas y el final requieren de un pormenorizado estudio, normalmente más complejo que el de las estructuras de nueva ejecución, que incorpora la necesidad de modelizar adecuadamente nuevos materiales y procesos constructivos o estados de solicitación que es preciso considerar cuidadosamente.",
+      "text": "La valoración estructural de todos los estados posibles, el inicial, los de las fases constructivas y el final requieren de un pormenorizado estudio, normalmente más complejo que el de las estructuras de nueva ejecución, que incorpora la necesidad de modelizar adecuadamente nuevos materiales y procesos constructivos o estados de solicitación que es preciso considerar cuidadosamente."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 293.4749999999999,
+            "r": 303.13080599999984,
+            "b": 286.674182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "106.3.1. Refuerzo sin alterar la sección de la pieza",
+      "text": "106.3.1. Refuerzo sin alterar la sección de la pieza",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 274.875,
+            "r": 552.8632419999999,
+            "b": 230.15418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "Es una estrategia que afecta al esquema estático global de la estructura y conduce a disminuir las solicitaciones del elemento afectado. Ello puede lograrse, por ejemplo, disminuyendo la carga muerta o sustituyéndola por soluciones ligeras, disponiendo apoyos intermedios en los vanos, o bien haciendo uso de pretensado exterior.",
+      "text": "Es una estrategia que afecta al esquema estático global de la estructura y conduce a disminuir las solicitaciones del elemento afectado. Ello puede lograrse, por ejemplo, disminuyendo la carga muerta o sustituyéndola por soluciones ligeras, disponiendo apoyos intermedios en los vanos, o bien haciendo uso de pretensado exterior."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 218.235,
+            "r": 552.867183,
+            "b": 186.11418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "Esta forma de proceder obliga al proyectista a identificar los modos de fallo previsibles, distintos, en general, de los correspondientes al esquema estático de partida, y a justificar la idoneidad de la solución, tanto en ELS como en ELU.",
+      "text": "Esta forma de proceder obliga al proyectista a identificar los modos de fallo previsibles, distintos, en general, de los correspondientes al esquema estático de partida, y a justificar la idoneidad de la solución, tanto en ELS como en ELU."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 168.31500000000005,
+            "r": 304.34300299999984,
+            "b": 161.51418232044193,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "106.3.2. Refuerzo aplicado a la sección de la pieza",
+      "text": "106.3.2. Refuerzo aplicado a la sección de la pieza",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 149.71499999999992,
+            "r": 552.84402,
+            "b": 130.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Se suele materializar con chapas o perfiles soldados o conectados mediante tornillos o roblones (excepcionalmente).",
+      "text": "Se suele materializar con chapas o perfiles soldados o conectados mediante tornillos o roblones (excepcionalmente)."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 118.39499999999998,
+            "r": 552.8418139999999,
+            "b": 98.87418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "También esta solución exige la identificación de los modos de fallo previsibles y sus correspondientes implicaciones en ELS y ELU, tanto en las piezas originales como en las piezas añadidas o en su conexión.",
+      "text": "También esta solución exige la identificación de los modos de fallo previsibles y sus correspondientes implicaciones en ELS y ELU, tanto en las piezas originales como en las piezas añadidas o en su conexión."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 87.07500000000005,
+            "r": 552.8385049999998,
+            "b": 67.67418232044201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Para la elección de procedimiento más idóneo de refuerzo, se deberán tener en cuenta aspectos como:",
+      "text": "Para la elección de procedimiento más idóneo de refuerzo, se deberán tener en cuenta aspectos como:"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "402",
+      "text": "402"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 735.795,
+            "r": 359.24145299999986,
+            "b": 728.994182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": " La entrada en carga y los mecanismos de transferencia.",
+      "text": " La entrada en carga y los mecanismos de transferencia.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 716.355,
+            "r": 410.5971329999998,
+            "b": 709.554182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": " La historia de cargas previa y la derivada del proceso constructivo.",
+      "text": " La historia de cargas previa y la derivada del proceso constructivo.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 697.035,
+            "r": 256.5069299999997,
+            "b": 690.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": " Otros condicionantes de ejecución.",
+      "text": " Otros condicionantes de ejecución.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 671.96,
+            "r": 198.71999999999997,
+            "b": 664.5611049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "106.4. Proyecto de refuerzo",
+      "text": "106.4. Proyecto de refuerzo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 652.635,
+            "r": 552.9124060000003,
+            "b": 633.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "La redacción de los proyectos de refuerzo seguirá, como criterio general, el siguiente orden, coherente con los principios establecidos en este Código Estructural:",
+      "text": "La redacción de los proyectos de refuerzo seguirá, como criterio general, el siguiente orden, coherente con los principios establecidos en este Código Estructural:"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 621.3149999999999,
+            "r": 553.1036300000004,
+            "b": 576.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "1. Inspección especial previa que, con carácter general, se habrá realizado antes de concluir en la necesidad de acometer un proyecto de refuerzo, como prevé el Artículo 24. Especialmente importante en este punto es valorar el nivel de seguridad, porque de éste depende el alcance y magnitud del refuerzo.",
+      "text": "Inspección especial previa que, con carácter general, se habrá realizado antes de concluir en la necesidad de acometer un proyecto de refuerzo, como prevé el Artículo 24. Especialmente importante en este punto es valorar el nivel de seguridad, porque de éste depende el alcance y magnitud del refuerzo.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 564.795,
+            "r": 553.0412999999998,
+            "b": 532.674182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "2. Estudio de alternativas de refuerzo, con el fin de disponer de distintas posibilidades de refuerzo, con sus ventajas en inconvenientes, incluidas las fases de construcción y de mantenimiento posterior.",
+      "text": "Estudio de alternativas de refuerzo, con el fin de disponer de distintas posibilidades de refuerzo, con sus ventajas en inconvenientes, incluidas las fases de construcción y de mantenimiento posterior.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 520.875,
+            "r": 552.9669820000001,
+            "b": 501.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "3. Redacción, propiamente dicha, de los documentos del proyecto, cuyo carácter es ya relativamente convencional.",
+      "text": "Redacción, propiamente dicha, de los documentos del proyecto, cuyo carácter es ya relativamente convencional.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 483.08,
+            "r": 354.732,
+            "b": 475.6811049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "106.5. Plan y Programa de Inspección y Mantenimiento",
+      "text": "106.5. Plan y Programa de Inspección y Mantenimiento",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 463.755,
+            "r": 552.9636150000001,
+            "b": 431.634182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "En consonancia con los principios establecidos en el Artículo 24, el proyecto de refuerzo contendrá, como el de obra nueva, un plan de inspección y mantenimiento con los contenidos referidos a las actuaciones de refuerzo emprendidas, con mención específica a:",
+      "text": "En consonancia con los principios establecidos en el Artículo 24, el proyecto de refuerzo contendrá, como el de obra nueva, un plan de inspección y mantenimiento con los contenidos referidos a las actuaciones de refuerzo emprendidas, con mención específica a:"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 418.995,
+            "r": 553.0903939999998,
+            "b": 399.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": " La vida útil adicional prevista para la estructura reforzada en su conjunto y la de sus elementos parciales, en su caso;",
+      "text": " La vida útil adicional prevista para la estructura reforzada en su conjunto y la de sus elementos parciales, en su caso;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 386.835,
+            "r": 503.5943719999998,
+            "b": 380.03418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": " la frecuencia deseable de las inspecciones de seguimiento de la estructura reforzada;",
+      "text": " la frecuencia deseable de las inspecciones de seguimiento de la estructura reforzada;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 367.515,
+            "r": 505.5246219999997,
+            "b": 360.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": " la necesidad, eventualmente, de disponer un sistema de auscultación de seguimiento;",
+      "text": " la necesidad, eventualmente, de disponer un sistema de auscultación de seguimiento;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 348.075,
+            "r": 499.2717149999996,
+            "b": 341.274182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": " los criterios de inspección específicos que, en su caso, deban seguir los inspectores;",
+      "text": " los criterios de inspección específicos que, en su caso, deban seguir los inspectores;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 328.755,
+            "r": 547.6316469999998,
+            "b": 321.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": " las actuaciones de mantenimiento ordinario o especializado que, en su caso, deban realizarse.",
+      "text": " las actuaciones de mantenimiento ordinario o especializado que, en su caso, deban realizarse.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 310.155,
+            "r": 552.9823659999998,
+            "b": 265.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            408
+          ]
+        }
+      ],
+      "orig": "De manera igualmente similar al caso de proyecto de obra nueva, una vez concluidos los trabajos, la dirección facultativa será responsable de la redacción de un programa de inspección y mantenimiento que complete o actualice las previsiones del plan de inspección y mantenimiento incluido en el proyecto de reparación. Dicho programa se entregará a la propiedad para la gestión de la conservación de la obra.",
+      "text": "De manera igualmente similar al caso de proyecto de obra nueva, una vez concluidos los trabajos, la dirección facultativa será responsable de la redacción de un programa de inspección y mantenimiento que complete o actualice las previsiones del plan de inspección y mantenimiento incluido en el proyecto de reparación. Dicho programa se entregará a la propiedad para la gestión de la conservación de la obra."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "403",
+      "text": "403"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 508.8083801269531,
+            "t": 814.4521064758301,
+            "r": 552.6937866210938,
+            "b": 771.0338973999023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 43.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 508.5827331542969,
+            "t": 814.5261573791504,
+            "r": 552.697265625,
+            "b": 770.7564163208008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 44.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 508.6661376953125,
+            "t": 814.4926147460938,
+            "r": 552.6695556640625,
+            "b": 770.8534545898438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 43.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 508.67449951171875,
+            "t": 814.5430488586426,
+            "r": 552.7129516601562,
+            "b": 770.7600708007812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 44.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 508.5337829589844,
+            "t": 814.5359840393066,
+            "r": 552.663818359375,
+            "b": 770.8551635742188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 44.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 508.708740234375,
+            "t": 814.5123634338379,
+            "r": 552.73388671875,
+            "b": 770.8102569580078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 44.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 6
+    }
+  }
+}

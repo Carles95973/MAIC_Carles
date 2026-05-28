@@ -1,0 +1,464 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_20._estructuras_de_acero._dimensionamiento_y_comprobacion",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5192278538303573648,
+    "filename": "capitulo_20._estructuras_de_acero._dimensionamiento_y_comprobacion.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/9"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 421.94,
+            "r": 128.74729200000002,
+            "b": 412.09946961325966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Capítulo 20",
+      "text": "Capítulo 20",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 393.5,
+            "r": 481.83675599999975,
+            "b": 383.65946961325966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Estructuras de acero. Dimensionamiento y comprobación",
+      "text": "Estructuras de acero. Dimensionamiento y comprobación"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "333",
+      "text": "333"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 715.335,
+            "r": 550.9805330000005,
+            "b": 706.6844585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Comprobación y dimensionamiento de las estructuras de acero",
+      "text": "Comprobación y dimensionamiento de las estructuras de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 694.515,
+            "r": 552.911303,
+            "b": 675.114182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "Para el análisis estructural, el dimensionamiento y la comprobación de las estructuras de acero, el autor del proyecto empleará el conjunto de principios y reglas establecidos en los Anejos 22 a 29.",
+      "text": "Para el análisis estructural, el dimensionamiento y la comprobación de las estructuras de acero, el autor del proyecto empleará el conjunto de principios y reglas establecidos en los Anejos 22 a 29."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 637.935,
+            "r": 449.9364730000002,
+            "b": 629.2844585635358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Proyecto de estructuras de acero frente al fuego",
+      "text": "Proyecto de estructuras de acero frente al fuego",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 617.115,
+            "r": 552.8594619999999,
+            "b": 597.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "En el caso de estructuras de acero que puedan estar sometidas a la acción del fuego, se estará a lo dispuesto en el Anejo 23.",
+      "text": "En el caso de estructuras de acero que puedan estar sometidas a la acción del fuego, se estará a lo dispuesto en el Anejo 23."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 560.535,
+            "r": 452.21915400000023,
+            "b": 551.8844585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Proyecto de estructuras de acero frente al sismo",
+      "text": "Proyecto de estructuras de acero frente al sismo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 539.715,
+            "r": 552.97638,
+            "b": 520.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "En el caso de estructuras de acero que puedan estar sometidas a la acción del sismo, será de aplicación la correspondiente reglamentación específica.",
+      "text": "En el caso de estructuras de acero que puedan estar sometidas a la acción del sismo, será de aplicación la correspondiente reglamentación específica."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "334",
+      "text": "334"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 508.7795104980469,
+            "t": 814.4450302124023,
+            "r": 552.6445922851562,
+            "b": 771.0246810913086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 43.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 508.7730712890625,
+            "t": 814.3959655761719,
+            "r": 552.7124633789062,
+            "b": 771.0070190429688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 43.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    }
+  }
+}

@@ -1,0 +1,2458 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_23._gestion_de_la_calidad_de_los_productos_en_estructuras_de_acero",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4117865087606344234,
+    "filename": "capitulo_23._gestion_de_la_calidad_de_los_productos_en_estructuras_de_acero.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/67"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.0,
+            "t": 400.34640712500004,
+            "r": 151.23654508216148,
+            "b": 387.1438285487569,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Capítulo 23",
+      "text": "Capítulo 23"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.0,
+            "t": 373.586412375,
+            "r": 519.5334510968103,
+            "b": 360.3838337987569,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "Gestión de la calidad de los productos en estructuras de acero",
+      "text": "Gestión de la calidad de los productos en estructuras de acero"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 532.6799925,
+            "t": 42.76811969999994,
+            "r": 545.623182518675,
+            "b": 35.94005080399165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "375",
+      "text": "375"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 145.89597074999998,
+            "t": 675.65891475,
+            "r": 363.7906890118394,
+            "b": 664.0439943058011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Control de los productos de acero",
+      "text": "Control de los productos de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.89477775,
+            "t": 649.570346625,
+            "r": 282.6336268295669,
+            "b": 639.6430692808011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Comprobación de la conformidad",
+      "text": "Comprobación de la conformidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 631.2967188,
+            "r": 548.1373745432644,
+            "b": 580.8707884587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            324
+          ]
+        }
+      ],
+      "orig": "La conformidad de los productos de acero con lo establecido en el proyecto se comprobará durante su recepción en obra e incluirá la comprobación de sus características mecánicas y geométricas, además de  cualquier  otra  característica,  que  en  su  caso,  establezca  el  pliego  de  prescripciones  técnicas particulares.",
+      "text": "La conformidad de los productos de acero con lo establecido en el proyecto se comprobará durante su recepción en obra e incluirá la comprobación de sus características mecánicas y geométricas, además de  cualquier  otra  característica,  que  en  su  caso,  establezca  el  pliego  de  prescripciones  técnicas particulares."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 567.2167173,
+            "r": 548.1584153790275,
+            "b": 448.5108027087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            907
+          ]
+        }
+      ],
+      "orig": "En el caso de productos que deban disponer del marcado CE según el Reglamento (UE) Nº 305/2011, de 9 de marzo de 2011, sus prestaciones en relación a las características esenciales deberán evaluarse de  conformidad  con  la  norma  armonizada  que  le  sea  aplicable.  Tal  y  como  se  recoge  en  el  citado Reglamento, el fabricante del producto entregará la declaración de prestaciones y el marcado CE y será el responsable de la conformidad del producto con las prestaciones declaradas. El fabricante deberá estar en condiciones de aportar garantía de la adecuación de su producto al uso previsto según lo especificado en la norma armonizada y de ponerla a disposición de quien la solicite con el fin de que, a su vez, pueda pasar esta garantía al usuario final de la obra o del producto en que se incorporen, facilitando para ello la documentación que incluya la información que avale dicha garantía.",
+      "text": "En el caso de productos que deban disponer del marcado CE según el Reglamento (UE) Nº 305/2011, de 9 de marzo de 2011, sus prestaciones en relación a las características esenciales deberán evaluarse de  conformidad  con  la  norma  armonizada  que  le  sea  aplicable.  Tal  y  como  se  recoge  en  el  citado Reglamento, el fabricante del producto entregará la declaración de prestaciones y el marcado CE y será el responsable de la conformidad del producto con las prestaciones declaradas. El fabricante deberá estar en condiciones de aportar garantía de la adecuación de su producto al uso previsto según lo especificado en la norma armonizada y de ponerla a disposición de quien la solicite con el fin de que, a su vez, pueda pasar esta garantía al usuario final de la obra o del producto en que se incorporen, facilitando para ello la documentación que incluya la información que avale dicha garantía."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 434.73672930000004,
+            "r": 548.1541667161597,
+            "b": 343.3907772087846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            715
+          ]
+        }
+      ],
+      "orig": "El responsable de la recepción será el encargado de verificar, del modo que considere conveniente, que  el  producto  sujeto  a  recepción  es  conforme  con  las  especificaciones  requeridas.  La  dirección facultativa, conforme a las obligaciones recogidas en el apartado 17.2.1 de este Código y una vez validado el  control  de  recepción,  será  el  responsable  de  velar  porque  el  producto  incorporado  en  la  obra  es adecuado a su uso y cumple con las especificaciones requeridas. En el caso de efectuarse ensayos para comprobar la conformidad del producto, se seguirán los criterios que estuvieran definidos en el programa de control o en el pliego de prescripciones técnicas particulares de la obra.",
+      "text": "El responsable de la recepción será el encargado de verificar, del modo que considere conveniente, que  el  producto  sujeto  a  recepción  es  conforme  con  las  especificaciones  requeridas.  La  dirección facultativa, conforme a las obligaciones recogidas en el apartado 17.2.1 de este Código y una vez validado el  control  de  recepción,  será  el  responsable  de  velar  porque  el  producto  incorporado  en  la  obra  es adecuado a su uso y cumple con las especificaciones requeridas. En el caso de efectuarse ensayos para comprobar la conformidad del producto, se seguirán los criterios que estuvieran definidos en el programa de control o en el pliego de prescripciones técnicas particulares de la obra."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 329.6167038,
+            "r": 548.0449377185315,
+            "b": 292.99081395878454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "En el caso de que el proyecto establezca que los productos de acero dispongan de un distintivo de calidad oficialmente reconocido, se comprobará que los productos los poseen y que son de conformidad con el Artículo 18 de este Código.",
+      "text": "En el caso de que el proyecto establezca que los productos de acero dispongan de un distintivo de calidad oficialmente reconocido, se comprobará que los productos los poseen y que son de conformidad con el Artículo 18 de este Código."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.89477775,
+            "t": 276.97034437499997,
+            "r": 202.63331468549512,
+            "b": 267.043067030801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Toma de muestras",
+      "text": "Toma de muestras",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 258.69670529999996,
+            "r": 548.2349118370877,
+            "b": 208.2707974587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            338
+          ]
+        }
+      ],
+      "orig": "La dirección facultativa, por sí misma, a través de una entidad de control o un laboratorio de control, podrán efectuar la toma de muestras en la instalación en donde se encuentren los productos de acero. Salvo circunstancias excepcionales, la toma de muestras se efectuará preferiblemente en el taller antes del montaje de los elementos.",
+      "text": "La dirección facultativa, por sí misma, a través de una entidad de control o un laboratorio de control, podrán efectuar la toma de muestras en la instalación en donde se encuentren los productos de acero. Salvo circunstancias excepcionales, la toma de muestras se efectuará preferiblemente en el taller antes del montaje de los elementos."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 194.61670379999998,
+            "r": 548.0740711093308,
+            "b": 171.67080645878457,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "Podrán estar presentes durante la toma los representantes del constructor y del suministrador de los elementos.",
+      "text": "Podrán estar presentes durante la toma los representantes del constructor y del suministrador de los elementos."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 157.77670679999994,
+            "r": 548.1735889974098,
+            "b": 93.79078620878454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            456
+          ]
+        }
+      ],
+      "orig": "La entidad o el laboratorio de control de calidad velarán por la representatividad de la muestra, no aceptando, en ningún caso, que se tomen muestras sobre productos que no se correspondan a los planos del  proyecto,  ni  sobre  productos  específicamente  destinados  a  la  realización  de  ensayos.  Una  vez extraídas las muestras, se procederá, en su caso, al reemplazamiento de las partes de los elementos que hubieran sido alteradas durante la toma.",
+      "text": "La entidad o el laboratorio de control de calidad velarán por la representatividad de la muestra, no aceptando, en ningún caso, que se tomen muestras sobre productos que no se correspondan a los planos del  proyecto,  ni  sobre  productos  específicamente  destinados  a  la  realización  de  ensayos.  Una  vez extraídas las muestras, se procederá, en su caso, al reemplazamiento de las partes de los elementos que hubieran sido alteradas durante la toma."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 532.800018,
+            "t": 42.64847122499998,
+            "r": 545.5751232575426,
+            "b": 35.81997779590324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "376",
+      "text": "376"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 695.13672705,
+            "r": 548.1351490916654,
+            "b": 631.1507944587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            463
+          ]
+        }
+      ],
+      "orig": "La entidad o el laboratorio de control de calidad redactarán un acta para cada toma de muestras, que suscribirán todas las partes presentes, quedándose con una copia de la misma. El tamaño de las muestras deberá  ser  suficiente  para  la  realización  de  la  totalidad  de  las  comprobaciones  y  ensayos  que  se pretendan realizar. Todas las muestras se trasladarán para su ensayo al laboratorio de control tras ser correctamente precintadas e identificadas.",
+      "text": "La entidad o el laboratorio de control de calidad redactarán un acta para cada toma de muestras, que suscribirán todas las partes presentes, quedándose con una copia de la misma. El tamaño de las muestras deberá  ser  suficiente  para  la  realización  de  la  totalidad  de  las  comprobaciones  y  ensayos  que  se pretendan realizar. Todas las muestras se trasladarán para su ensayo al laboratorio de control tras ser correctamente precintadas e identificadas."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.89477775,
+            "t": 615.010345125,
+            "r": 248.964585741389,
+            "b": 605.0830677808011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Realización de los ensayos",
+      "text": "Realización de los ensayos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 596.85673155,
+            "r": 548.0754873302867,
+            "b": 560.1107937087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "Cualquier  ensayo  sobre  los  productos  de  acero  que  decida  el  autor  del  proyecto  o  la  dirección facultativa, se deberá efectuar de acuerdo con las indicaciones de éstos. En el caso del autor del proyecto, reflejará dichas indicaciones en el correspondiente pliego de prescripciones técnicas particulares.",
+      "text": "Cualquier  ensayo  sobre  los  productos  de  acero  que  decida  el  autor  del  proyecto  o  la  dirección facultativa, se deberá efectuar de acuerdo con las indicaciones de éstos. En el caso del autor del proyecto, reflejará dichas indicaciones en el correspondiente pliego de prescripciones técnicas particulares."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 145.89597074999998,
+            "t": 526.97889975,
+            "r": 346.0713140468814,
+            "b": 515.3639793058012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Control de los medios de unión",
+      "text": "Control de los medios de unión",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.89477775,
+            "t": 500.890342125,
+            "r": 471.1200903677102,
+            "b": 490.9630647808011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Control de la conformidad los tornillos, tuercas, arandelas y bulones",
+      "text": "Control de la conformidad los tornillos, tuercas, arandelas y bulones",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 482.61672630000004,
+            "r": 548.1442745763806,
+            "b": 432.1907959587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "Los tornillos, tuercas y arandelas y bulones incluidos en los apartados 85.2, 85.3 y 85.4, deberán cumplir los requisitos establecidos al efecto en los respectivos apartados. En otros casos, deberán cumplir las  especificaciones  que  se  establezcan  al  efecto  en  el  respectivo  pliego  de  prescripciones  técnicas particulares.",
+      "text": "Los tornillos, tuercas y arandelas y bulones incluidos en los apartados 85.2, 85.3 y 85.4, deberán cumplir los requisitos establecidos al efecto en los respectivos apartados. En otros casos, deberán cumplir las  especificaciones  que  se  establezcan  al  efecto  en  el  respectivo  pliego  de  prescripciones  técnicas particulares."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 418.5367248,
+            "r": 548.1054087312699,
+            "b": 381.79078620878454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            212
+          ]
+        }
+      ],
+      "orig": "Para  aquellos  tornillos  que  estén  afectados  por  el  marcado  CE  en  base  al  Reglamento  (UE)  Nº 305/2011, de 9 de marzo de 2011, el fabricante presentará la declaración de prestaciones y el marcado CE.",
+      "text": "Para  aquellos  tornillos  que  estén  afectados  por  el  marcado  CE  en  base  al  Reglamento  (UE)  Nº 305/2011, de 9 de marzo de 2011, el fabricante presentará la declaración de prestaciones y el marcado CE."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 368.01671279999994,
+            "r": 548.208813180323,
+            "b": 331.3907772087846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            308
+          ]
+        }
+      ],
+      "orig": "Para  aquellos  productos  que  no  tengan  marcado  CE,  la  posesión  de  un  distintivo  de  calidad oficialmente reconocido conforme a lo establecido en el Artículo 18 de este Código, se entiende como suficiente para avalar la conformidad del medio de unión suministrado sin efectuar ensayos específicos.",
+      "text": "Para  aquellos  productos  que  no  tengan  marcado  CE,  la  posesión  de  un  distintivo  de  calidad oficialmente reconocido conforme a lo establecido en el Artículo 18 de este Código, se entiende como suficiente para avalar la conformidad del medio de unión suministrado sin efectuar ensayos específicos."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 317.6167038,
+            "r": 548.1566158150015,
+            "b": 280.99081395878454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "Cuando  un  producto  no  tenga  marcado  CE  o  no  disponga  de  distintivo  de  calidad  oficialmente reconocido, se considerará un lote de tornillos, tuercas, arandelas, por cada uno de los grados y clases de tornillo que se empleen en la obra.",
+      "text": "Cuando  un  producto  no  tenga  marcado  CE  o  no  disponga  de  distintivo  de  calidad  oficialmente reconocido, se considerará un lote de tornillos, tuercas, arandelas, por cada uno de los grados y clases de tornillo que se empleen en la obra."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 267.2167398,
+            "r": 548.1189851191837,
+            "b": 216.91081245878456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "El  control  de  las  características  de  los  tornillos,  tuercas  y  arandelas  se  efectuará  por  atributos (dimensiones y características mecánicas, además de las características funcionales del conjunto) sobre al menos diez muestras, mediante los ensayos establecidos en este Código o, en su caso, por el pliego de prescripciones técnicas particulares.",
+      "text": "El  control  de  las  características  de  los  tornillos,  tuercas  y  arandelas  se  efectuará  por  atributos (dimensiones y características mecánicas, además de las características funcionales del conjunto) sobre al menos diez muestras, mediante los ensayos establecidos en este Código o, en su caso, por el pliego de prescripciones técnicas particulares."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 203.13673829999993,
+            "r": 548.4174862613427,
+            "b": 180.07081545878452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "Los ensayos de los tornillos se deberán realizar según la norma UNE-EN ISO 898-1, las tuercas según UNE-EN ISO 898-2, y para las arandelas la norma de producto aplicable.",
+      "text": "Los ensayos de los tornillos se deberán realizar según la norma UNE-EN ISO 898-1, las tuercas según UNE-EN ISO 898-2, y para las arandelas la norma de producto aplicable."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 166.4167218,
+            "r": 548.1066438702036,
+            "b": 143.47077945878448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Se aceptará el lote en el caso de no detectarse ningún incumplimiento de las especificaciones en los ensayos o comprobaciones citadas en este punto. En caso contrario, se procederá a rechazar el lote.",
+      "text": "Se aceptará el lote en el caso de no detectarse ningún incumplimiento de las especificaciones en los ensayos o comprobaciones citadas en este punto. En caso contrario, se procederá a rechazar el lote."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.89477775,
+            "t": 127.45035487500002,
+            "r": 394.76121390565265,
+            "b": 117.52307753080117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Control del material de aportación para las soldaduras",
+      "text": "Control del material de aportación para las soldaduras",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 109.05673679999995,
+            "r": 548.152367214285,
+            "b": 58.870788458784546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            379
+          ]
+        }
+      ],
+      "orig": "El material de aportación utilizado para la realización de las soldaduras deberá cumplir las exigencias de aptitud al procedimiento de soldeo y de compatibilidad con el acero del producto de base que define el apartado 85.5 de este Código, así como presentar la declaración de prestaciones y ostentar el marcado CE de conformidad con la parte armonizada de la norma UNE-EN 13479.",
+      "text": "El material de aportación utilizado para la realización de las soldaduras deberá cumplir las exigencias de aptitud al procedimiento de soldeo y de compatibilidad con el acero del producto de base que define el apartado 85.5 de este Código, así como presentar la declaración de prestaciones y ostentar el marcado CE de conformidad con la parte armonizada de la norma UNE-EN 13479."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 532.800018,
+            "t": 42.64847122499998,
+            "r": 545.5751232575426,
+            "b": 35.81997779590324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "377",
+      "text": "377"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 695.13672705,
+            "r": 548.0928864727773,
+            "b": 672.1907959587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "La  dirección  facultativa  deberá  comprobar  que  la  declaración  de  prestaciones  del  material  de aportación para las soldaduras sea conforme con las especificaciones del proyecto.",
+      "text": "La  dirección  facultativa  deberá  comprobar  que  la  declaración  de  prestaciones  del  material  de aportación para las soldaduras sea conforme con las especificaciones del proyecto."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 658.2967188,
+            "r": 548.0928864520604,
+            "b": 607.9908027087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            383
+          ]
+        }
+      ],
+      "orig": "El responsable de la recepción deberá comprobar que la hoja de suministro, el etiquetado y la copia de la declaración de prestaciones están completas, reúnen los requisitos establecidos y se corresponden con el producto solicitado. Será el encargado de verificar, del modo que considere conveniente, que el producto sujeto a recepción es conforme con las especificaciones requeridas.",
+      "text": "El responsable de la recepción deberá comprobar que la hoja de suministro, el etiquetado y la copia de la declaración de prestaciones están completas, reúnen los requisitos establecidos y se corresponden con el producto solicitado. Será el encargado de verificar, del modo que considere conveniente, que el producto sujeto a recepción es conforme con las especificaciones requeridas."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 594.2167173,
+            "r": 548.1359583533841,
+            "b": 557.5908049587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "En el  caso  de  efectuarse  ensayos  para  comprobar  la  conformidad  del  producto,  se  seguirán  los criterios que estuvieran definidos en el programa de control o en el pliego de prescripciones técnicas particulares de la obra.",
+      "text": "En el  caso  de  efectuarse  ensayos  para  comprobar  la  conformidad  del  producto,  se  seguirán  los criterios que estuvieran definidos en el programa de control o en el pliego de prescripciones técnicas particulares de la obra."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 145.89597074999998,
+            "t": 524.338908,
+            "r": 387.9503153658536,
+            "b": 512.7239875558012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Control de los sistemas de protección",
+      "text": "Control de los sistemas de protección",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.89477775,
+            "t": 498.37035337500004,
+            "r": 194.41561979673722,
+            "b": 488.44307603080114,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Especificaciones",
+      "text": "Especificaciones",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 479.97671205000006,
+            "r": 548.0841868756359,
+            "b": 457.03079220878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "Los sistemas de protección deberán cumplir las prescripciones establecidas en los apartados 86.3 y 86.4 en función de la clase de exposición a la que vaya a estar sometido el elemento estructural.",
+      "text": "Los sistemas de protección deberán cumplir las prescripciones establecidas en los apartados 86.3 y 86.4 en función de la clase de exposición a la que vaya a estar sometido el elemento estructural."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 443.25671805,
+            "r": 548.1015860077681,
+            "b": 420.31079820878455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Todo  suministro  de  material,  deberá  acompañarse  de  un  certificado  de  garantía  del  fabricante, específico para la obra y firmado por persona física.",
+      "text": "Todo  suministro  de  material,  deberá  acompañarse  de  un  certificado  de  garantía  del  fabricante, específico para la obra y firmado por persona física."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.89477775,
+            "t": 404.29035112500003,
+            "r": 229.5538577667797,
+            "b": 394.36307378080113,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Realización de ensayos",
+      "text": "Realización de ensayos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.91999849999999,
+            "t": 385.89673304999997,
+            "r": 472.03361452254705,
+            "b": 376.75080870878446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Los ensayos se efectuarán sobre probetas que cumplan las siguientes condiciones:",
+      "text": "Los ensayos se efectuarán sobre probetas que cumplan las siguientes condiciones:"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 362.13673829999993,
+            "r": 454.0293018026112,
+            "b": 352.99081395878454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": " que sean del mismo tipo de acero que el que se vaya a emplear en la obra,",
+      "text": " que sean del mismo tipo de acero que el que se vaya a emplear en la obra,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 343.89673304999997,
+            "r": 458.73414712258364,
+            "b": 334.75080870878446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": " en su caso, que tenga el mismo recubrimiento de cinc que se vaya a utilizar,",
+      "text": " en su caso, que tenga el mismo recubrimiento de cinc que se vaya a utilizar,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 325.65672705,
+            "r": 335.54612385,
+            "b": 316.5108027087846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": " que presente un tamaño mínimo de 150x75 mm 2 ,",
+      "text": " que presente un tamaño mínimo de 150x75 mm 2 ,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 307.53670155,
+            "r": 548.1769893775017,
+            "b": 298.3907772087846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": " que presente un espesor no inferior a 3 mm y compatible con el ensayo que se pretenda efectuar,",
+      "text": " que presente un espesor no inferior a 3 mm y compatible con el ensayo que se pretenda efectuar,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 289.1767165499999,
+            "r": 548.1247920018214,
+            "b": 268.2707974587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": " que cumplan las condiciones de preparación y estado superficial prescritas en la norma UNE-EN ISO 12944-6,",
+      "text": " que cumplan las condiciones de preparación y estado superficial prescritas en la norma UNE-EN ISO 12944-6,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 259.05673679999995,
+            "r": 462.61395015654534,
+            "b": 249.91081245878456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": " para superficies galvanizadas en caliente aplica la norma UNE-EN ISO 1461,",
+      "text": " para superficies galvanizadas en caliente aplica la norma UNE-EN ISO 1461,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 240.81673079999996,
+            "r": 479.2970827806997,
+            "b": 231.67080645878457,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": " para superficies sometidas a metalización con cinc, la norma UNE-EN ISO 2063.",
+      "text": " para superficies sometidas a metalización con cinc, la norma UNE-EN ISO 2063.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 223.4167218,
+            "r": 548.2518850609296,
+            "b": 159.4308012087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            424
+          ]
+        }
+      ],
+      "orig": "En  los  sistemas  de  protección  que  no  posean  un  distintivo  de  calidad  oficialmente  reconocido conforme a lo indicado en el Artículo 18, para la realización de los ensayos, se procederá a la división en lotes de los sistemas de protección. Se considerará un lote para cada conjunto de sistemas de protección y tipo de acero empleado en la obra. El número de probetas a ensayar será al menos de tres por cada lote.",
+      "text": "En  los  sistemas  de  protección  que  no  posean  un  distintivo  de  calidad  oficialmente  reconocido conforme a lo indicado en el Artículo 18, para la realización de los ensayos, se procederá a la división en lotes de los sistemas de protección. Se considerará un lote para cada conjunto de sistemas de protección y tipo de acero empleado en la obra. El número de probetas a ensayar será al menos de tres por cada lote."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 145.65672704999997,
+            "r": 548.0914702207459,
+            "b": 122.71078470878456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Los ensayos sobre los sistemas de pintura se efectuarán de acuerdo con los métodos definidos en el apartado 86.3.",
+      "text": "Los ensayos sobre los sistemas de pintura se efectuarán de acuerdo con los métodos definidos en el apartado 86.3."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 108.93671055000004,
+            "r": 548.1772306803232,
+            "b": 58.75080870878446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            405
+          ]
+        }
+      ],
+      "orig": "En cuanto a la galvanización en caliente, en el caso de que el suministro del material se acompañe de un certificado de garantía del galvanizador, específico para la obra y firmado por persona física, la dirección facultativa podrá eximir de la realización de los correspondientes ensayos. La realización de ensayos, en su caso, se efectuará mediante los procedimientos establecidos en la norma UNE-EN ISO",
+      "text": "En cuanto a la galvanización en caliente, en el caso de que el suministro del material se acompañe de un certificado de garantía del galvanizador, específico para la obra y firmado por persona física, la dirección facultativa podrá eximir de la realización de los correspondientes ensayos. La realización de ensayos, en su caso, se efectuará mediante los procedimientos establecidos en la norma UNE-EN ISO"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 532.800018,
+            "t": 42.64847122499998,
+            "r": 545.5751232575426,
+            "b": 35.81997779590324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "378",
+      "text": "378"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.0,
+            "t": 695.13672705,
+            "r": 548.0952929442481,
+            "b": 658.3908004587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "1461, así como los que se recojan específicamente en el programa de control o el pliego de prescripciones técnicas particulares. Para las superficies sometidas a metalización con cinc, los ensayos se realizarán conforme a lo indicado en la norma UNE-EN ISO 2063.",
+      "text": "1461, así como los que se recojan específicamente en el programa de control o el pliego de prescripciones técnicas particulares. Para las superficies sometidas a metalización con cinc, los ensayos se realizarán conforme a lo indicado en la norma UNE-EN ISO 2063."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.89477775,
+            "t": 642.490344375,
+            "r": 283.447721591573,
+            "b": 632.5630670308011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Criterios de aceptación o rechazo",
+      "text": "Criterios de aceptación o rechazo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.0,
+            "t": 624.09672555,
+            "r": 548.183097835553,
+            "b": 587.5908049587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "La  posesión  de  un  distintivo  de  calidad  oficialmente  reconocido  conforme  a  lo  establecido  en  el Artículo  18,  se  entiende  como  suficiente  para  avalar  la  conformidad  del  sistema  de  protección suministrado sin efectuar ensayos específicos.",
+      "text": "La  posesión  de  un  distintivo  de  calidad  oficialmente  reconocido  conforme  a  lo  establecido  en  el Artículo  18,  se  entiende  como  suficiente  para  avalar  la  conformidad  del  sistema  de  protección suministrado sin efectuar ensayos específicos."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.0,
+            "t": 573.69672855,
+            "r": 548.1386097132736,
+            "b": 550.7508087087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Los  ensayos sobre  los  sistemas  de  pintura,  se  considerarán  conformes  con  las  especificaciones cuando:",
+      "text": "Los  ensayos sobre  los  sistemas  de  pintura,  se  considerarán  conformes  con  las  especificaciones cuando:"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 536.25671805,
+            "r": 548.1573024520605,
+            "b": 479.59080495878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            415
+          ]
+        }
+      ],
+      "orig": " Antes del ensayo, la clasificación obtenida por la probeta de acuerdo con la norma UNE-EN ISO 2409 es 0 a 2. Cuando el espesor de la película seca del sistema de protección es mayor que 250 μm, este requisito debe sustituirse por la inexistencia de desprendimiento de la pintura del substrato en el ensayo de adherencia según UNE-EN ISO 4624, a menos que los valores de la tracción sean mayores o iguales a 5 MPa.",
+      "text": " Antes del ensayo, la clasificación obtenida por la probeta de acuerdo con la norma UNE-EN ISO 2409 es 0 a 2. Cuando el espesor de la película seca del sistema de protección es mayor que 250 μm, este requisito debe sustituirse por la inexistencia de desprendimiento de la pintura del substrato en el ensayo de adherencia según UNE-EN ISO 4624, a menos que los valores de la tracción sean mayores o iguales a 5 MPa.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 470.4967233,
+            "r": 548.1516376303875,
+            "b": 378.0708154587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            701
+          ]
+        }
+      ],
+      "orig": " Después del ensayo, con la duración en horas indicadas en el apartado 86.3, según el caso, para la clase de exposición y grado de durabilidad exigidos, la probeta no presenta defectos según los métodos de evaluación establecidos en las partes 2 a 5 de la norma UNE-EN ISO 4628, y la clasificación obtenida de acuerdo con la norma UNE-EN ISO 2409 sea 0 a 2. Cuando el espesor de la película seca del sistema de pintura es mayor que 250 μm, se empleará la misma sustitución de este último requisito que la indicada en el apartado anterior. La evaluación de la condición tras el ensayo según UNE-EN ISO 2409 o según el ensayo sustitutivo se efectuará tras 24 horas de reacondicionamiento de la probeta.",
+      "text": " Después del ensayo, con la duración en horas indicadas en el apartado 86.3, según el caso, para la clase de exposición y grado de durabilidad exigidos, la probeta no presenta defectos según los métodos de evaluación establecidos en las partes 2 a 5 de la norma UNE-EN ISO 4628, y la clasificación obtenida de acuerdo con la norma UNE-EN ISO 2409 sea 0 a 2. Cuando el espesor de la película seca del sistema de pintura es mayor que 250 μm, se empleará la misma sustitución de este último requisito que la indicada en el apartado anterior. La evaluación de la condición tras el ensayo según UNE-EN ISO 2409 o según el ensayo sustitutivo se efectuará tras 24 horas de reacondicionamiento de la probeta.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.0,
+            "t": 369.81673079999996,
+            "r": 548.130517116803,
+            "b": 346.87078845878455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "Se considera que la probeta no presenta defectos, según el caso, cuando cumple los siguientes requisitos:",
+      "text": "Se considera que la probeta no presenta defectos, según el caso, cuando cumple los siguientes requisitos:"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 332.25671805,
+            "r": 452.8746876531534,
+            "b": 323.1107937087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": " Aplicando UNE-EN ISO 4628-2, cuando se presente ampollamiento 0 (S0).",
+      "text": " Aplicando UNE-EN ISO 4628-2, cuando se presente ampollamiento 0 (S0).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 313.89673304999997,
+            "r": 400.5437786101845,
+            "b": 304.75080870878446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": " Aplicando UNE-EN ISO 4628-3, cuando se presente óxido Ri 0.",
+      "text": " Aplicando UNE-EN ISO 4628-3, cuando se presente óxido Ri 0.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 295.77670679999994,
+            "r": 448.2343809681994,
+            "b": 286.6307824587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": " Aplicando UNE-EN ISO 4628-4, cuando se presente agrietamiento 0 (S0).",
+      "text": " Aplicando UNE-EN ISO 4628-4, cuando se presente agrietamiento 0 (S0).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 277.53670155,
+            "r": 446.553139742317,
+            "b": 268.3907772087846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": " Aplicando UNE-EN ISO 4628-5, cuando se presente descamación 0 (S0).",
+      "text": " Aplicando UNE-EN ISO 4628-5, cuando se presente descamación 0 (S0).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.0,
+            "t": 260.13673829999993,
+            "r": 548.1327425787606,
+            "b": 209.83081020878456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "Además, deberá comprobarse que, una vez efectuado un envejecimiento artificial, conforme a la norma UNE-EN ISO 9227, no existe ningún avance de corrosión del sustrato, a partir de la incisión, que sea superior a 1,5 mm, determinado de acuerdo con la norma UNE-EN ISO 12944-6 en el caso de niebla salina, o 3 mm en el caso del ensayo de envejecimiento cíclico.",
+      "text": "Además, deberá comprobarse que, una vez efectuado un envejecimiento artificial, conforme a la norma UNE-EN ISO 9227, no existe ningún avance de corrosión del sustrato, a partir de la incisión, que sea superior a 1,5 mm, determinado de acuerdo con la norma UNE-EN ISO 12944-6 en el caso de niebla salina, o 3 mm en el caso del ensayo de envejecimiento cíclico."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.0,
+            "t": 196.05673679999995,
+            "r": 548.1240430230533,
+            "b": 172.99081395878454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "En  la  evaluación  de  defectos  anteriormente  citada,  no  se  tendrán  en  cuenta  aquéllos  que  se produzcan a menos de 10 mm de los bordes de la probeta.",
+      "text": "En  la  evaluación  de  defectos  anteriormente  citada,  no  se  tendrán  en  cuenta  aquéllos  que  se produzcan a menos de 10 mm de los bordes de la probeta."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.0,
+            "t": 159.21673980000003,
+            "r": 548.2802092210859,
+            "b": 95.3507989587846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            472
+          ]
+        }
+      ],
+      "orig": "En cuanto a la galvanización en caliente y a la metalización con cinc, la presentación a la dirección facultativa del certificado de garantía al que hace referencia el apartado 99.1 permitirá la aceptación del correspondiente  lote.  En  el  caso  de  efectuarse  ensayos  para  comprobar  la  conformidad  del  lote,  se seguirán  los  criterios  establecidos  al  efecto  en  el  programa  de  control  o  el  pliego  de  prescripciones técnicas particulares de la obra.",
+      "text": "En cuanto a la galvanización en caliente y a la metalización con cinc, la presentación a la dirección facultativa del certificado de garantía al que hace referencia el apartado 99.1 permitirá la aceptación del correspondiente  lote.  En  el  caso  de  efectuarse  ensayos  para  comprobar  la  conformidad  del  lote,  se seguirán  los  criterios  establecidos  al  efecto  en  el  programa  de  control  o  el  pliego  de  prescripciones técnicas particulares de la obra."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 532.800018,
+            "t": 42.64847122499998,
+            "r": 545.5751232575426,
+            "b": 35.81997779590324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "379",
+      "text": "379"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 141.359997,
+            "t": 694.498911,
+            "r": 379.6761604663046,
+            "b": 682.8839905558011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Control de estructuras componentes",
+      "text": "Control de estructuras componentes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.0,
+            "t": 674.37672105,
+            "r": 548.1171430106542,
+            "b": 624.0707929587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            316
+          ]
+        }
+      ],
+      "orig": "La conformidad de las estructuras componentes con lo establecido en el proyecto se comprobará durante su recepción en obra e incluirá la comprobación de sus características mecánicas y geométricas, además de cualquier otra característica, que en su caso, establezca el pliego de prescripciones técnicas particulares.",
+      "text": "La conformidad de las estructuras componentes con lo establecido en el proyecto se comprobará durante su recepción en obra e incluirá la comprobación de sus características mecánicas y geométricas, además de cualquier otra característica, que en su caso, establezca el pliego de prescripciones técnicas particulares."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.0,
+            "t": 610.2967188,
+            "r": 548.2033293578048,
+            "b": 409.5108027087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1554
+          ]
+        }
+      ],
+      "orig": "Al disponer estos productos del marcado CE según el Reglamento (UE) Nº 305/2011, de 9 de marzo de  2011,  sus  prestaciones  en  relación  a  las  características  esenciales  deberán  comprobarse  de conformidad con la norma armonizada UNE-EN 1090-1. Tal y como se recoge en el citado Reglamento, el fabricante del producto entregará la declaración de prestaciones y el marcado CE y será el responsable de la conformidad del producto con las prestaciones declaradas. El fabricante deberá estar en condiciones de aportar garantía de la adecuación de su producto al uso previsto y de ponerla a disposición de quien la solicite con el fin de que, a su vez, pueda pasar esta garantía al usuario final de la obra o del producto en que se incorporen, facilitando para ello la documentación que incluya la información que avale dicha garantía.  El  responsable  de  la  recepción  será  el  encargado  de  verificar,  del  modo  que  considere conveniente, que el producto sujeto a recepción es conforme con las especificaciones requeridas. La dirección facultativa, conforme a las obligaciones recogidas en el apartado 17.2.1 de este Código y una vez validado el control de recepción, será el responsable de velar porque el producto incorporado en la obra  es  adecuado  a  su  uso  y  cumple  con  las  especificaciones  requeridas.  En  el  caso  de  efectuarse ensayos para comprobar la conformidad del producto, se seguirán los criterios que estuvieran definidos en el programa de control o en el pliego de prescripciones técnicas particulares de la obra.",
+      "text": "Al disponer estos productos del marcado CE según el Reglamento (UE) Nº 305/2011, de 9 de marzo de  2011,  sus  prestaciones  en  relación  a  las  características  esenciales  deberán  comprobarse  de conformidad con la norma armonizada UNE-EN 1090-1. Tal y como se recoge en el citado Reglamento, el fabricante del producto entregará la declaración de prestaciones y el marcado CE y será el responsable de la conformidad del producto con las prestaciones declaradas. El fabricante deberá estar en condiciones de aportar garantía de la adecuación de su producto al uso previsto y de ponerla a disposición de quien la solicite con el fin de que, a su vez, pueda pasar esta garantía al usuario final de la obra o del producto en que se incorporen, facilitando para ello la documentación que incluya la información que avale dicha garantía.  El  responsable  de  la  recepción  será  el  encargado  de  verificar,  del  modo  que  considere conveniente, que el producto sujeto a recepción es conforme con las especificaciones requeridas. La dirección facultativa, conforme a las obligaciones recogidas en el apartado 17.2.1 de este Código y una vez validado el control de recepción, será el responsable de velar porque el producto incorporado en la obra  es  adecuado  a  su  uso  y  cumple  con  las  especificaciones  requeridas.  En  el  caso  de  efectuarse ensayos para comprobar la conformidad del producto, se seguirán los criterios que estuvieran definidos en el programa de control o en el pliego de prescripciones técnicas particulares de la obra."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 532.800018,
+            "t": 42.64847122499998,
+            "r": 545.5751232575426,
+            "b": 35.81997779590324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "380",
+      "text": "380"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 504.64825439453125,
+            "t": 766.6225357055664,
+            "r": 545.5538330078125,
+            "b": 724.8452682495117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 42.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 504.4927062988281,
+            "t": 766.082763671875,
+            "r": 545.5755004882812,
+            "b": 724.4004898071289,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 42.0,
+          "height": 42.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 504.5345458984375,
+            "t": 766.0632038116455,
+            "r": 545.6103515625,
+            "b": 724.5108032226562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 41.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 504.6107177734375,
+            "t": 765.9991188049316,
+            "r": 545.558349609375,
+            "b": 724.617317199707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 41.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 504.5938720703125,
+            "t": 766.0297203063965,
+            "r": 545.5431518554688,
+            "b": 724.546142578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 41.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 504.702392578125,
+            "t": 766.05322265625,
+            "r": 545.5564575195312,
+            "b": 724.5832214355469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 41.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    }
+  }
+}

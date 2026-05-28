@@ -1,0 +1,935 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Acta_07_S13",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4350536177978365805,
+    "filename": "Acta_07_S13.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 771.2363988258126,
+            "r": 419.09285577599996,
+            "b": 752.6126828418126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Acta 7 - Llegada de las cerchas y lluvia",
+      "text": "Acta 7 - Llegada de las cerchas y lluvia",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 742.4955475758125,
+            "r": 99.70143980399999,
+            "b": 730.8558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Obra:",
+      "text": "Obra:"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.69887475000002,
+            "t": 742.4955475758125,
+            "r": 475.2397113299997,
+            "b": 730.8558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Construccion de la estructura del Nuevo Polideportivo Municipal La Pinada",
+      "text": "Construccion de la estructura del Nuevo Polideportivo Municipal La Pinada"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 727.9955470758125,
+            "r": 135.63056311199998,
+            "b": 716.3558310918124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Expediente:",
+      "text": "Expediente:"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.63149175,
+            "t": 727.9955470758125,
+            "r": 211.82963247000004,
+            "b": 716.3558310918124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "OBR-2025-014",
+      "text": "OBR-2025-014"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 713.4955473258125,
+            "r": 145.73031667200001,
+            "b": 701.8558313418125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Constructora:",
+      "text": "Constructora:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 145.72939200000002,
+            "t": 713.4955473258125,
+            "r": 280.17611141999987,
+            "b": 701.8558313418125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Edificaciones del Ebro S.L.",
+      "text": "Edificaciones del Ebro S.L."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 698.9955475758125,
+            "r": 102.56137002,
+            "b": 687.3558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Plazo:",
+      "text": "Plazo:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.55532025000001,
+            "t": 698.9955475758125,
+            "r": 461.2465679699998,
+            "b": 687.3558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "20 semanas (estructura), improrrogable por inauguracion pre-electoral",
+      "text": "20 semanas (estructura), improrrogable por inauguracion pre-electoral"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 682.4955475758125,
+            "r": 477.0764418299998,
+            "b": 670.8558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Acta n.º 7 - Semana 13 · 8 de abril de 2025, 10:00 · Reunion quincenal de obra",
+      "text": "Acta n.º 7 - Semana 13 · 8 de abril de 2025, 10:00 · Reunion quincenal de obra"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 654.5092687578125,
+            "r": 214.00620450000008,
+            "b": 640.5412687578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Nombres (asistentes)",
+      "text": "Nombres (asistentes)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 632.6022516438125,
+            "r": 283.5901931040001,
+            "b": 619.7988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Carlos Mendoza - Arquitecto Director ·",
+      "text": "Carlos Mendoza - Arquitecto Director ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 612.8022516438125,
+            "r": 241.6930518960001,
+            "b": 599.9988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Laura Gimenez - Aparejadora ·",
+      "text": "Laura Gimenez - Aparejadora ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 593.0022516438125,
+            "r": 268.8618465359999,
+            "b": 580.1988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Roberto Dominguez - Jefe de Obra ·",
+      "text": "Roberto Dominguez - Jefe de Obra ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 563.7092692578125,
+            "r": 423.0342045,
+            "b": 549.7412692578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Tareas pendientes a resolver de semanas anteriores",
+      "text": "Tareas pendientes a resolver de semanas anteriores",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 540.9022513938125,
+            "r": 515.0193882839999,
+            "b": 496.1988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "Rediseno de conductos de ventilacion (Actas 5 y 6): RESUELTO. Se sustituiran los conductos circulares por conductos rectangulares en la zona afectada por el recrecido del Eje 4.",
+      "text": "Rediseno de conductos de ventilacion (Actas 5 y 6): RESUELTO. Se sustituiran los conductos circulares por conductos rectangulares en la zona afectada por el recrecido del Eje 4."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 479.7092692578125,
+            "r": 184.25820450000003,
+            "b": 465.7412692578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Nuevos acuerdos",
+      "text": "Nuevos acuerdos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 457.80225139381247,
+            "r": 526.7674043999998,
+            "b": 397.1488194258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "El izado de las grandes cerchas metalicas de la cubierta de la pista polideportiva (luz de 35 metros) se realizara en horario nocturno para evitar cortes de trafico diurnos y minimizar molestias. Requiere permiso especial de ocupacion de via publica. ·",
+      "text": "El izado de las grandes cerchas metalicas de la cubierta de la pista polideportiva (luz de 35 metros) se realizara en horario nocturno para evitar cortes de trafico diurnos y minimizar molestias. Requiere permiso especial de ocupacion de via publica. ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 380.65926900781244,
+            "r": 245.89020450000004,
+            "b": 366.69126900781254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "RFI de las distintas partes",
+      "text": "RFI de las distintas partes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 358.7522518938125,
+            "r": 508.70620569599964,
+            "b": 314.04881942581244,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Constructora: RFI sobre la tornilleria de anclaje de las cerchas a los pilares de hormigon. El plano de taller del cerrajero marca pernos M20, pero el detalle estructural del proyecto indica M24. ·",
+      "text": "Constructora: RFI sobre la tornilleria de anclaje de las cerchas a los pilares de hormigon. El plano de taller del cerrajero marca pernos M20, pero el detalle estructural del proyecto indica M24. ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 307.0522513938124,
+            "r": 504.98837063999974,
+            "b": 278.2988199258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "Respuesta de Arquitectura: PREVALECE M24, conforme al detalle estructural. Debe corregirse de inmediato el pedido de tornilleria antes del izado. ·",
+      "text": "Respuesta de Arquitectura: PREVALECE M24, conforme al detalle estructural. Debe corregirse de inmediato el pedido de tornilleria antes del izado. ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 261.80926875781245,
+            "r": 144.3462045,
+            "b": 247.8412687578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Incidencias",
+      "text": "Incidencias",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 239.00225164381243,
+            "r": 524.0059895879998,
+            "b": 194.2988199258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "Fuertes lluvias durante el fin de semana han inundado el foso del ascensor y dejado barro por toda la obra. La grua torre sufrio una averia electrica por entrada de agua (placa base fundida), quedando parada 3 dias a la espera de repuesto.",
+      "text": "Fuertes lluvias durante el fin de semana han inundado el foso del ascensor y dejado barro por toda la obra. La grua torre sufrio una averia electrica por entrada de agua (placa base fundida), quedando parada 3 dias a la espera de repuesto."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 177.80926875781245,
+            "r": 361.03020450000014,
+            "b": 163.8412687578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Modificaciones aprobadas por la propiedad",
+      "text": "Modificaciones aprobadas por la propiedad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 155.00225164381243,
+            "r": 117.79401142800002,
+            "b": 142.1988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Ninguna.",
+      "text": "Ninguna."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 777.8092687578126,
+            "r": 105.59820450000001,
+            "b": 763.8412687578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Otros",
+      "text": "Otros",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 755.0022516438125,
+            "r": 516.3613287479999,
+            "b": 710.2988199258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "El retraso vuelve a incrementarse en 7 dias. Roberto presenta escrito solicitando prorroga oficial por causas meteorologicas adversas y averia de maquinaria. La direccion facultativa lo deja en estudio, pendiente de contrastar datos de AEMET.",
+      "text": "El retraso vuelve a incrementarse en 7 dias. Roberto presenta escrito solicitando prorroga oficial por causas meteorologicas adversas y averia de maquinaria. La direccion facultativa lo deja en estudio, pendiente de contrastar datos de AEMET."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2755737304688,
+        "height": 841.8897705078125
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2755737304688,
+        "height": 841.8897705078125
+      },
+      "page_no": 2
+    }
+  }
+}

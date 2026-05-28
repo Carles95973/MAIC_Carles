@@ -1,0 +1,3125 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_4._bases_generales_para_la_ejecucion_de_las_estructuras",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9113787333526158288,
+    "filename": "capitulo_4._bases_generales_para_la_ejecucion_de_las_estructuras.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/65"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 420.02000000000004,
+            "r": 119.87353200000001,
+            "b": 410.1794696132597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Capítulo 4",
+      "text": "Capítulo 4"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 391.58000000000004,
+            "r": 444.35310000000004,
+            "b": 381.7394696132597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Bases generales para la ejecución de las estructuras",
+      "text": "Bases generales para la ejecución de las estructuras"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 543.72,
+            "t": 45.620000000000005,
+            "r": 552.846,
+            "b": 39.85319327731088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "61",
+      "text": "61"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 733.335,
+            "r": 495.84824500000025,
+            "b": 724.6844585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Criterios generales para la ejecución de las estructuras",
+      "text": "Criterios generales para la ejecución de las estructuras",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 712.635,
+            "r": 552.8594620000001,
+            "b": 693.114182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "Las condiciones de ejecución de la estructura deberán ser conformes con la exigencia de seguridad y funcionalidad estructural, de acuerdo con los criterios definidos en el apartado 5.2.1 de este Código.",
+      "text": "Las condiciones de ejecución de la estructura deberán ser conformes con la exigencia de seguridad y funcionalidad estructural, de acuerdo con los criterios definidos en el apartado 5.2.1 de este Código."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 681.3149999999999,
+            "r": 552.9779540000002,
+            "b": 636.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "Los criterios de ejecución definidos en este capítulo son aplicables, con carácter general, a toda estructura sometida a cargas predominantemente estáticas. Para estructuras solicitadas a fatiga se requieren niveles superiores de ejecución acordes asimismo con la clasificación de los correspondientes detalles constructivos.",
+      "text": "Los criterios de ejecución definidos en este capítulo son aplicables, con carácter general, a toda estructura sometida a cargas predominantemente estáticas. Para estructuras solicitadas a fatiga se requieren niveles superiores de ejecución acordes asimismo con la clasificación de los correspondientes detalles constructivos."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 624.675,
+            "r": 552.922804,
+            "b": 579.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "El pliego de prescripciones técnicas particulares incluirá todos los requisitos de fabricación, montaje y materiales necesarios para garantizar el nivel de seguridad del proyecto, pudiendo contener indicaciones complementarias sin reducir las exigencias tecnológicas ni invalidando los valores mínimos de calidad establecidos en este Código.",
+      "text": "El pliego de prescripciones técnicas particulares incluirá todos los requisitos de fabricación, montaje y materiales necesarios para garantizar el nivel de seguridad del proyecto, pudiendo contener indicaciones complementarias sin reducir las exigencias tecnológicas ni invalidando los valores mínimos de calidad establecidos en este Código."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 568.155,
+            "r": 552.9818949999998,
+            "b": 548.6341823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "El autor del proyecto definirá las clases de ejecución aplicables, de conformidad con lo indicado en el apartado 14.3.",
+      "text": "El autor del proyecto definirá las clases de ejecución aplicables, de conformidad con lo indicado en el apartado 14.3."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 511.575,
+            "r": 456.0549560000003,
+            "b": 502.9244585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Adecuación del proceso constructivo al proyecto",
+      "text": "Adecuación del proceso constructivo al proyecto",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 490.755,
+            "r": 553.0198679999997,
+            "b": 445.91418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "La ejecución de una estructura comprende una serie de procesos que deberán realizarse conforme a lo establecido en el proyecto o, en su defecto, en este Código. En particular, se prestará especial atención a la adecuación de los procedimientos y las secuencias de ejecución de la obra respecto al proceso constructivo contemplado en el proyecto.",
+      "text": "La ejecución de una estructura comprende una serie de procesos que deberán realizarse conforme a lo establecido en el proyecto o, en su defecto, en este Código. En particular, se prestará especial atención a la adecuación de los procedimientos y las secuencias de ejecución de la obra respecto al proceso constructivo contemplado en el proyecto."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 434.115,
+            "r": 552.798797,
+            "b": 414.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Cualquier modificación de los procesos de ejecución respecto a lo previsto en el proyecto, deberá ser previamente autorizada por la dirección facultativa, previa propuesta justificada del constructor.",
+      "text": "Cualquier modificación de los procesos de ejecución respecto a lo previsto en el proyecto, deberá ser previamente autorizada por la dirección facultativa, previa propuesta justificada del constructor."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 402.79499999999996,
+            "r": 552.7248959999997,
+            "b": 383.394182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "Los procesos para la construcción de cada nuevo elemento durante la obra, pueden modificar las acciones actuantes y el comportamiento mecánico de la parte de estructura ya construida.",
+      "text": "Los procesos para la construcción de cada nuevo elemento durante la obra, pueden modificar las acciones actuantes y el comportamiento mecánico de la parte de estructura ya construida."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 371.47499999999997,
+            "r": 552.8451230000003,
+            "b": 352.074182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "Además, algunos procesos, como el descimbrado, el pretensado, etc., pueden introducir acciones que deberán haber sido contempladas en el proyecto.",
+      "text": "Además, algunos procesos, como el descimbrado, el pretensado, etc., pueden introducir acciones que deberán haber sido contempladas en el proyecto."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 315.015,
+            "r": 386.1603020000002,
+            "b": 306.3644585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Gestión de los procesos constructivos",
+      "text": "Gestión de los procesos constructivos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.84,
+            "t": 294.07500000000005,
+            "r": 232.02874899999978,
+            "b": 287.2741823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "El constructor deberá disponer de:",
+      "text": "El constructor deberá disponer de:"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 88.92,
+            "t": 275.4749999999999,
+            "r": 549.6772929999997,
+            "b": 243.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "a) unos procedimientos escritos para cada uno de los procesos de ejecución de la estructura, coherentes con el proyecto, acordes con la reglamentación que sea aplicable y conforme con sus propios medios de producción, y",
+      "text": "unos procedimientos escritos para cada uno de los procesos de ejecución de la estructura, coherentes con el proyecto, acordes con la reglamentación que sea aplicable y conforme con sus propios medios de producción, y",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 88.92,
+            "t": 237.55500000000006,
+            "r": 551.5492270000001,
+            "b": 205.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "b) un sistema de gestión de los materiales, productos y elementos que se vayan a colocar en la obra, de manera que se asegure la trazabilidad de los mismos. Dicho sistema de gestión deberá presentar, al menos, las siguientes características:",
+      "text": "un sistema de gestión de los materiales, productos y elementos que se vayan a colocar en la obra, de manera que se asegure la trazabilidad de los mismos. Dicho sistema de gestión deberá presentar, al menos, las siguientes características:",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.52,
+            "t": 199.515,
+            "r": 552.9648130000002,
+            "b": 180.11418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "-disponer de un registro de suministradores de la obra, con identificación completa de los mismos y de los materiales y productos suministrados,",
+      "text": "-disponer de un registro de suministradores de la obra, con identificación completa de los mismos y de los materiales y productos suministrados,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.52,
+            "t": 174.31500000000005,
+            "r": 553.0982759999997,
+            "b": 142.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "-disponer de un sistema de almacenamiento de los acopios en la obra que permita mantener, en su caso, la trazabilidad de cada una de las partidas o remesas que llegan a la obra, y",
+      "text": "-disponer de un sistema de almacenamiento de los acopios en la obra que permita mantener, en su caso, la trazabilidad de cada una de las partidas o remesas que llegan a la obra, y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.52,
+            "t": 136.27499999999998,
+            "r": 553.102688,
+            "b": 78.95418232044199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            414
+          ]
+        }
+      ],
+      "orig": "-disponer de un sistema de registro y seguimiento de las unidades ejecutadas que relacione estas con las partidas de productos utilizados y, en su caso, con las remesas empleadas en las mismas, de manera que se pueda mantener un determinado nivel de trazabilidad durante la ejecución de la obra, de acuerdo con el nivel de control y la clase de ejecución definido en el proyecto, de acuerdo con la tabla 14, donde:",
+      "text": "-disponer de un sistema de registro y seguimiento de las unidades ejecutadas que relacione estas con las partidas de productos utilizados y, en su caso, con las remesas empleadas en las mismas, de manera que se pueda mantener un determinado nivel de trazabilidad durante la ejecución de la obra, de acuerdo con el nivel de control y la clase de ejecución definido en el proyecto, de acuerdo con la tabla 14, donde:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 543.72,
+            "t": 45.620000000000005,
+            "r": 552.846,
+            "b": 39.85319327731088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "62",
+      "text": "62"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 130.92,
+            "t": 734.715,
+            "r": 552.8639690000001,
+            "b": 715.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "-el nivel A de trazabilidad permite relacionar cada partida o remesa con el elemento construido, mientras que",
+      "text": "-el nivel A de trazabilidad permite relacionar cada partida o remesa con el elemento construido, mientras que",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 130.92,
+            "t": 709.395,
+            "r": 552.8562480000002,
+            "b": 689.994182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "-el nivel B de trazabilidad permite relacionar cada partida o remesa con el lote de ejecución.",
+      "text": "-el nivel B de trazabilidad permite relacionar cada partida o remesa con el lote de ejecución.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 186.96,
+            "t": 678.0749999999999,
+            "r": 408.37621999999976,
+            "b": 671.2741823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Tabla 14 Definición de niveles de trazabilidad",
+      "text": "Tabla 14 Definición de niveles de trazabilidad"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 525.32,
+            "r": 240.43199999999996,
+            "b": 517.9211049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "14.1 Instalaciones ajenas a la obra",
+      "text": "14.1 Instalaciones ajenas a la obra",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 505.995,
+            "r": 552.8753750000003,
+            "b": 461.274182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            395
+          ]
+        }
+      ],
+      "orig": "En el caso de instalaciones industriales ajenas a la obra que suministren productos elaborados o semielaborados a la misma (como por ejemplo, los talleres de estructura metálica, las industrias de prefabricados o los talleres de ferralla), deberán disponer de los sistemas adecuados de gestión de los acopios que les permitan mantener los niveles de trazabilidad establecidos para la estructura.",
+      "text": "En el caso de instalaciones industriales ajenas a la obra que suministren productos elaborados o semielaborados a la misma (como por ejemplo, los talleres de estructura metálica, las industrias de prefabricados o los talleres de ferralla), deberán disponer de los sistemas adecuados de gestión de los acopios que les permitan mantener los niveles de trazabilidad establecidos para la estructura."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 443.0,
+            "r": 299.784,
+            "b": 435.6011049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "14.2 Gestión medioambiental de la ejecución",
+      "text": "14.2 Gestión medioambiental de la ejecución",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 423.675,
+            "r": 552.916186,
+            "b": 366.23418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            458
+          ]
+        }
+      ],
+      "orig": "Sin perjuicio del cumplimiento de la legislación de protección ambiental vigente, la propiedad podrá establecer que el constructor tenga en cuenta una serie de consideraciones de carácter medioambiental durante la ejecución de la estructura, al objeto de minimizar los potenciales impactos derivados de dicha actividad. A los efectos de este Código, se pueden contemplar tres niveles de gestión medioambiental, definidos de acuerdo con el siguiente criterio:",
+      "text": "Sin perjuicio del cumplimiento de la legislación de protección ambiental vigente, la propiedad podrá establecer que el constructor tenga en cuenta una serie de consideraciones de carácter medioambiental durante la ejecución de la estructura, al objeto de minimizar los potenciales impactos derivados de dicha actividad. A los efectos de este Código, se pueden contemplar tres niveles de gestión medioambiental, definidos de acuerdo con el siguiente criterio:"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.0,
+            "t": 354.435,
+            "r": 553.100705,
+            "b": 322.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "a) nivel de certificación medioambiental, cuando la obra se encuentre incluida en el alcance de la certificación del constructor de conformidad con UNE-EN ISO 14001 o norma equivalente ISO 14001,",
+      "text": "nivel de certificación medioambiental, cuando la obra se encuentre incluida en el alcance de la certificación del constructor de conformidad con UNE-EN ISO 14001 o norma equivalente ISO 14001,",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.0,
+            "t": 310.515,
+            "r": 553.1030540000003,
+            "b": 265.674182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "b) nivel de sensibilización medioambiental, cuando la obra no esté en posesión del certificado indicado en el punto a), pero la dirección facultativa compruebe que el constructor cumple una serie de requisitos ambientales específicos recogidos en el proyecto, previo acuerdo con la propiedad, y",
+      "text": "nivel de sensibilización medioambiental, cuando la obra no esté en posesión del certificado indicado en el punto a), pero la dirección facultativa compruebe que el constructor cumple una serie de requisitos ambientales específicos recogidos en el proyecto, previo acuerdo con la propiedad, y",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.0,
+            "t": 253.875,
+            "r": 553.1007050000004,
+            "b": 234.47418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "c) nivel de operatividad medioambiental, cuando el constructor se limite al cumplimiento de la legislación medioambiental vigente.",
+      "text": "nivel de operatividad medioambiental, cuando el constructor se limite al cumplimiento de la legislación medioambiental vigente.",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 222.55500000000006,
+            "r": 552.9146119999997,
+            "b": 177.83418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "En su caso, dicha exigencia debería incluirse en un anejo de evaluación ambiental de la estructura, que formará parte del proyecto. En caso de que el proyecto no contemplara este tipo de exigencias para la fase de ejecución, la propiedad podrá obligar a su cumplimiento mediante la introducción de las cláusulas correspondientes en el contrato con el constructor.",
+      "text": "En su caso, dicha exigencia debería incluirse en un anejo de evaluación ambiental de la estructura, que formará parte del proyecto. En caso de que el proyecto no contemplara este tipo de exigencias para la fase de ejecución, la propiedad podrá obligar a su cumplimiento mediante la introducción de las cláusulas correspondientes en el contrato con el constructor."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 165.91499999999996,
+            "r": 552.9834690000001,
+            "b": 121.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            394
+          ]
+        }
+      ],
+      "orig": "En particular, el sistema de gestión medioambiental de la ejecución deberá identificar las correspondientes buenas prácticas medioambientales a seguir durante la ejecución de la obra. En el caso de que el proyecto haya establecido exigencias relativas a la contribución de la estructura a la sostenibilidad, de acuerdo con el capítulo 2, la ejecución deberá ser coherente con dichas exigencias.",
+      "text": "En particular, el sistema de gestión medioambiental de la ejecución deberá identificar las correspondientes buenas prácticas medioambientales a seguir durante la ejecución de la obra. En el caso de que el proyecto haya establecido exigencias relativas a la contribución de la estructura a la sostenibilidad, de acuerdo con el capítulo 2, la ejecución deberá ser coherente con dichas exigencias."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 109.39499999999998,
+            "r": 552.9625120000001,
+            "b": 77.27418232044204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "En el caso de que algunas de las unidades de obra sean subcontratadas, el constructor, entendido éste como el contratista principal, deberá velar para que se observe el cumplimiento de las consideraciones medioambientales en la totalidad de la obra.",
+      "text": "En el caso de que algunas de las unidades de obra sean subcontratadas, el constructor, entendido éste como el contratista principal, deberá velar para que se observe el cumplimiento de las consideraciones medioambientales en la totalidad de la obra."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 543.72,
+            "t": 45.620000000000005,
+            "r": 552.846,
+            "b": 39.85319327731088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "63",
+      "text": "63"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 734.24,
+            "r": 287.06399999999996,
+            "b": 726.8411049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "14.3 Nivel de control y clases de ejecución",
+      "text": "14.3 Nivel de control y clases de ejecución",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 714.915,
+            "r": 552.8753749999998,
+            "b": 670.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "El pliego de prescripciones técnicas particulares del proyecto incluirá la identificación del nivel de control de ejecución en el caso de estructuras de hormigón, y de las clases de ejecución que serán aplicables a cada elemento en el caso de estructuras de acero, necesarias para garantizar el nivel adecuado de seguridad.",
+      "text": "El pliego de prescripciones técnicas particulares del proyecto incluirá la identificación del nivel de control de ejecución en el caso de estructuras de hormigón, y de las clases de ejecución que serán aplicables a cada elemento en el caso de estructuras de acero, necesarias para garantizar el nivel adecuado de seguridad."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 658.275,
+            "r": 552.9790570000001,
+            "b": 626.154182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "Una estructura de acero puede incluir elementos de distinta clase. En dicho caso, debe procederse a agrupar los elementos por clases al objeto de simplificar la especificación de los criterios requeridos, la gestión de su comprobación y la valoración de su ejecución y control.",
+      "text": "Una estructura de acero puede incluir elementos de distinta clase. En dicho caso, debe procederse a agrupar los elementos por clases al objeto de simplificar la especificación de los criterios requeridos, la gestión de su comprobación y la valoración de su ejecución y control."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 614.355,
+            "r": 552.857256,
+            "b": 582.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "De acuerdo con los índices de fiabilidad adoptados en el apartado 5.2.1 de este Código, debe cumplirse una clase de fiabilidad RC2. Por ello, el nivel de inspección durante la ejecución según el apartado B5 del Anejo 18 debe ser, al menos, el IL2, lo que conlleva a que:",
+      "text": "De acuerdo con los índices de fiabilidad adoptados en el apartado 5.2.1 de este Código, debe cumplirse una clase de fiabilidad RC2. Por ello, el nivel de inspección durante la ejecución según el apartado B5 del Anejo 18 debe ser, al menos, el IL2, lo que conlleva a que:"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.92,
+            "t": 570.435,
+            "r": 553.1022510000001,
+            "b": 550.914182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "-en los elementos de hormigón, un control de ejecución intenso o normal (según el apartado 22.4), y",
+      "text": "-en los elementos de hormigón, un control de ejecución intenso o normal (según el apartado 22.4), y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.92,
+            "t": 539.115,
+            "r": 552.857385,
+            "b": 519.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "-en los elementos de acero, un control de ejecución intenso o normal, en función de la clase de ejecución, que deberá ser 2, 3 o 4 (según el apartado 91.2) (tabla 14.3.1).",
+      "text": "-en los elementos de acero, un control de ejecución intenso o normal, en función de la clase de ejecución, que deberá ser 2, 3 o 4 (según el apartado 91.2) (tabla 14.3.1).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 137.04,
+            "t": 507.79499999999996,
+            "r": 458.66376999999966,
+            "b": 500.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Tabla 14.3.1 Relación entre niveles de control y clases de ejecución",
+      "text": "Tabla 14.3.1 Relación entre niveles de control y clases de ejecución"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 395.835,
+            "r": 552.858359,
+            "b": 376.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Salvo indicación en contra de la reglamentación específica que le sea aplicable, en el caso de puentes, la clase de ejecución será:",
+      "text": "Salvo indicación en contra de la reglamentación específica que le sea aplicable, en el caso de puentes, la clase de ejecución será:"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.92,
+            "t": 364.515,
+            "r": 418.19542399999983,
+            "b": 357.6630303030303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "-para los elementos de hormigón, control de ejecución intenso, y",
+      "text": "-para los elementos de hormigón, control de ejecución intenso, y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.92,
+            "t": 345.91499999999996,
+            "r": 362.5998119999999,
+            "b": 339.0630303030303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "-para los elementos de acero estructural, clase 3 o 4.",
+      "text": "-para los elementos de acero estructural, clase 3 o 4.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 127.68,
+            "t": 302.05500000000006,
+            "r": 444.4872210000002,
+            "b": 293.40445856353585,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Gestión de los acopios de materiales en la obra",
+      "text": "Gestión de los acopios de materiales en la obra",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 281.115,
+            "r": 552.8396080000001,
+            "b": 249.11418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            286
+          ]
+        }
+      ],
+      "orig": "El constructor deberá disponer de un sistema de gestión de los materiales, productos y elementos estructurales que se vayan a colocar en la obra, de manera que se asegure la trazabilidad de los mismos. Dicho sistema de gestión deberá presentar, al menos, las siguientes características:",
+      "text": "El constructor deberá disponer de un sistema de gestión de los materiales, productos y elementos estructurales que se vayan a colocar en la obra, de manera que se asegure la trazabilidad de los mismos. Dicho sistema de gestión deberá presentar, al menos, las siguientes características:"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.92,
+            "t": 237.19499999999994,
+            "r": 552.9632730000002,
+            "b": 217.79418232044202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "-disponer de un registro de suministradores de la obra, con identificación completa de los mismos y de los materiales y productos suministrados,",
+      "text": "-disponer de un registro de suministradores de la obra, con identificación completa de los mismos y de los materiales y productos suministrados,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.92,
+            "t": 205.875,
+            "r": 552.7945139999999,
+            "b": 186.47418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "-disponer de un sistema de almacenamiento de los acopios en la obra que permita mantener, en su caso, la trazabilidad de cada una de las partidas o remesas que llegan a la obra, y",
+      "text": "-disponer de un sistema de almacenamiento de los acopios en la obra que permita mantener, en su caso, la trazabilidad de cada una de las partidas o remesas que llegan a la obra, y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.92,
+            "t": 174.67499999999995,
+            "r": 552.9919510000001,
+            "b": 129.83418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            350
+          ]
+        }
+      ],
+      "orig": "-disponer de un sistema de registro y seguimiento de las unidades ejecutadas que relacione estas con las partidas de productos utilizados y, en su caso, con las remesas empleadas en las mismas, de manera que se pueda mantener la trazabilidad durante la ejecución de la obra, de acuerdo con el nivel de control de la ejecución definido en el proyecto.",
+      "text": "-disponer de un sistema de registro y seguimiento de las unidades ejecutadas que relacione estas con las partidas de productos utilizados y, en su caso, con las remesas empleadas en las mismas, de manera que se pueda mantener la trazabilidad durante la ejecución de la obra, de acuerdo con el nivel de control de la ejecución definido en el proyecto.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 543.72,
+            "t": 45.620000000000005,
+            "r": 552.846,
+            "b": 39.85319327731088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "64",
+      "text": "64"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.68,
+            "t": 733.455,
+            "r": 378.2978900000001,
+            "b": 724.804458563536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Actuaciones asociadas a la ejecución",
+      "text": "Actuaciones asociadas a la ejecución",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 706.16,
+            "r": 349.2240000000002,
+            "b": 698.7611049723756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "16.1 Actuaciones previas al comienzo de la ejecución",
+      "text": "16.1 Actuaciones previas al comienzo de la ejecución",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 686.835,
+            "r": 552.8054149999999,
+            "b": 667.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Antes del inicio de la ejecución de la estructura, la dirección facultativa velará para que el constructor efectúe las actuaciones siguientes:",
+      "text": "Antes del inicio de la ejecución de la estructura, la dirección facultativa velará para que el constructor efectúe las actuaciones siguientes:"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 88.92,
+            "t": 655.515,
+            "r": 552.916947,
+            "b": 635.994182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "-depósito en las instalaciones de la obra del correspondiente libro de órdenes, facilitado por la dirección facultativa;",
+      "text": "-depósito en las instalaciones de la obra del correspondiente libro de órdenes, facilitado por la dirección facultativa;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 88.92,
+            "t": 624.1949999999999,
+            "r": 552.9765090000001,
+            "b": 592.074182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "-identificación de suministradores inicialmente previsto, así como del resto de agentes involucrados en la obra, reflejando sus datos en el correspondiente directorio que deberá estar permanentemente actualizado hasta la recepción de la obra;",
+      "text": "-identificación de suministradores inicialmente previsto, así como del resto de agentes involucrados en la obra, reflejando sus datos en el correspondiente directorio que deberá estar permanentemente actualizado hasta la recepción de la obra;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 88.92,
+            "t": 580.275,
+            "r": 553.0857059999997,
+            "b": 535.554182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "-comprobación de la existencia de la documentación que avale la idoneidad técnica de los equipos previstos para su empleo durante la obra como, por ejemplo, los certificados de calibración o la definición de los parámetros óptimos de soldeo de los equipos de soldadura; y",
+      "text": "-comprobación de la existencia de la documentación que avale la idoneidad técnica de los equipos previstos para su empleo durante la obra como, por ejemplo, los certificados de calibración o la definición de los parámetros óptimos de soldeo de los equipos de soldadura; y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 88.92,
+            "t": 523.635,
+            "r": 552.9809210000002,
+            "b": 491.514182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "-en caso de que se pretenda realizar soldaduras en obra, se comprobará la existencia de personal soldador con la cualificación u homologación suficiente, conforme a las exigencias de este Código.",
+      "text": "-en caso de que se pretenda realizar soldaduras en obra, se comprobará la existencia de personal soldador con la cualificación u homologación suficiente, conforme a las exigencias de este Código.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 479.715,
+            "r": 552.8605650000001,
+            "b": 460.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Además, el constructor deberá comprobar la conformidad de la documentación previa de cada uno de los productos antes de su utilización, de acuerdo con los criterios establecidos por este Código.",
+      "text": "Además, el constructor deberá comprobar la conformidad de la documentación previa de cada uno de los productos antes de su utilización, de acuerdo con los criterios establecidos por este Código."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 448.395,
+            "r": 552.9856749999998,
+            "b": 403.67418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "Asimismo, con carácter previo al inicio de la ejecución, el constructor deberá comprobar que no hay constancia documental de modificaciones sustanciales que puedan conllevar alteraciones respecto a la estructura de hormigón proyectada inicialmente como, por ejemplo, como consecuencia de la ubicación de nuevas instalaciones.",
+      "text": "Asimismo, con carácter previo al inicio de la ejecución, el constructor deberá comprobar que no hay constancia documental de modificaciones sustanciales que puedan conllevar alteraciones respecto a la estructura de hormigón proyectada inicialmente como, por ejemplo, como consecuencia de la ubicación de nuevas instalaciones."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 391.755,
+            "r": 552.9944989999999,
+            "b": 347.03418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "Al objeto de conseguir la trazabilidad de los materiales y productos empleados en la obra, de acuerdo con lo indicado en el Artículo 14, el constructor deberá comunicar a la dirección facultativa las características del sistema que garantice dicha trazabilidad, con indicación de los criterios de gestión de las partidas y remesas recibidas en la obra, así como de los correspondientes acopios en la misma.",
+      "text": "Al objeto de conseguir la trazabilidad de los materiales y productos empleados en la obra, de acuerdo con lo indicado en el Artículo 14, el constructor deberá comunicar a la dirección facultativa las características del sistema que garantice dicha trazabilidad, con indicación de los criterios de gestión de las partidas y remesas recibidas en la obra, así como de los correspondientes acopios en la misma."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 328.76,
+            "r": 353.78400000000016,
+            "b": 321.36110497237564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "16.2 Actuaciones durante el desarrollo de la ejecución",
+      "text": "16.2 Actuaciones durante el desarrollo de la ejecución",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 309.43499999999995,
+            "r": 552.8676540000002,
+            "b": 277.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "Todas las actividades desarrolladas durante la fase ejecución deberán ser conformes con los procedimientos de proceso definidos previamente por el constructor y autorizados por la dirección facultativa.",
+      "text": "Todas las actividades desarrolladas durante la fase ejecución deberán ser conformes con los procedimientos de proceso definidos previamente por el constructor y autorizados por la dirección facultativa."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 265.515,
+            "r": 552.9801600000003,
+            "b": 233.39418232044204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "Cualquier incidencia o desviación respecto a los mencionados procedimientos deberá ser documentada e incorporada a la documentación de control gestionada por el constructor, informándose de ello a la dirección facultativa.",
+      "text": "Cualquier incidencia o desviación respecto a los mencionados procedimientos deberá ser documentada e incorporada a la documentación de control gestionada por el constructor, informándose de ello a la dirección facultativa."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 221.47500000000002,
+            "r": 552.9863069999999,
+            "b": 176.75418232044194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            366
+          ]
+        }
+      ],
+      "orig": "Sin perjuicio de la reglamentación específica que le sea de aplicación, cualquier empleo durante la obra de un elemento auxiliar (puntales, cimbras, etc.) será responsabilidad del constructor, que deberá disponer de los documentos correspondientes (proyecto, certificado, etc., según el caso) que avalen la conformidad de tales elementos para el uso que se pretende.",
+      "text": "Sin perjuicio de la reglamentación específica que le sea de aplicación, cualquier empleo durante la obra de un elemento auxiliar (puntales, cimbras, etc.) será responsabilidad del constructor, que deberá disponer de los documentos correspondientes (proyecto, certificado, etc., según el caso) que avalen la conformidad de tales elementos para el uso que se pretende."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 543.72,
+            "t": 45.620000000000005,
+            "r": 552.846,
+            "b": 39.85319327731088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "65",
+      "text": "65"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 512.068115234375,
+            "t": 814.6861972808838,
+            "r": 552.5440673828125,
+            "b": 774.4647979736328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 41.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 512.01611328125,
+            "t": 814.5909309387207,
+            "r": 552.5758666992188,
+            "b": 774.4686279296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 41.0
+        },
+        "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAApCAIAAAAnApehAAANTElEQVR4nMVXfUxTZ9s/pz2npx+HllJKYbRQBBTLt+IQLGXiUBQ2k22M4ZyThD8W/luccVnMkrnFuCyGRefGXOLCMsTXZRuTYebk0xmmAkpnKZ+2hVJKgUI/zunpac/peYM36Xz3PlueZ0/yPNcf7enpfV+/6+v+XdcNcxwH/ZeE97d32my2r7/+2mq1/hewSZK0WCw0Tf9HsYnH4nK5wuGwxWIhCMLtdv8NPfA/k2+O41iWhWF4dHS0q6uLIAgIgiiKwjDM6/XGxcUxDBMTE1NeXq7X6yEI4vP5PB7v38UmCOLWrVujo6MOh4NlWa/XW15enpWVBUHQL7/8MjAwUFhYWFVVJRaLZ2dnu7q6YBgWCoVKpXLLli0VFRVqtfovlCN/8d/8/HxzczNBEBUVFQaDoaWlxWAwvPHGG5FIBIIgj8fz8OHDzZs37969m+O4kpISsVj81VdfNTY2MgzT39/f29v75ptv5ufn/x3sS5cu0TR99uzZcDjMMExCQgJN01NTUyRJ8ni8iYkJCIJmZ2cnJiYoisJx3OVySaXSTZs2YRhmMBiam5tbWlo++ugjHMf/oX7enwHTND03N5eamjo+Pu52u2marqqqunfvXjAYLCwszM/P12q1QqEwMTFRp9Nt375doVD09fVVVlZyHEeSpNlslkqlFEW5XK5/2W8+n69QKGw2W1paWnx8/HppwHBeXt7MzIxKpeI4TiQS1dfX+/3+6enp2NhYo9G4bds2lUql0WggCFpbW/v+++/FYnFMTMy/jI0gSFlZWX9//+joqEajkUgkZrNZLBYzDHPz5k2Kong83tLSUnJy8s2bN2Uy2dLSklKpXFpampiYIAgiEAiIRKL8/PyEhIS/U+csy5pMps7OTrVaDXSBT5VKdf/+/dzc3IcPH27dunV+fl4qlcpkMofDoVAoHA6HWq2empqqqanZtm3bXxw2+ElsiqIikYhEInlyxdDQUH9/P6gAHMftdrvwseA4TpKkSCTiOI4gCJ/PJ3ssDocjKSlJp9Pt2bMHRdGoHpqmQ6HQkynYwF5bW7t3757RaKRpuqioqLS0VCaTRRctLy9fuHBBqVSiKAqQYmNjYRh2Op0SiUShUPgfi1qt9ng8KysrdXV1gAOiLg0NDY2Oji4uLubk5OzYsSMzM/P3fN+9e/f06dN5eXkMw/T19R0/fnz//v3RzUql8tChQ1euXMEwTKPRxMbGxsfHIwhSWFhI0zRJkoFAALi+tLS0ffv2J4GB6Z988glgw9u3b/t8vv+DvWPHjpqamrGxsXA4XFZWlpeXB7qFzWaL2o5hmN1uZ1k2MTExEonIZLLV1VUEQfx+P8uya2trVqs1Pj4+NjZ2bGwMgiCwJiUlRaFQ1NXVdXd3MwyjVCpLSko4joNheCPmJpMpFAoRBMFxXExMDMdx27dvHx8fn5ycBDbCMAxyBk4Xj8fjOK67u7u4uBjEH4ZhFEXNZrNEIlEqlTAM+/1+i8Xy8ssvWyyW2dlZiUQCKIggiJKSEoFAsOG3SCT68ccfxWIxDMMEQezbtw+0EK1Wm52dDdZcuXLl3XffvXDhQmVlJXhjs9mysrJgGHa73RiGORyOzz77TCwWnzhxwuPxFBUVOZ1OCILkcvnly5cjkQiGYfPz8+Xl5aAGN7C1Wi3ojAzDBAKBjIyM6DEDD6dOnbpx48bKysoHH3wwMjLy9ttvA/7hOO7s2bMMw9TW1r733nudnZ0VFRXd3d2zs7NlZWWA+eVyeUpKisvlUigUFEVlZGSAKG5gcxx38OBBnU7n9/sfPHiAYdiTxUKSpNFo9Pl8arXabrdPTk4SBIHjePixlJaWHjt2bH5+fnV1FYKgxMfywgsvRO2GIKigoCAtLU0kEvX390fp/XdewzBMIpGQJMkwzB8I4dGjRz09PYFAADRymqYnJiaKiopAGPV6/cmTJ5uamlZXVwUCQW1tLcdxsbGxTzIHn8/HMAxBEJFIFHVsAwMEASwCVQNBkFgsBkaoVKrU1FQYhhmGEQqFqampWq0W7EIQpK+v79y5cy+99FJ9fT0o1aSkpKGhIR6PF+WWYDDIMAwEQSiKIsiGwxtfDMOYTKa7d+/Ozs46nc7BwUEURSmKAmWlVCpLS0tRFB0ZGdm1a5dGowHdhaKoYDC4c+fOM2fOlJWVvf/++yiKNjY21tfXNzY2wjDc0dFhMpnsdjtFUTKZLDk5GcOwQCCQkJDA5/MRjuOuXr06MDCwtra2sLDg9/s1Gs38/Pz09LTVak1LS6usrGRZdmZmxmg0QhA0MDBQXV3tdrttNhtJkvfv39doNCUlJf/zWNLS0pxOp16v37RpUzgc7ujokEql2dnZfD7fZrOBpLS2tj733HP19fUIy7InT570eDx1dXUHDx6Mj4+fmZkpLi5eXl7u6elRKpUQBDU3Nw8ODjIM09DQ0NbWNjAw8MUXXxQVFRUUFPh8vpmZGZvNduvWLb1e/+yzz37++eejo6MHDhxgWbahoQHYsby8LJfLw+HwtWvXNBrN8PBwVlYWgiBIY2PjxYsXt2zZ8sorr4DS5Thu7969WVlZoPPTNJ2ZmYnj+JEjR1wul9fr1el0JEk+/fTTFosFtK+mpqasrCyCIK5evZqbmwtSaTAYqqurnU7nb7/9Vl5eDsPw5OTk9evXN2/ebDAY1vPd2NgIUgIOm9vtvnTpUnNzM6gRmqabmpoOHz6Momg4HG5paRkaGuLz+W+99daHH37Y3t4eFxdXU1NDEEQoFBIIBKdOnZJKpYFAgKKocDgMQdCXX3756NGj+vp6CILi4uL27NlTW1urUqnWsRUKxblz50wmE6CqkZGR27dvW63WzMzM8fHxb775BsfxjIyM69evv/jiiz/88INWq33ttdcaGhrm5uZ27dq1detWn89ntVoDgQA4dWB0B/AQBD18+HBkZKStra2qqioxMfHYsWNgoPj9jC0sLLzzzjv79+8/f/780aNH8/LyKIrasWOHx+MhCEKr1fb29hYWFhqNxsXFRYqijh492tnZKZPJdDqdUCgcHh6empqanp7u6+szmUyTk5MFBQVSqRSCoJMnT6anpx8+fHj37t2tra2AaDewx8bGDh06dODAgZaWli1btpw/f/706dMymSwSibAsy+PxYBiORCIoijIMg+N4SkrK6urqyspKaWlpTEyMy+UymUw6nc7j8VAUpVarp6en7969K5FIAKdmZ2efOXOmtbU1ISGhtbV1586dx48f9/v96zHv7Ozs6+s7ceJEbW2tUqkcHh5mWRYwAAzDGIaxLBslqUgkkpOTYzQaTSZTXV3d8vLyt99+i+O4w+GAYZjH4z169CgzM3NqasrlckX5kc/nHzly5NChQ+3t7bdv3x4YGFhZWVkHMBgMwWCwsrJy27ZtXq+Xx+MBbJFI5Ha7BQKB3+8HHgD6k0gkdrvdaDTGxMQkJydHIpF9+/YBt1ZWVlAUfeaZZxYWFuRyefSWynFcMBgUCoU6nQ6CoKSkJLVavY5dUFAAmjcwkGVZgAS8jHIyx3EYhgmFwmAwCCo2Ozs7Li6uu7u7v7+fJMkHDx4gCCKXy2/cuEGSJEEQAoHgyb4ACFStVuv1ehRF12MiFovLy8vBFAfDsEAgiNL7HwS8DwQCYOgA1YAgSElJSWpqanx8PI7jKpWqtLRUKBRiGBYKhaIb+Xw+eM7KykpLS/udzyORCIIgHo/H7/dH+xhA+rMhGobhYDAIbh5zc3PDw8PPP/88RVH9/f2bNm1aXFwkSTK6lyAIo9GIouj4+Hh0Yt/AZlm2o6PD5XIxDOPz+dLT03Nzc+Pi4kwmE03TYCT6/5P27OxsYmJiXl7eyMjIxYsXv/vuO4qiLly48Omnn6anpyuVSnCcwuHw4ODgnTt3AJBUKtVqtes9EGixWq3V1dVPPfUUDMNg3AQdHUVRu92emJgIEhEdB/h8vtlsbmhoMJvNZWVlV69evXbtWmpqaigU6urqIkmytrb2zp07xcXFEAQtLCzk5ubW1dUhCBIIBCYmJmiaFgqF69her3dgYADH8fv371MUlZycvLKyolKpcnJy9Hq9SqXi8/koioJBkeM48DM2Nvann34SiURisfjo0aOXL1+2Wq00TWMYVl9fT5KkQqFQKpWRSKSnp2d+fn50dNTr9QqFQo/HA8NwVVXVOvba2trg4CCY91AU/fXXX8PhMI7jOTk5CIJ8/PHHXV1dvb294XDY7/cLBALQhYqLi3/++eeUlBSv12uxWF5//XWJROL3+zmOM5vNKSkpRUVFIMiDg4OgQoFBNE339vZuYMMwrNVqU1JSwD1bKBSCywuYouVy+auvvmqxWPh8fnt7u8Fg2Llzp1AobGtrC4fDdrv9zp07Bw8eHB8fN5vNXq9Xr9fv3bsXsClQvnXrVqfTqVKpMAyjKCoUCmVkZKwr5zjO6/WOjY0lJSUtLi76fL6MjAyCIEQi0ebNm/9QXD6fz+l0hkKhYDBIkuTc3JxcLlcoFGKxmM/n4zgODs+TEolEpqamkpKSCIJwOBwZGRk8Hs/tdqenp/8vhFYY6NGnyUAAAAAASUVORK5CYII="
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 512.021728515625,
+            "t": 814.5580444335938,
+            "r": 552.5553588867188,
+            "b": 774.4176712036133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 41.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 512.0191040039062,
+            "t": 814.5798454284668,
+            "r": 552.55810546875,
+            "b": 774.4203720092773,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 41.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 511.93682861328125,
+            "t": 814.790060043335,
+            "r": 552.7254638671875,
+            "b": 774.1605758666992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 41.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 117.80960083007812,
+            "t": 671.3587493896484,
+            "r": 477.1817321777344,
+            "b": 542.5830383300781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 135.6,
+              "t": 207.05999999999995,
+              "r": 222.6195239999998,
+              "b": 213.20108287292817,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nivel de trazabilidad",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.24,
+              "t": 186.05999999999995,
+              "r": 351.185532,
+              "b": 234.20108287292817,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Nivel de control de ejecución de estructuras de hormigón (Apartado 22.4)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 369.6,
+              "t": 183.05999999999995,
+              "r": 465.01978799999995,
+              "b": 219.20108287292817,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Clase de ejecución de estructuras de acero (Apartado 91.2)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 163.68,
+              "t": 257.1,
+              "r": 194.44245599999996,
+              "b": 263.24108287292825,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nivel A",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 282.84,
+              "t": 257.1,
+              "r": 314.778732,
+              "b": 263.24108287292825,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Intenso",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 392.76,
+              "t": 257.1,
+              "r": 441.85782,
+              "b": 263.24108287292825,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Clase 3 o 4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 163.68,
+              "t": 284.34000000000003,
+              "r": 194.44245599999996,
+              "b": 290.48108287292825,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nivel B",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 283.08,
+              "t": 284.34000000000003,
+              "r": 314.572524,
+              "b": 290.48108287292825,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Normal",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 400.8,
+              "t": 284.34000000000003,
+              "r": 433.818396,
+              "b": 290.48108287292825,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Clase 2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 3,
+        "num_cols": 3,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 135.6,
+                "t": 207.05999999999995,
+                "r": 222.6195239999998,
+                "b": 213.20108287292817,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nivel de trazabilidad",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 246.24,
+                "t": 186.05999999999995,
+                "r": 351.185532,
+                "b": 234.20108287292817,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Nivel de control de ejecución de estructuras de hormigón (Apartado 22.4)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 369.6,
+                "t": 183.05999999999995,
+                "r": 465.01978799999995,
+                "b": 219.20108287292817,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Clase de ejecución de estructuras de acero (Apartado 91.2)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 163.68,
+                "t": 257.1,
+                "r": 194.44245599999996,
+                "b": 263.24108287292825,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nivel A",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 282.84,
+                "t": 257.1,
+                "r": 314.778732,
+                "b": 263.24108287292825,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Intenso",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 392.76,
+                "t": 257.1,
+                "r": 441.85782,
+                "b": 263.24108287292825,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Clase 3 o 4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 163.68,
+                "t": 284.34000000000003,
+                "r": 194.44245599999996,
+                "b": 290.48108287292825,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nivel B",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 283.08,
+                "t": 284.34000000000003,
+                "r": 314.572524,
+                "b": 290.48108287292825,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Normal",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 400.8,
+                "t": 284.34000000000003,
+                "r": 433.818396,
+                "b": 290.48108287292825,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Clase 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 80.69841766357422,
+            "t": 500.19061279296875,
+            "r": 513.9625854492188,
+            "b": 407.4117431640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 100.32,
+              "t": 353.285,
+              "r": 206.89296299999984,
+              "b": 385.405817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nivel de control de ejecución, según este Código",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 252.24,
+              "t": 359.64500000000004,
+              "r": 487.21429599999976,
+              "b": 379.045817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Clase de ejecución para los elementos de acero (conforme al apartado 91.2)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 135.48,
+              "t": 401.885,
+              "r": 171.72788899999992,
+              "b": 408.685817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Intenso",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 341.76,
+              "t": 401.885,
+              "r": 397.5729029999999,
+              "b": 408.685817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Clase 3 o 4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 135.84,
+              "t": 423.125,
+              "r": 171.420574,
+              "b": 429.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Normal",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 351.0,
+              "t": 423.125,
+              "r": 388.33213799999993,
+              "b": 429.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Clase 2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 3,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 100.32,
+                "t": 353.285,
+                "r": 206.89296299999984,
+                "b": 385.405817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nivel de control de ejecución, según este Código",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 252.24,
+                "t": 359.64500000000004,
+                "r": 487.21429599999976,
+                "b": 379.045817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Clase de ejecución para los elementos de acero (conforme al apartado 91.2)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 135.48,
+                "t": 401.885,
+                "r": 171.72788899999992,
+                "b": 408.685817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Intenso",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 341.76,
+                "t": 401.885,
+                "r": 397.5729029999999,
+                "b": 408.685817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Clase 3 o 4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 135.84,
+                "t": 423.125,
+                "r": 171.420574,
+                "b": 429.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Normal",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 351.0,
+                "t": 423.125,
+                "r": 388.33213799999993,
+                "b": 429.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Clase 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 5
+    }
+  }
+}

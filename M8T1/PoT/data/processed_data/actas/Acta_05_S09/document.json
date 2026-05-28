@@ -1,0 +1,1031 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Acta_05_S09",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9109523194182199361,
+    "filename": "Acta_05_S09.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 771.2363988258126,
+            "r": 330.39020851199996,
+            "b": 752.6126828418126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Acta 5 - Soluciones extremas",
+      "text": "Acta 5 - Soluciones extremas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 742.4955475758125,
+            "r": 99.70143980399999,
+            "b": 730.8558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Obra:",
+      "text": "Obra:"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.69887475000002,
+            "t": 742.4955475758125,
+            "r": 475.2397113299997,
+            "b": 730.8558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Construccion de la estructura del Nuevo Polideportivo Municipal La Pinada",
+      "text": "Construccion de la estructura del Nuevo Polideportivo Municipal La Pinada"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 727.9955470758125,
+            "r": 135.63056311199998,
+            "b": 716.3558310918124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Expediente:",
+      "text": "Expediente:"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.63149175,
+            "t": 727.9955470758125,
+            "r": 211.82963247000004,
+            "b": 716.3558310918124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "OBR-2025-014",
+      "text": "OBR-2025-014"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 713.4955473258125,
+            "r": 145.73031667200001,
+            "b": 701.8558313418125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Constructora:",
+      "text": "Constructora:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 145.72939200000002,
+            "t": 713.4955473258125,
+            "r": 280.17611141999987,
+            "b": 701.8558313418125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Edificaciones del Ebro S.L.",
+      "text": "Edificaciones del Ebro S.L."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 698.9955475758125,
+            "r": 102.56137002,
+            "b": 687.3558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Plazo:",
+      "text": "Plazo:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.55532025000001,
+            "t": 698.9955475758125,
+            "r": 461.2465679699998,
+            "b": 687.3558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "20 semanas (estructura), improrrogable por inauguracion pre-electoral",
+      "text": "20 semanas (estructura), improrrogable por inauguracion pre-electoral"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 682.4955475758125,
+            "r": 486.2762173499998,
+            "b": 670.8558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Acta n.º 5 - Semana 9 · 11 de marzo de 2025, 10:00 · Reunion quincenal de obra",
+      "text": "Acta n.º 5 - Semana 9 · 11 de marzo de 2025, 10:00 · Reunion quincenal de obra"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 654.5092687578125,
+            "r": 214.00620450000008,
+            "b": 640.5412687578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Nombres (asistentes)",
+      "text": "Nombres (asistentes)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 632.6022516438125,
+            "r": 442.0051649279999,
+            "b": 619.7988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Elena Vargas - Propiedad (muy molesta por el incidente del Eje 4) ·",
+      "text": "Elena Vargas - Propiedad (muy molesta por el incidente del Eje 4) ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 612.8022516438125,
+            "r": 283.5901931040001,
+            "b": 599.9988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Carlos Mendoza - Arquitecto Director ·",
+      "text": "Carlos Mendoza - Arquitecto Director ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 593.0022516438125,
+            "r": 241.6930518960001,
+            "b": 580.1988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Laura Gimenez - Aparejadora ·",
+      "text": "Laura Gimenez - Aparejadora ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 573.2022516438125,
+            "r": 268.8618465359999,
+            "b": 560.3988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Roberto Dominguez - Jefe de Obra ·",
+      "text": "Roberto Dominguez - Jefe de Obra ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 553.4022516438125,
+            "r": 320.16357050400006,
+            "b": 540.5988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "David Ruiz - Ingeniero calculista estructural ·",
+      "text": "David Ruiz - Ingeniero calculista estructural ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 524.1092692578125,
+            "r": 423.0342045,
+            "b": 510.1412692578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Tareas pendientes a resolver de semanas anteriores",
+      "text": "Tareas pendientes a resolver de semanas anteriores",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 501.30225139381247,
+            "r": 505.2518216279998,
+            "b": 488.4988194258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Solucion de los pilares del Eje 4 (Acta 4): RESUELTO. Se descarta la demolicion.",
+      "text": "Solucion de los pilares del Eje 4 (Acta 4): RESUELTO. Se descarta la demolicion."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 472.0092690078125,
+            "r": 184.25820450000003,
+            "b": 458.0412690078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Nuevos acuerdos",
+      "text": "Nuevos acuerdos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 450.1022518938125,
+            "r": 523.203562512,
+            "b": 405.3988194258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "Para salvar el error de los pilares del Eje 4, el calculista David Ruiz determina que el forjado reticular en esa zona debera reforzarse con doble mallazo y vigas planas de transicion que absorban el desplazamiento de 15 cm. ·",
+      "text": "Para salvar el error de los pilares del Eje 4, el calculista David Ruiz determina que el forjado reticular en esa zona debera reforzarse con doble mallazo y vigas planas de transicion que absorban el desplazamiento de 15 cm. ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 398.40225139381255,
+            "r": 521.168652792,
+            "b": 353.6988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "ACUERDO CLAVE: la constructora asumira el 100% del coste del acero adicional y del exceso de hormigon derivados de su error de replanteo del Eje 4. Este sobrecoste NO se repercutira a la propiedad bajo ningun concepto. ·",
+      "text": "ACUERDO CLAVE: la constructora asumira el 100% del coste del acero adicional y del exceso de hormigon derivados de su error de replanteo del Eje 4. Este sobrecoste NO se repercutira a la propiedad bajo ningun concepto. ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 337.2092692578125,
+            "r": 245.89020450000004,
+            "b": 323.2412692578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "RFI de las distintas partes",
+      "text": "RFI de las distintas partes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 315.3022513938124,
+            "r": 488.8190879999999,
+            "b": 286.5488199258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "Aparejadora: pregunta si el recrecido del pilar afectara a los conductos de ventilacion previstos en ese patinillo. ·",
+      "text": "Aparejadora: pregunta si el recrecido del pilar afectara a los conductos de ventilacion previstos en ese patinillo. ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 279.55225189381247,
+            "r": 514.9869270479998,
+            "b": 234.8488194258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "Respuesta de Arquitectura: si. El patinillo de instalaciones se reduce 15 cm. La ingenieria de instalaciones debera adaptar el trazado de los conductos en esa zona. ·",
+      "text": "Respuesta de Arquitectura: si. El patinillo de instalaciones se reduce 15 cm. La ingenieria de instalaciones debera adaptar el trazado de los conductos en esa zona. ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 218.3592690078125,
+            "r": 144.3462045,
+            "b": 204.39126900781253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Incidencias",
+      "text": "Incidencias",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 195.55225189381247,
+            "r": 499.4880773399997,
+            "b": 166.79881967581252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Retraso acumulado de 10 dias por la paralizacion del bloque de vestuarios. La moral de los operarios es baja tras semanas de tension.",
+      "text": "Retraso acumulado de 10 dias por la paralizacion del bloque de vestuarios. La moral de los operarios es baja tras semanas de tension."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 150.3092692578125,
+            "r": 361.03020450000014,
+            "b": 136.34126925781254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Modificaciones aprobadas por la propiedad",
+      "text": "Modificaciones aprobadas por la propiedad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 127.50225139381246,
+            "r": 500.90701438799977,
+            "b": 98.74881992581254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "Ninguna que suponga coste adicional para la propiedad, en virtud del acuerdo clave por el que la constructora asume integramente el sobrecoste del Eje 4.",
+      "text": "Ninguna que suponga coste adicional para la propiedad, en virtud del acuerdo clave por el que la constructora asume integramente el sobrecoste del Eje 4."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 777.8092687578126,
+            "r": 105.59820450000001,
+            "b": 763.8412687578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Otros",
+      "text": "Otros",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 755.0022516438125,
+            "r": 521.3441076839997,
+            "b": 710.2988199258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "Elena Vargas amenaza con iniciar un expediente sancionador si no se recuperan los plazos. Exige trabajar a doble turno en el encofrado del forjado para recuperar dias.",
+      "text": "Elena Vargas amenaza con iniciar un expediente sancionador si no se recuperan los plazos. Exige trabajar a doble turno en el encofrado del forjado para recuperar dias."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2755737304688,
+        "height": 841.8897705078125
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2755737304688,
+        "height": 841.8897705078125
+      },
+      "page_no": 2
+    }
+  }
+}

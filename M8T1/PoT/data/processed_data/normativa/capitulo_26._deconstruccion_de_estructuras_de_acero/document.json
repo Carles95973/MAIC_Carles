@@ -1,0 +1,1925 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_26._deconstruccion_de_estructuras_de_acero",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6529768504768049107,
+    "filename": "capitulo_26._deconstruccion_de_estructuras_de_acero.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 421.94,
+            "r": 348.3967920000001,
+            "b": 383.65946961325966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Capítulo 26 Deconstrucción de estructuras de acero",
+      "text": "Capítulo 26 Deconstrucción de estructuras de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "404",
+      "text": "404"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 715.335,
+            "r": 364.9750020000001,
+            "b": 706.6844585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Demolición de estructuras de acero",
+      "text": "Demolición de estructuras de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 688.04,
+            "r": 161.35199999999998,
+            "b": 680.6411049723756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Generalidades",
+      "text": "Generalidades",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 668.715,
+            "r": 552.9261129999999,
+            "b": 632.7541823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "A los efectos de este Código, se entiende por demolición de una estructura de acero el conjunto de procesos de desmontaje o desmantelamiento de la estructura, en su totalidad o de una parte de misma, por decisión de la propiedad y como consecuencia de la finalización de su vida de servicio.",
+      "text": "A los efectos de este Código, se entiende por demolición de una estructura de acero el conjunto de procesos de desmontaje o desmantelamiento de la estructura, en su totalidad o de una parte de misma, por decisión de la propiedad y como consecuencia de la finalización de su vida de servicio."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 615.0749999999999,
+            "r": 552.8649770000001,
+            "b": 593.6341823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "La propiedad será responsable de disponer de un proyecto específico para las actividades de demolición incluidas en este artículo, siempre que se den cualquiera de las siguientes circunstancias:",
+      "text": "La propiedad será responsable de disponer de un proyecto específico para las actividades de demolición incluidas en este artículo, siempre que se den cualquiera de las siguientes circunstancias:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 575.955,
+            "r": 552.8582020000001,
+            "b": 556.554182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "a. Se trate de la demolición de una estructura como consecuencia de un accidente, incendio o sismo,",
+      "text": "Se trate de la demolición de una estructura como consecuencia de un accidente, incendio o sismo,",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 544.755,
+            "r": 553.101965,
+            "b": 512.6341823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "b. se trate de la demolición de una cubierta con estructura de acero, o cuando incluya elementos a flexión con luces de más de 10 m, o elementos verticales a compresión con alturas entre niveles superiores a 10 m.",
+      "text": "se trate de la demolición de una cubierta con estructura de acero, o cuando incluya elementos a flexión con luces de más de 10 m, o elementos verticales a compresión con alturas entre niveles superiores a 10 m.",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 500.715,
+            "r": 552.8616680000001,
+            "b": 479.274182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "Sin perjuicio de lo anterior, será de aplicación lo indicado en el apartado 77.1 para las estructuras de hormigón.",
+      "text": "Sin perjuicio de lo anterior, será de aplicación lo indicado en el apartado 77.1 para las estructuras de hormigón."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 459.2,
+            "r": 410.2800000000003,
+            "b": 451.8011049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Trabajos previos a la demolición de la estructura de acero",
+      "text": "Trabajos previos a la demolición de la estructura de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 439.875,
+            "r": 552.9581000000001,
+            "b": 389.274182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "Antes del inicio de los trabajos de demolición o deconstrucción de la estructura, la propiedad deberá disponer la realización de una inspección in situ de la estructura, de acuerdo a los mismos criterios establecidos en el apartado 77.2 para las estructuras de hormigón. Se prestará especial atención las uniones entre distintos elementos.",
+      "text": "Antes del inicio de los trabajos de demolición o deconstrucción de la estructura, la propiedad deberá disponer la realización de una inspección in situ de la estructura, de acuerdo a los mismos criterios establecidos en el apartado 77.2 para las estructuras de hormigón. Se prestará especial atención las uniones entre distintos elementos."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 371.715,
+            "r": 552.7954879999998,
+            "b": 350.154182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "La propiedad deberá facilitar al proyectista los planos y la documentación disponible, en su caso, tanto de la estructura como del resto de la construcción.",
+      "text": "La propiedad deberá facilitar al proyectista los planos y la documentación disponible, en su caso, tanto de la estructura como del resto de la construcción."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 332.59499999999997,
+            "r": 552.8605649999998,
+            "b": 311.15418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "A partir de la información disponible y de la inspección realizada, se elaborará el proyecto de demolición que deberá contemplar, entre otros, los siguientes aspectos:",
+      "text": "A partir de la información disponible y de la inspección realizada, se elaborará el proyecto de demolición que deberá contemplar, entre otros, los siguientes aspectos:"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 293.4749999999999,
+            "r": 552.9834030000001,
+            "b": 261.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "a. Descripción de la estructura e identificación de las características del resto de la construcción, en su caso (por ejemplo, del edificio), con especial detalle de su esquema estructural resistente y de los materiales existentes;",
+      "text": "Descripción de la estructura e identificación de las características del resto de la construcción, en su caso (por ejemplo, del edificio), con especial detalle de su esquema estructural resistente y de los materiales existentes;",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 249.55500000000006,
+            "r": 552.977326,
+            "b": 230.03418232044191,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "b. identificación de los servicios públicos que potencialmente pudieran verse afectados por la demolición;",
+      "text": "identificación de los servicios públicos que potencialmente pudieran verse afectados por la demolición;",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 218.235,
+            "r": 553.0330379999996,
+            "b": 186.11418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        }
+      ],
+      "orig": "c. identificación de potenciales productos tóxicos o peligrosos para la salud generados durante la demolición, tales como asbestos, polvo de fibras sintéticas minerales, polvo de plomo, etc., así como la definición de procedimientos de gestión de dichos residuos, en su caso;",
+      "text": "identificación de potenciales productos tóxicos o peligrosos para la salud generados durante la demolición, tales como asbestos, polvo de fibras sintéticas minerales, polvo de plomo, etc., así como la definición de procedimientos de gestión de dichos residuos, en su caso;",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 174.31500000000005,
+            "r": 552.9607809999998,
+            "b": 154.79418232044202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "d. evaluación de los riesgos de afección a las construcciones adyacentes y, en su caso, medidas para evitarlos;",
+      "text": "evaluación de los riesgos de afección a las construcciones adyacentes y, en su caso, medidas para evitarlos;",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 142.995,
+            "r": 415.5247749999999,
+            "b": 136.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "e. definición de la secuencia de demolición prevista para la estructura;",
+      "text": "definición de la secuencia de demolición prevista para la estructura;",
+      "enumerated": true,
+      "marker": "e."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 124.39499999999998,
+            "r": 403.8804039999997,
+            "b": 117.59418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "f. definición de los medios previstos para demolición de cada parte;",
+      "text": "definición de los medios previstos para demolición de cada parte;",
+      "enumerated": true,
+      "marker": "f."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 105.67499999999995,
+            "r": 552.978429,
+            "b": 86.27418232044204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "g. definición de los sistemas necesarios, en su caso, para garantizar la estabilidad del conjunto durante la demolición como, por ejemplo, apuntalamientos, apoyos provisionales, etc.;",
+      "text": "definición de los sistemas necesarios, en su caso, para garantizar la estabilidad del conjunto durante la demolición como, por ejemplo, apuntalamientos, apoyos provisionales, etc.;",
+      "enumerated": true,
+      "marker": "g."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 74.35500000000002,
+            "r": 471.78659899999974,
+            "b": 67.55418232044201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "h. memoria y cálculos de la comprobaciones estructurales realizadas, en su caso;",
+      "text": "memoria y cálculos de la comprobaciones estructurales realizadas, en su caso;",
+      "enumerated": true,
+      "marker": "h."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "405",
+      "text": "405"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 736.635,
+            "r": 552.9100429999996,
+            "b": 717.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "i. medidas de protección específicas tanto para el personal involucrado en las tareas de demolición, como para terceras personas que pudieran verse afectadas por la misma;",
+      "text": "medidas de protección específicas tanto para el personal involucrado en las tareas de demolición, como para terceras personas que pudieran verse afectadas por la misma;",
+      "enumerated": true,
+      "marker": "i."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 705.3149999999999,
+            "r": 482.5915869999996,
+            "b": 698.5141823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "j. sistema previsto para la gestión de los residuos generados durante la demolición.",
+      "text": "sistema previsto para la gestión de los residuos generados durante la demolición.",
+      "enumerated": true,
+      "marker": "j."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 686.715,
+            "r": 552.979057,
+            "b": 621.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            413
+          ]
+        }
+      ],
+      "orig": "En el caso de estructuras de acero, en función de su tipología, su estado y la concepción de sus uniones, la secuencia de demolición puede ser especialmente sensible cara a la seguridad, por lo que el proyecto deberá analizar las situaciones generadas durante el proceso, habilitando en su caso los apuntalamientos, apeos provisionales o cualquier otros sistema que se estime como necesario durante la demolición.",
+      "text": "En el caso de estructuras de acero, en función de su tipología, su estado y la concepción de sus uniones, la secuencia de demolición puede ser especialmente sensible cara a la seguridad, por lo que el proyecto deberá analizar las situaciones generadas durante el proceso, habilitando en su caso los apuntalamientos, apeos provisionales o cualquier otros sistema que se estime como necesario durante la demolición."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.6,
+            "t": 601.4,
+            "r": 302.832,
+            "b": 594.0011049723756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Proceso de demolición de la estructura",
+      "text": "Proceso de demolición de la estructura",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 582.1949999999999,
+            "r": 552.9818949999999,
+            "b": 560.6341823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "Como criterio general, todas las actividades de demolición deberán realizarse conforme al proyecto y estar encaminadas a:",
+      "text": "Como criterio general, todas las actividades de demolición deberán realizarse conforme al proyecto y estar encaminadas a:"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 542.235,
+            "r": 553.0992179999998,
+            "b": 522.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": " preservar la seguridad del personal, evitando situaciones imprevistas que puedan afectar a la seguridad, y",
+      "text": " preservar la seguridad del personal, evitando situaciones imprevistas que puedan afectar a la seguridad, y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 510.195,
+            "r": 553.2051059999998,
+            "b": 478.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": " gestionar los residuos producidos de la manera más eficiente posible que en el caso de los elementos de acero, debe tender a la reciclabilidad de la totalidad de los mismos, en la línea de lo establecido en el Artículo 108.",
+      "text": " gestionar los residuos producidos de la manera más eficiente posible que en el caso de los elementos de acero, debe tender a la reciclabilidad de la totalidad de los mismos, en la línea de lo establecido en el Artículo 108.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 466.275,
+            "r": 552.9035819999998,
+            "b": 444.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "En general, el constructor podrá utilizar cualquiera de los métodos recogidos como aceptables en el proyecto de demolición. Entre ellos, cabe destacar los siguientes:",
+      "text": "En general, el constructor podrá utilizar cualquiera de los métodos recogidos como aceptables en el proyecto de demolición. Entre ellos, cabe destacar los siguientes:"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 427.275,
+            "r": 183.06862799999988,
+            "b": 420.47418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "a. Técnicas manuales,",
+      "text": "Técnicas manuales,",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 408.555,
+            "r": 358.028694,
+            "b": 401.754182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "b. técnicas de percusión (por ejemplo, martillo neumático),",
+      "text": "técnicas de percusión (por ejemplo, martillo neumático),",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 389.955,
+            "r": 351.31252699999976,
+            "b": 383.154182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "c. técnicas de impacto (por ejemplo, bola de demolición),",
+      "text": "técnicas de impacto (por ejemplo, bola de demolición),",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 371.235,
+            "r": 406.3886259999998,
+            "b": 364.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "d. técnicas de abrasión (por ejemplo, chorro de agua a alta presión),",
+      "text": "técnicas de abrasión (por ejemplo, chorro de agua a alta presión),",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 352.635,
+            "r": 509.71656299999995,
+            "b": 345.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "e. uso de maquinaria pesada (por ejemplo, retroexcavadoras, pinzas de demolición, etc.),",
+      "text": "uso de maquinaria pesada (por ejemplo, retroexcavadoras, pinzas de demolición, etc.),",
+      "enumerated": true,
+      "marker": "e."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 334.03499999999997,
+            "r": 196.50868299999985,
+            "b": 327.23418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "f. uso de explosivos, etc.",
+      "text": "uso de explosivos, etc.",
+      "enumerated": true,
+      "marker": "f."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 315.31500000000005,
+            "r": 552.9217009999999,
+            "b": 279.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "Asimismo, previamente al inicio de la propia demolición de la estructura se valorará la conveniencia de realizar otra serie de tareas de desmantelamiento de la construcción que, sin afectar a la estructura, pudieran provocar accidentes durante la demolición.",
+      "text": "Asimismo, previamente al inicio de la propia demolición de la estructura se valorará la conveniencia de realizar otra serie de tareas de desmantelamiento de la construcción que, sin afectar a la estructura, pudieran provocar accidentes durante la demolición."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 261.67499999999995,
+            "r": 552.8660799999999,
+            "b": 240.23418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "En el caso de uso de explosivos para la demolición, se estará a lo dispuesto en la legislación vigente que sea de aplicación.",
+      "text": "En el caso de uso de explosivos para la demolición, se estará a lo dispuesto en la legislación vigente que sea de aplicación."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 222.55500000000006,
+            "r": 552.979057,
+            "b": 157.554182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        }
+      ],
+      "orig": "Se procurará evitar situaciones provisionales como consecuencia de demoliciones parciales que pudieran llegar a comprometer el comportamiento global de la estructura, por ejemplo, en caso de sismo. Asimismo, en dichos casos de demolición parcial, deberá asegurarse que no quedan afectadas aquellas partes de la estructura que sean objeto de demolición, protegiéndolos adecuadamente, si ello fuera necesario.",
+      "text": "Se procurará evitar situaciones provisionales como consecuencia de demoliciones parciales que pudieran llegar a comprometer el comportamiento global de la estructura, por ejemplo, en caso de sismo. Asimismo, en dichos casos de demolición parcial, deberá asegurarse que no quedan afectadas aquellas partes de la estructura que sean objeto de demolición, protegiéndolos adecuadamente, si ello fuera necesario."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 127.68,
+            "t": 118.57500000000005,
+            "r": 395.3345190000001,
+            "b": 109.92445856353595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Deconstrucción de estructuras de acero",
+      "text": "Deconstrucción de estructuras de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 97.755,
+            "r": 552.874272,
+            "b": 76.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 736.635,
+            "r": 552.746324,
+            "b": 715.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            204,
+            334
+          ]
+        }
+      ],
+      "orig": "Se entiende por deconstrucción de la estructura de acero al proceso ordenado de demolición de la estructura, de acuerdo con el correspondiente proyecto y con la finalidad de optimizar la reutilización de los propios elementos estructurales, en su caso, así como la separación, recogida selectiva y reciclado de los residuos generados.",
+      "text": "Se entiende por deconstrucción de la estructura de acero al proceso ordenado de demolición de la estructura, de acuerdo con el correspondiente proyecto y con la finalidad de optimizar la reutilización de los propios elementos estructurales, en su caso, así como la separación, recogida selectiva y reciclado de los residuos generados."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "406",
+      "text": "406"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 697.515,
+            "r": 552.846697,
+            "b": 661.554182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            308
+          ]
+        }
+      ],
+      "orig": "Con carácter general serán de aplicación en estos casos, las prescripciones establecidas en el Artículo 107 para la demolición, si bien en este caso será necesario adoptar algunas medidas adicionales encaminadas a posibilitar la reutilización de los elementos y el reciclado de los materiales, según el caso.",
+      "text": "Con carácter general serán de aplicación en estos casos, las prescripciones establecidas en el Artículo 107 para la demolición, si bien en este caso será necesario adoptar algunas medidas adicionales encaminadas a posibilitar la reutilización de los elementos y el reciclado de los materiales, según el caso."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 643.875,
+            "r": 553.1092109999997,
+            "b": 593.2741823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            352
+          ]
+        }
+      ],
+      "orig": "Dadas las características de las estructuras de acero y la potencialidad de reciclado de sus elementos, a los efectos de este Código, se entiende que cualquier desmantelamiento de la estructura debe consistir en su deconstrucción, salvo que existan razones justificadas que no lo aconsejen, de acuerdo con lo contemplado en el correspondiente proyecto.",
+      "text": "Dadas las características de las estructuras de acero y la potencialidad de reciclado de sus elementos, a los efectos de este Código, se entiende que cualquier desmantelamiento de la estructura debe consistir en su deconstrucción, salvo que existan razones justificadas que no lo aconsejen, de acuerdo con lo contemplado en el correspondiente proyecto."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.84,
+            "t": 575.595,
+            "r": 228.42855699999976,
+            "b": 568.794182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Adicionalmente se llevará a cabo:",
+      "text": "Adicionalmente se llevará a cabo:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.84,
+            "t": 550.995,
+            "r": 451.5025859999999,
+            "b": 544.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "- Una identificación de los elementos estructurales potencialmente reutilizables,",
+      "text": "Una identificación de los elementos estructurales potencialmente reutilizables,",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 526.635,
+            "r": 552.7789429999999,
+            "b": 505.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "- una identificación de los tipos y cantidades de residuos generados por la demolición, con especial atención a los residuos peligrosos,",
+      "text": "una identificación de los tipos y cantidades de residuos generados por la demolición, con especial atención a los residuos peligrosos,",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 487.515,
+            "r": 552.723793,
+            "b": 466.074182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "- la elaboración de un estudio de gestión de residuos que contenga los destinos previstos para los residuos generados,",
+      "text": "la elaboración de un estudio de gestión de residuos que contenga los destinos previstos para los residuos generados,",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 448.395,
+            "r": 552.7789430000001,
+            "b": 426.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "- la elaboración de un plan de gestión de los residuos generados por la demolición, orientado al reciclado de los mismos.",
+      "text": "la elaboración de un plan de gestión de los residuos generados por la demolición, orientado al reciclado de los mismos.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 409.395,
+            "r": 552.8616680000001,
+            "b": 387.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "La ejecución de la deconstrucción de la estructura deberá llevarse a cabo por un constructor que esté en posesión de una certificación medioambiental de conformidad con la norma UNE-EN ISO 14001.",
+      "text": "La ejecución de la deconstrucción de la estructura deberá llevarse a cabo por un constructor que esté en posesión de una certificación medioambiental de conformidad con la norma UNE-EN ISO 14001."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "407",
+      "text": "407"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 508.76348876953125,
+            "t": 814.4565925598145,
+            "r": 552.6834716796875,
+            "b": 771.0274200439453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 43.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 508.59619140625,
+            "t": 814.569694519043,
+            "r": 552.7841796875,
+            "b": 770.7311477661133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 44.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 508.6249084472656,
+            "t": 814.5590019226074,
+            "r": 552.705810546875,
+            "b": 770.7772369384766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 44.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 508.73480224609375,
+            "t": 814.5408687591553,
+            "r": 552.7114868164062,
+            "b": 770.7546997070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 44.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 4
+    }
+  }
+}

@@ -1,0 +1,928 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Acta_09_S17",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2390229450520179723,
+    "filename": "Acta_09_S17.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 771.2363988258126,
+            "r": 362.9017127039999,
+            "b": 752.6126828418126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Acta 9 - Alarma en el laboratorio",
+      "text": "Acta 9 - Alarma en el laboratorio",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 742.4955475758125,
+            "r": 99.70143980399999,
+            "b": 730.8558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Obra:",
+      "text": "Obra:"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.69887475000002,
+            "t": 742.4955475758125,
+            "r": 475.2397113299997,
+            "b": 730.8558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Construccion de la estructura del Nuevo Polideportivo Municipal La Pinada",
+      "text": "Construccion de la estructura del Nuevo Polideportivo Municipal La Pinada"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 727.9955470758125,
+            "r": 135.63056311199998,
+            "b": 716.3558310918124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Expediente:",
+      "text": "Expediente:"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.63149175,
+            "t": 727.9955470758125,
+            "r": 211.82963247000004,
+            "b": 716.3558310918124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "OBR-2025-014",
+      "text": "OBR-2025-014"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 713.4955473258125,
+            "r": 145.73031667200001,
+            "b": 701.8558313418125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Constructora:",
+      "text": "Constructora:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 145.72939200000002,
+            "t": 713.4955473258125,
+            "r": 280.17611141999987,
+            "b": 701.8558313418125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Edificaciones del Ebro S.L.",
+      "text": "Edificaciones del Ebro S.L."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 698.9955475758125,
+            "r": 102.56137002,
+            "b": 687.3558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Plazo:",
+      "text": "Plazo:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.55532025000001,
+            "t": 698.9955475758125,
+            "r": 461.2465679699998,
+            "b": 687.3558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "20 semanas (estructura), improrrogable por inauguracion pre-electoral",
+      "text": "20 semanas (estructura), improrrogable por inauguracion pre-electoral"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 682.4955475758125,
+            "r": 482.8363012859998,
+            "b": 670.8558315918125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Acta n.º 9 - Semana 17 · 6 de mayo de 2025, 10:00 · Reunion quincenal de obra",
+      "text": "Acta n.º 9 - Semana 17 · 6 de mayo de 2025, 10:00 · Reunion quincenal de obra"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 654.5092687578125,
+            "r": 214.00620450000008,
+            "b": 640.5412687578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Nombres (asistentes)",
+      "text": "Nombres (asistentes)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 632.6022516438125,
+            "r": 217.615120128,
+            "b": 619.7988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Elena Vargas - Propiedad ·",
+      "text": "Elena Vargas - Propiedad ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 612.8022516438125,
+            "r": 283.5901931040001,
+            "b": 599.9988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Carlos Mendoza - Arquitecto Director ·",
+      "text": "Carlos Mendoza - Arquitecto Director ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 593.0022516438125,
+            "r": 241.6930518960001,
+            "b": 580.1988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Laura Gimenez - Aparejadora ·",
+      "text": "Laura Gimenez - Aparejadora ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 573.2022516438125,
+            "r": 268.8618465359999,
+            "b": 560.3988196758125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Roberto Dominguez - Jefe de Obra ·",
+      "text": "Roberto Dominguez - Jefe de Obra ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 543.9092692578125,
+            "r": 423.0342045,
+            "b": 529.9412692578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Tareas pendientes a resolver de semanas anteriores",
+      "text": "Tareas pendientes a resolver de semanas anteriores",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 521.1022513938125,
+            "r": 487.39961365199997,
+            "b": 492.3488199258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Troquelado y refuerzo de vigas para el paso de clima (Acta 8): EJECUTADO Y REVISADO. Conforme.",
+      "text": "Troquelado y refuerzo de vigas para el paso de clima (Acta 8): EJECUTADO Y REVISADO. Conforme."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 475.8592687578125,
+            "r": 184.25820450000003,
+            "b": 461.8912687578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Nuevos acuerdos",
+      "text": "Nuevos acuerdos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 453.9522516438125,
+            "r": 524.0175264,
+            "b": 409.24881992581254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "Se contrata a un laboratorio externo especializado para realizar ensayos no destructivos (esclerometro) y la extraccion de testigos en el pilar sospechoso. El coste de los ensayos correra a cargo de la constructora. ·",
+      "text": "Se contrata a un laboratorio externo especializado para realizar ensayos no destructivos (esclerometro) y la extraccion de testigos en el pilar sospechoso. El coste de los ensayos correra a cargo de la constructora. ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 392.7592687578125,
+            "r": 245.89020450000004,
+            "b": 378.79126875781253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "RFI de las distintas partes",
+      "text": "RFI de las distintas partes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.47783,
+            "t": 370.8522516438125,
+            "r": 505.8353330639999,
+            "b": 326.1488199258125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "Direccion Facultativa: solicita a la constructora el albaran del camion de hormigon del dia 14, fecha en que se hormigono la zona norte, para trazar la procedencia y la amasada del hormigon del pilar afectado. ·",
+      "text": "Direccion Facultativa: solicita a la constructora el albaran del camion de hormigon del dia 14, fecha en que se hormigono la zona norte, para trazar la procedencia y la amasada del hormigon del pilar afectado. ·",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 309.65926875781247,
+            "r": 144.3462045,
+            "b": 295.6912687578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Incidencias",
+      "text": "Incidencias",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 286.85225164381245,
+            "r": 517.1422940999998,
+            "b": 242.14881992581252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "RESULTADO NEGATIVO DE PROBETAS A 28 DIAS. El laboratorio informa de que el hormigon del pilar P-22, en planta baja, ha dado una resistencia a compresion de 21 MPa, cuando el proyecto exige 30 MPa (HA-30). Se declara alarma estructural.",
+      "text": "RESULTADO NEGATIVO DE PROBETAS A 28 DIAS. El laboratorio informa de que el hormigon del pilar P-22, en planta baja, ha dado una resistencia a compresion de 21 MPa, cuando el proyecto exige 30 MPa (HA-30). Se declara alarma estructural."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 225.65926875781247,
+            "r": 361.03020450000014,
+            "b": 211.69126875781262,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Modificaciones aprobadas por la propiedad",
+      "text": "Modificaciones aprobadas por la propiedad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 202.85225164381245,
+            "r": 117.79401142800002,
+            "b": 190.04881967581252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Ninguna.",
+      "text": "Ninguna."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 173.5592692578125,
+            "r": 105.59820450000001,
+            "b": 159.59126925781254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Otros",
+      "text": "Otros",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.3622045,
+            "t": 150.75225139381246,
+            "r": 525.5349217560001,
+            "b": 90.09881942581251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "Roberto alega que el laboratorio pudo curar mal las probetas. Laura (Aparejadora) es tajante: si la prueba no destructiva (esclerometro y extraccion de testigos) confirma la baja resistencia, habra que apear la estructura y reforzar el pilar mediante fibra de carbono o empresillado metalico. Tension maxima en la reunion.",
+      "text": "Roberto alega que el laboratorio pudo curar mal las probetas. Laura (Aparejadora) es tajante: si la prueba no destructiva (esclerometro y extraccion de testigos) confirma la baja resistencia, habra que apear la estructura y reforzar el pilar mediante fibra de carbono o empresillado metalico. Tension maxima en la reunion."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2755737304688,
+        "height": 841.8897705078125
+      },
+      "page_no": 1
+    }
+  }
+}

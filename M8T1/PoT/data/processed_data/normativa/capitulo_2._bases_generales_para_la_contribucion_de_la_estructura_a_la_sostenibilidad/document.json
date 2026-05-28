@@ -1,0 +1,2312 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_2._bases_generales_para_la_contribucion_de_la_estructura_a_la_sostenibilidad",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14545018574476145142,
+    "filename": "capitulo_2._bases_generales_para_la_contribucion_de_la_estructura_a_la_sostenibilidad.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 410.18,
+            "r": 119.87353200000001,
+            "b": 400.33946961325967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Capítulo 2",
+      "text": "Capítulo 2",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 381.86,
+            "r": 480.96055199999984,
+            "b": 353.53946961325966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Bases generales para la contribución de la estructura a la sostenibilidad",
+      "text": "Bases generales para la contribución de la estructura a la sostenibilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "51",
+      "text": "51"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.52,
+            "t": 703.5749999999999,
+            "r": 325.85422900000015,
+            "b": 694.9244585635358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Contribución a la sostenibilidad",
+      "text": "Contribución a la sostenibilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 676.28,
+            "r": 143.66399999999996,
+            "b": 668.8811049723756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Introducción",
+      "text": "Introducción",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 656.955,
+            "r": 553.102593,
+            "b": 599.6341823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            427
+          ]
+        }
+      ],
+      "orig": "Atendiendo al mandato de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, a los efectos de este Código se entiende por sostenibilidad en su triple vertiente, satisfacer las necesidades de las generaciones presentes sin comprometer las posibilidades de las generaciones futuras para atender a sus propias necesidades, garantizando el equilibrio entre el crecimiento económico, cuidado del medio ambiente y bienestar social.",
+      "text": "Atendiendo al mandato de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, a los efectos de este Código se entiende por sostenibilidad en su triple vertiente, satisfacer las necesidades de las generaciones presentes sin comprometer las posibilidades de las generaciones futuras para atender a sus propias necesidades, garantizando el equilibrio entre el crecimiento económico, cuidado del medio ambiente y bienestar social."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 587.715,
+            "r": 552.9614090000001,
+            "b": 555.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "Este Código Estructural proporciona un método objetivo para evaluar la contribución a la sostenibilidad de las estructuras considerando las características prestacionales, ambientales, sociales y económicas que aportan los agentes que participan en su proyecto y ejecución.",
+      "text": "Este Código Estructural proporciona un método objetivo para evaluar la contribución a la sostenibilidad de las estructuras considerando las características prestacionales, ambientales, sociales y económicas que aportan los agentes que participan en su proyecto y ejecución."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 543.795,
+            "r": 552.966453,
+            "b": 499.074182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "Los criterios de sostenibilidad definidos en este Código se refieren exclusivamente a actividades relacionadas con la estructura. El autor del proyecto y la dirección facultativa deberán velar por la coordinación con el resto de los criterios de sostenibilidad que pudieran adoptarse, en su caso, para el resto de la obra.",
+      "text": "Los criterios de sostenibilidad definidos en este Código se refieren exclusivamente a actividades relacionadas con la estructura. El autor del proyecto y la dirección facultativa deberán velar por la coordinación con el resto de los criterios de sostenibilidad que pudieran adoptarse, en su caso, para el resto de la obra."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 487.155,
+            "r": 552.9106709999999,
+            "b": 429.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            459
+          ]
+        }
+      ],
+      "orig": "Esta metodología no permite la comparación de distintas tipologías estructurales ni de las puntaciones de agentes que realicen diferentes procesos. Los indicadores del Anejo 2 no consideran el uso, mantenimiento ni la reciclabilidad de la estructura. La evaluación basada en los indicadores del Anejo 2 es complementaria a las consideraciones de sostenibilidad del edificio u obra de ingeniería civil completa, que deberán evaluarse mediante otra metodología.",
+      "text": "Esta metodología no permite la comparación de distintas tipologías estructurales ni de las puntaciones de agentes que realicen diferentes procesos. Los indicadores del Anejo 2 no consideran el uso, mantenimiento ni la reciclabilidad de la estructura. La evaluación basada en los indicadores del Anejo 2 es complementaria a las consideraciones de sostenibilidad del edificio u obra de ingeniería civil completa, que deberán evaluarse mediante otra metodología."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 411.44,
+            "r": 179.712,
+            "b": 404.0411049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Criterios generales",
+      "text": "Criterios generales",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 392.115,
+            "r": 552.9834689999999,
+            "b": 334.79418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            445
+          ]
+        }
+      ],
+      "orig": "La propiedad, cuando así lo considere, podrá definir el nivel de contribución a la sostenibilidad de una estructura. La contribución a la sostenibilidad de una estructura se evaluará conforme al Anejo 2 de este Código. Cuando así se indique en el pliego de condiciones a requerimiento de la propiedad, las estructuras se proyectarán y construirán de acuerdo con una estrategia para la sostenibilidad planteada según lo indicado en este artículo.",
+      "text": "La propiedad, cuando así lo considere, podrá definir el nivel de contribución a la sostenibilidad de una estructura. La contribución a la sostenibilidad de una estructura se evaluará conforme al Anejo 2 de este Código. Cuando así se indique en el pliego de condiciones a requerimiento de la propiedad, las estructuras se proyectarán y construirán de acuerdo con una estrategia para la sostenibilidad planteada según lo indicado en este artículo."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 322.875,
+            "r": 552.988984,
+            "b": 240.23418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            649
+          ]
+        }
+      ],
+      "orig": "La determinación objetiva del nivel de contribución de la estructura a la sostenibilidad, se realiza mediante el cálculo del índice de contribución a la sostenibilidad estructura (ICES), definido en el Anejo 2. En el ámbito de este Código, se clasificará la contribución a la sostenibilidad de una estructura en función del valor obtenido por el ICES, de acuerdo con los criterios establecidos en este artículo, considerando los compromisos voluntarios adquiridos por parte de cada uno de los agentes (organizaciones) que contribuyen a la sostenibilidad de la estructura en relación con principios ambientales, económicos, sociales y prestacionales.",
+      "text": "La determinación objetiva del nivel de contribución de la estructura a la sostenibilidad, se realiza mediante el cálculo del índice de contribución a la sostenibilidad estructura (ICES), definido en el Anejo 2. En el ámbito de este Código, se clasificará la contribución a la sostenibilidad de una estructura en función del valor obtenido por el ICES, de acuerdo con los criterios establecidos en este artículo, considerando los compromisos voluntarios adquiridos por parte de cada uno de los agentes (organizaciones) que contribuyen a la sostenibilidad de la estructura en relación con principios ambientales, económicos, sociales y prestacionales."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 228.31500000000005,
+            "r": 553.0187649999996,
+            "b": 158.27418232044192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            561
+          ]
+        }
+      ],
+      "orig": "Para que una estructura pueda considerarse sostenible, los agentes que contribuyen a la sostenibilidad de la estructura deben cumplir la legalidad vigente. El cumplimiento de la legalidad vigente se constata mediante una declaración responsable de cada uno de los agentes implicados. El incumplimiento de este precepto le inhabilitará para considerar su contribución a la sostenibilidad de la estructura, siendo nula la puntuación en el ICES de las aportaciones (proyecto, productos o procesos, construcción en obra) realizadas por dicho agente a la estructura.",
+      "text": "Para que una estructura pueda considerarse sostenible, los agentes que contribuyen a la sostenibilidad de la estructura deben cumplir la legalidad vigente. El cumplimiento de la legalidad vigente se constata mediante una declaración responsable de cada uno de los agentes implicados. El incumplimiento de este precepto le inhabilitará para considerar su contribución a la sostenibilidad de la estructura, siendo nula la puntuación en el ICES de las aportaciones (proyecto, productos o procesos, construcción en obra) realizadas por dicho agente a la estructura."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 146.47500000000002,
+            "r": 553.0209709999999,
+            "b": 63.71418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            698
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 724.875,
+            "r": 552.9845720000001,
+            "b": 667.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            699,
+            1125
+          ]
+        }
+      ],
+      "orig": "Las prestaciones en relación a las características esenciales que pudieran establecerse como consecuencia del desarrollo del requisito básico 7 del Anexo I del Reglamento (UE) Nº 305/2011, de 9 de marzo de 2011, deberán considerarse como legislación vigente, a los efectos de este apartado. En el caso de que dichas características esenciales entraran dentro del ámbito de aplicación de alguno de los grupos de indicadores (prestacionales, económicos, medioambientes o sociales) del índice de contribución del agente a la sostenibilidad (ICAS), del índice de contribución complementaria del proyecto, producto u obra (ICS), o de ambos, los indicadores de dicho grupo para el índice afectado deberán medirse con la máxima valoración (valor 100) a los efectos de cálculo del ICES en el caso de que la metodología empleada no sea compatible con la del modelo; por el contrario, en caso de ser compatible dicha metodología, se utilizarán en el modelo los valores contenidos en la declaración de prestaciones y el resto de parámetros medioambientales considerados en el ICES dejarán de contabilizarse en el índice correspondiente.",
+      "text": "Las prestaciones en relación a las características esenciales que pudieran establecerse como consecuencia del desarrollo del requisito básico 7 del Anexo I del Reglamento (UE) Nº 305/2011, de 9 de marzo de 2011, deberán considerarse como legislación vigente, a los efectos de este apartado. En el caso de que dichas características esenciales entraran dentro del ámbito de aplicación de alguno de los grupos de indicadores (prestacionales, económicos, medioambientes o sociales) del índice de contribución del agente a la sostenibilidad (ICAS), del índice de contribución complementaria del proyecto, producto u obra (ICS), o de ambos, los indicadores de dicho grupo para el índice afectado deberán medirse con la máxima valoración (valor 100) a los efectos de cálculo del ICES en el caso de que la metodología empleada no sea compatible con la del modelo; por el contrario, en caso de ser compatible dicha metodología, se utilizarán en el modelo los valores contenidos en la declaración de prestaciones y el resto de parámetros medioambientales considerados en el ICES dejarán de contabilizarse en el índice correspondiente."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "52",
+      "text": "52"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 649.16,
+            "r": 399.25200000000024,
+            "b": 641.7611049723756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Índice de contribución de la estructura a la sostenibilidad",
+      "text": "Índice de contribución de la estructura a la sostenibilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 629.835,
+            "r": 552.8594620000001,
+            "b": 610.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "El Anejo 2 recoge el procedimiento para evaluar el índice de contribución de la estructura a la sostenibilidad, ICES que se clasificará dentro de la siguiente escala:",
+      "text": "El Anejo 2 recoge el procedimiento para evaluar el índice de contribución de la estructura a la sostenibilidad, ICES que se clasificará dentro de la siguiente escala:"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.84,
+            "t": 483.79499999999996,
+            "r": 449.12341499999985,
+            "b": 476.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "En el proyecto, el autor del mismo deberá, cuando la propiedad así lo requiera:",
+      "text": "En el proyecto, el autor del mismo deberá, cuando la propiedad así lo requiera:"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 464.35499999999996,
+            "r": 552.9800940000001,
+            "b": 444.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": " estimar el valor del índice ICES, asegurándose en su caso de que no sea inferior al valor indicado en el párrafo anterior; y",
+      "text": " estimar el valor del índice ICES, asegurándose en su caso de que no sea inferior al valor indicado en el párrafo anterior; y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 438.315,
+            "r": 552.9911240000001,
+            "b": 418.91418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": " definir, a partir del índice ICES, la correspondiente estrategia para la sostenibilidad de acuerdo con lo indicado en 6.4.",
+      "text": " definir, a partir del índice ICES, la correspondiente estrategia para la sostenibilidad de acuerdo con lo indicado en 6.4.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 407.115,
+            "r": 552.8616679999999,
+            "b": 387.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "Una estructura podrá ser calificada según el nivel de contribución a la sostenibilidad proyectado solamente cuando su construcción haya finalizado y su ICES sea al menos igual que el de proyecto.",
+      "text": "Una estructura podrá ser calificada según el nivel de contribución a la sostenibilidad proyectado solamente cuando su construcción haya finalizado y su ICES sea al menos igual que el de proyecto."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 375.79499999999996,
+            "r": 552.9867779999996,
+            "b": 293.15418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            609
+          ]
+        }
+      ],
+      "orig": "La dirección facultativa, bajo su propia responsabilidad, será la encargada de verificar que el cálculo de los índices de contribución a la sostenibilidad de cada uno de los procesos o productos (ICPS) se corresponde con la metodología seguida para cálculo en el Anejo 2 y que los datos proporcionados por los agentes (organizaciones) son veraces y se encuentran debidamente documentados. Quedará garantizado que los datos se encuentran debidamente documentados con la existencia y uso efectivo de un distintivo de sostenibilidad oficialmente reconocido conforme a lo indicado en el Artículo 7 de este Código.",
+      "text": "La dirección facultativa, bajo su propia responsabilidad, será la encargada de verificar que el cálculo de los índices de contribución a la sostenibilidad de cada uno de los procesos o productos (ICPS) se corresponde con la metodología seguida para cálculo en el Anejo 2 y que los datos proporcionados por los agentes (organizaciones) son veraces y se encuentran debidamente documentados. Quedará garantizado que los datos se encuentran debidamente documentados con la existencia y uso efectivo de un distintivo de sostenibilidad oficialmente reconocido conforme a lo indicado en el Artículo 7 de este Código."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 281.235,
+            "r": 552.983469,
+            "b": 249.23418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "La estimación inicial del ICES realizada por el autor del proyecto debe ser recalculada por parte de la dirección facultativa al término de la obra con los datos que los agentes intervinientes aporten durante el proceso de construcción.",
+      "text": "La estimación inicial del ICES realizada por el autor del proyecto debe ser recalculada por parte de la dirección facultativa al término de la obra con los datos que los agentes intervinientes aporten durante el proceso de construcción."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 237.31500000000005,
+            "r": 552.996705,
+            "b": 205.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "El recálculo debe basarse en los suministros reales de procesos o productos que los distintos agentes han realizado, según se recoge en la documentación final de la obra, indicada en el apartado 4.2.3 de este Código.",
+      "text": "El recálculo debe basarse en los suministros reales de procesos o productos que los distintos agentes han realizado, según se recoge en la documentación final de la obra, indicada en el apartado 4.2.3 de este Código."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 193.39499999999998,
+            "r": 552.8599330000001,
+            "b": 161.27418232044192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "A estos efectos se consideran como procesos o productos que intervienen en la estructura los indicados en la tabla A2.2 del Anejo 2. De igual modo se entenderá como organización lo contemplado en el Anejo 2.",
+      "text": "A estos efectos se consideran como procesos o productos que intervienen en la estructura los indicados en la tabla A2.2 del Anejo 2. De igual modo se entenderá como organización lo contemplado en el Anejo 2."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 149.47500000000002,
+            "r": 553.0827390000001,
+            "b": 92.03418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            428
+          ]
+        }
+      ],
+      "orig": "La dirección facultativa deberá informar a la propiedad del resultado del ICES con el objetivo de valorar su sostenibilidad, y de comprobar que la estructura ha alcanzado el valor indicado en proyecto, así como documentar la comprobación y conservar durante la vida útil de la estructura los documentos pertinentes que justifiquen el cálculo del ICES de la estructura construida, incorporándolo a la documentación final de obra.",
+      "text": "La dirección facultativa deberá informar a la propiedad del resultado del ICES con el objetivo de valorar su sostenibilidad, y de comprobar que la estructura ha alcanzado el valor indicado en proyecto, así como documentar la comprobación y conservar durante la vida útil de la estructura los documentos pertinentes que justifiquen el cálculo del ICES de la estructura construida, incorporándolo a la documentación final de obra."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "53",
+      "text": "53"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 724.875,
+            "r": 553.0408249999998,
+            "b": 667.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            504
+          ]
+        }
+      ],
+      "orig": "Los agentes contemplados en el Anejo 2 serán responsables de transmitir la información necesaria para la obtención del índice de contribución de cada producto o proceso a la sostenibilidad, ICPS. Con carácter general, el agente que aporte los productos o procesos declarará la participación en los mismos de aquellos otros productos o procesos, básicos y/o transformados, identificados en el Anejo 2, cuantificando dicha participación e indicando los agentes que actúan como proveedores de estos últimos.",
+      "text": "Los agentes contemplados en el Anejo 2 serán responsables de transmitir la información necesaria para la obtención del índice de contribución de cada producto o proceso a la sostenibilidad, ICPS. Con carácter general, el agente que aporte los productos o procesos declarará la participación en los mismos de aquellos otros productos o procesos, básicos y/o transformados, identificados en el Anejo 2, cuantificando dicha participación e indicando los agentes que actúan como proveedores de estos últimos."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 649.16,
+            "r": 255.13200000000006,
+            "b": 641.7611049723756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Estrategia para la sostenibilidad",
+      "text": "Estrategia para la sostenibilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 629.835,
+            "r": 552.9823660000001,
+            "b": 597.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            296
+          ]
+        }
+      ],
+      "orig": "El autor del proyecto deberá definir una estrategia para la sostenibilidad que consistirá en la estimación del valor del ICES requerido por la propiedad, el resumen del modo en el que se ha obtenido dicho valor y las medidas o criterios a aplicar durante la fase de construcción de la estructura.",
+      "text": "El autor del proyecto deberá definir una estrategia para la sostenibilidad que consistirá en la estimación del valor del ICES requerido por la propiedad, el resumen del modo en el que se ha obtenido dicho valor y las medidas o criterios a aplicar durante la fase de construcción de la estructura."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.52,
+            "t": 560.655,
+            "r": 514.1999640000003,
+            "b": 552.0044585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Distintivo de sostenibilidad oficialmente reconocido (DSOR)",
+      "text": "Distintivo de sostenibilidad oficialmente reconocido (DSOR)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 539.835,
+            "r": 552.983469,
+            "b": 457.074182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            620
+          ]
+        }
+      ],
+      "orig": "De forma voluntaria, los productos y los procesos contemplados en el Anejo 2 podrán demostrar el valor de su contribución a la sostenibilidad de la estructura mediante un distintivo de sostenibilidad oficialmente reconocido. El distintivo de sostenibilidad oficialmente reconocido consiste en el ICPS del agente, certificado por tercera parte, y reconocido oficialmente de acuerdo al procedimiento descrito en el apartado 7.1. Un DSOR garantiza que la metodología seguida para el cálculo es la indicada en el Anejo 2 y que los datos proporcionados por los agentes (organizaciones) se encuentran debidamente documentados.",
+      "text": "De forma voluntaria, los productos y los procesos contemplados en el Anejo 2 podrán demostrar el valor de su contribución a la sostenibilidad de la estructura mediante un distintivo de sostenibilidad oficialmente reconocido. El distintivo de sostenibilidad oficialmente reconocido consiste en el ICPS del agente, certificado por tercera parte, y reconocido oficialmente de acuerdo al procedimiento descrito en el apartado 7.1. Un DSOR garantiza que la metodología seguida para el cálculo es la indicada en el Anejo 2 y que los datos proporcionados por los agentes (organizaciones) se encuentran debidamente documentados."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 445.275,
+            "r": 553.0419279999996,
+            "b": 321.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            829
+          ]
+        }
+      ],
+      "orig": "De acuerdo al apartado 4.1, en el caso de los productos con marcado CE, los distintivos de sostenibilidad oficialmente reconocidos no podrán certificar la conformidad con las prestaciones declaradas en lo que respecta a las características esenciales cubiertas por la norma armonizada, ni tampoco con las prestaciones de ninguna característica esencial relacionada con el requisito básico BWR7 de utilización sostenible de los recursos naturales que establece el anexo I del Reglamento (EU) 305/2011, de 9 de marzo de 2011. Además, la contribución a la sostenibilidad del requisito medioambiental de un producto con marcado CE tendrá la máxima valoración (valor 100) en el DSOR hasta que la norma armonizada correspondiente desarrolle este requisito básico, en cuyo caso habrá de tenerse en cuenta lo indicado en el artículo 6.2.",
+      "text": "De acuerdo al apartado 4.1, en el caso de los productos con marcado CE, los distintivos de sostenibilidad oficialmente reconocidos no podrán certificar la conformidad con las prestaciones declaradas en lo que respecta a las características esenciales cubiertas por la norma armonizada, ni tampoco con las prestaciones de ninguna característica esencial relacionada con el requisito básico BWR7 de utilización sostenible de los recursos naturales que establece el anexo I del Reglamento (EU) 305/2011, de 9 de marzo de 2011. Además, la contribución a la sostenibilidad del requisito medioambiental de un producto con marcado CE tendrá la máxima valoración (valor 100) en el DSOR hasta que la norma armonizada correspondiente desarrolle este requisito básico, en cuyo caso habrá de tenerse en cuenta lo indicado en el artículo 6.2."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 304.275,
+            "r": 552.986778,
+            "b": 234.23418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            579
+          ]
+        }
+      ],
+      "orig": "A efectos de lo indicado en este Código, se entenderá que un distintivo de sostenibilidad está oficialmente reconocido cuando el reconocimiento se realice por la Subdirección General de Normativa y Estudios Técnicos del Ministerio de Transportes, Movilidad y Agenda Urbana u otro órgano directivo con competencias en normativa técnica en el ámbito de la edificación o de la obra pública y perteneciente a la Administración Pública de cualquier Estado miembro de la Unión Europea, de Turquía o de cualquiera de los Estados firmantes del Acuerdo sobre el Espacio Económico Europeo.",
+      "text": "A efectos de lo indicado en este Código, se entenderá que un distintivo de sostenibilidad está oficialmente reconocido cuando el reconocimiento se realice por la Subdirección General de Normativa y Estudios Técnicos del Ministerio de Transportes, Movilidad y Agenda Urbana u otro órgano directivo con competencias en normativa técnica en el ámbito de la edificación o de la obra pública y perteneciente a la Administración Pública de cualquier Estado miembro de la Unión Europea, de Turquía o de cualquiera de los Estados firmantes del Acuerdo sobre el Espacio Económico Europeo."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 222.43499999999995,
+            "r": 553.0948720000002,
+            "b": 177.71418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            354
+          ]
+        }
+      ],
+      "orig": "Lo dispuesto en el párrafo anterior será también de aplicación a los procesos o productos de construcción fabricados o comercializados legalmente en un Estado que tenga un acuerdo de asociación aduanera con la Unión Europea, cuando ese acuerdo reconozca a esos procesos o productos el mismo tratamiento que a los de un Estado miembro de la Unión Europea.",
+      "text": "Lo dispuesto en el párrafo anterior será también de aplicación a los procesos o productos de construcción fabricados o comercializados legalmente en un Estado que tenga un acuerdo de asociación aduanera con la Unión Europea, cuando ese acuerdo reconozca a esos procesos o productos el mismo tratamiento que a los de un Estado miembro de la Unión Europea."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.6,
+            "t": 140.72000000000003,
+            "r": 492.1320000000003,
+            "b": 133.32110497237568,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Procedimiento de reconocimiento oficial de distintivos de sostenibilidad",
+      "text": "Procedimiento de reconocimiento oficial de distintivos de sostenibilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 121.39499999999998,
+            "r": 553.1032250000001,
+            "b": 76.67418232044201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        }
+      ],
+      "orig": "El reconocimiento oficial del distintivo se desarrollará conforme al procedimiento que establezca la Administración reconocedora de cualquier Estado miembro de la Unión Europea, de Turquía o de cualquier Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo.",
+      "text": "El reconocimiento oficial del distintivo se desarrollará conforme al procedimiento que establezca la Administración reconocedora de cualquier Estado miembro de la Unión Europea, de Turquía o de cualquier Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "54",
+      "text": "54"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 724.875,
+            "r": 552.8495350000004,
+            "b": 705.474182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "En el caso de los reconocimientos de distintivos por parte del Ministerio de Transportes, Movilidad y Agenda Urbana, se aplicará el siguiente procedimiento.",
+      "text": "En el caso de los reconocimientos de distintivos por parte del Ministerio de Transportes, Movilidad y Agenda Urbana, se aplicará el siguiente procedimiento."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 693.555,
+            "r": 553.1059020000002,
+            "b": 648.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            344
+          ]
+        }
+      ],
+      "orig": "Estarán legitimados para presentar la solicitud de reconocimiento oficial de un distintivo de sostenibilidad, los organismos de certificación acreditados conforme a los apartados de este Código que les sean de aplicación y a la norma UNE-EN ISO/IEC 17065 según el Reglamento (CE) Nº 765/2008, del Parlamento Europeo y del Consejo de 9 de julio.",
+      "text": "Estarán legitimados para presentar la solicitud de reconocimiento oficial de un distintivo de sostenibilidad, los organismos de certificación acreditados conforme a los apartados de este Código que les sean de aplicación y a la norma UNE-EN ISO/IEC 17065 según el Reglamento (CE) Nº 765/2008, del Parlamento Europeo y del Consejo de 9 de julio."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 63.84,
+            "t": 637.035,
+            "r": 428.22928599999966,
+            "b": 630.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "La solicitud deberá acompañarse de al menos la siguiente documentación:",
+      "text": "La solicitud deberá acompañarse de al menos la siguiente documentación:"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.92,
+            "t": 618.3149999999999,
+            "r": 320.5917709999997,
+            "b": 611.5141823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "a) Memoria explicativa y justificativa de la solicitud.",
+      "text": "Memoria explicativa y justificativa de la solicitud.",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.92,
+            "t": 605.715,
+            "r": 552.9789910000002,
+            "b": 560.994182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            321
+          ]
+        }
+      ],
+      "orig": "b) Reglamento regulador del distintivo en donde se definan las garantías particulares, procedimiento de concesión, régimen de funcionamiento, requisitos técnicos y reglas para la toma de decisiones. En cualquier caso, dicho reglamento incluirá la declaración explícita de su conformidad con el contenido de este Capítulo.",
+      "text": "Reglamento regulador del distintivo en donde se definan las garantías particulares, procedimiento de concesión, régimen de funcionamiento, requisitos técnicos y reglas para la toma de decisiones. En cualquier caso, dicho reglamento incluirá la declaración explícita de su conformidad con el contenido de este Capítulo.",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.92,
+            "t": 555.0749999999999,
+            "r": 552.9872529999999,
+            "b": 535.674182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "c) Cualquier otra documentación que la Administración reconocedora establezca o considere necesaria en relación al ámbito de certificación en el que se desarrolle el distintivo.",
+      "text": "Cualquier otra documentación que la Administración reconocedora establezca o considere necesaria en relación al ámbito de certificación en el que se desarrolle el distintivo.",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 523.755,
+            "r": 552.8638739999999,
+            "b": 504.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "La Administración reconocedora podrá recabar los informes o dictámenes de los expertos por ella designados, en función de las características de la certificación cuyo reconocimiento se solicita.",
+      "text": "La Administración reconocedora podrá recabar los informes o dictámenes de los expertos por ella designados, en función de las características de la certificación cuyo reconocimiento se solicita."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 492.435,
+            "r": 552.9944990000002,
+            "b": 447.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            403
+          ]
+        }
+      ],
+      "orig": "Para mayor difusión y comodidad en el acceso de la información por parte de los usuarios, cualquier autoridad competente de las contempladas en los párrafos anteriores para el reconocimiento oficial de un distintivo de sostenibilidad, podrá solicitar la publicación de los distintivos por ellas reconocidos en las páginas web de las Comisiones Permanentes que proponen este Código, creadas a tal efecto.",
+      "text": "Para mayor difusión y comodidad en el acceso de la información por parte de los usuarios, cualquier autoridad competente de las contempladas en los párrafos anteriores para el reconocimiento oficial de un distintivo de sostenibilidad, podrá solicitar la publicación de los distintivos por ellas reconocidos en las páginas web de las Comisiones Permanentes que proponen este Código, creadas a tal efecto."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 435.91499999999996,
+            "r": 552.8605650000002,
+            "b": 416.394182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "Si la resolución de la Administración reconocedora fuese desfavorable al reconocimiento, la finalización del procedimiento se produciría con la comunicación al solicitante.",
+      "text": "Si la resolución de la Administración reconocedora fuese desfavorable al reconocimiento, la finalización del procedimiento se produciría con la comunicación al solicitante."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 404.59499999999997,
+            "r": 552.8616680000002,
+            "b": 372.47418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "La enmienda o retirada del reconocimiento oficial del distintivo podrá ser realizada a instancia o de parte, para lo cual se iniciará el procedimiento mediante la oportuna solicitud y se regirá conforme a los mismos trámites que para su reconocimiento.",
+      "text": "La enmienda o retirada del reconocimiento oficial del distintivo podrá ser realizada a instancia o de parte, para lo cual se iniciará el procedimiento mediante la oportuna solicitud y se regirá conforme a los mismos trámites que para su reconocimiento."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 360.675,
+            "r": 553.0165590000003,
+            "b": 303.23418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "La Administración reconocedora vigilará la correcta aplicación de los distintivos, por lo que podrá participar en todas aquellas actividades que se consideren relevantes para el correcto funcionamiento del distintivo. De igual modo, para verificar la correcta actuación de los servicios de inspección correspondientes, podrá asistir a las inspecciones que se realicen a las instalaciones que ostenten la certificación en cuestión.",
+      "text": "La Administración reconocedora vigilará la correcta aplicación de los distintivos, por lo que podrá participar en todas aquellas actividades que se consideren relevantes para el correcto funcionamiento del distintivo. De igual modo, para verificar la correcta actuación de los servicios de inspección correspondientes, podrá asistir a las inspecciones que se realicen a las instalaciones que ostenten la certificación en cuestión."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 291.43499999999995,
+            "r": 552.992293,
+            "b": 246.71418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "Si se detectase alguna anomalía en estos procedimientos, la Administración reconocedora podrá incoar un expediente y podrá suspender el reconocimiento, comunicando previamente la propuesta de retirada al solicitante con el objeto de que pueda formular alegaciones. La validez del reconocimiento quedará condicionada al mantenimiento de las condiciones que lo motivan.",
+      "text": "Si se detectase alguna anomalía en estos procedimientos, la Administración reconocedora podrá incoar un expediente y podrá suspender el reconocimiento, comunicando previamente la propuesta de retirada al solicitante con el objeto de que pueda formular alegaciones. La validez del reconocimiento quedará condicionada al mantenimiento de las condiciones que lo motivan."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.32,
+            "t": 228.31999999999994,
+            "r": 542.1120000000003,
+            "b": 207.12110497237563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Distintivos de sostenibilidad concedidos por entidades de certificación en otros Estados",
+      "text": "Distintivos de sostenibilidad concedidos por entidades de certificación en otros Estados",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 195.19499999999994,
+            "r": 552.9294219999999,
+            "b": 125.15418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            528
+          ]
+        }
+      ],
+      "orig": "No será necesaria la declaración explícita requerida en el punto b) del apartado 7.1, si una entidad de certificación de otro Estado miembro de la Unión Europea, de Turquía o de cualquiera de los Estados firmantes del Acuerdo sobre el Espacio Económico Europeo, evalúa la conformidad respecto a cualquier norma o reglamento que, manteniendo al menos las garantías necesarias para verificar un nivel similar de sostenibilidad del producto o proceso, demuestre que se cumple el modelo de sostenibilidad contemplado en este Código.",
+      "text": "No será necesaria la declaración explícita requerida en el punto b) del apartado 7.1, si una entidad de certificación de otro Estado miembro de la Unión Europea, de Turquía o de cualquiera de los Estados firmantes del Acuerdo sobre el Espacio Económico Europeo, evalúa la conformidad respecto a cualquier norma o reglamento que, manteniendo al menos las garantías necesarias para verificar un nivel similar de sostenibilidad del producto o proceso, demuestre que se cumple el modelo de sostenibilidad contemplado en este Código."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "55",
+      "text": "55"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 512.017578125,
+            "t": 814.5059795379639,
+            "r": 552.697265625,
+            "b": 764.6572799682617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 50.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 511.85101318359375,
+            "t": 814.5679016113281,
+            "r": 552.8509521484375,
+            "b": 764.395637512207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 511.8226318359375,
+            "t": 814.4780216217041,
+            "r": 552.7655639648438,
+            "b": 764.6523818969727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 49.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 511.710693359375,
+            "t": 814.5731544494629,
+            "r": 552.8945922851562,
+            "b": 764.3193130493164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 511.766845703125,
+            "t": 814.647497177124,
+            "r": 552.9765014648438,
+            "b": 764.1530532836914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 206.3984832763672,
+            "t": 604.3190612792969,
+            "r": 389.2162780761719,
+            "b": 494.611328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 212.76,
+              "t": 249.96500000000003,
+              "r": 268.9346869999999,
+              "b": 256.76581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Calificación",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 318.36,
+              "t": 249.96500000000003,
+              "r": 344.07754800000004,
+              "b": 256.76581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "ICES",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 212.76,
+              "t": 276.96500000000003,
+              "r": 254.41258899999994,
+              "b": 283.76581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Muy alta",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 279.84,
+              "t": 276.96500000000003,
+              "r": 382.6936469999999,
+              "b": 283.76581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "más de 85 hasta 100",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 212.76,
+              "t": 304.08500000000004,
+              "r": 231.7316,
+              "b": 310.88581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Alta",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 279.84,
+              "t": 304.08500000000004,
+              "r": 376.5730999999999,
+              "b": 310.88581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "más de 70 hasta 85",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 212.76,
+              "t": 331.08500000000004,
+              "r": 234.85198699999998,
+              "b": 337.88581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Baja",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 279.84,
+              "t": 331.08500000000004,
+              "r": 376.5730999999999,
+              "b": 337.88581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "más de 50 hasta 70",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 4,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 212.76,
+                "t": 249.96500000000003,
+                "r": 268.9346869999999,
+                "b": 256.76581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Calificación",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 318.36,
+                "t": 249.96500000000003,
+                "r": 344.07754800000004,
+                "b": 256.76581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "ICES",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 212.76,
+                "t": 276.96500000000003,
+                "r": 254.41258899999994,
+                "b": 283.76581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Muy alta",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 279.84,
+                "t": 276.96500000000003,
+                "r": 382.6936469999999,
+                "b": 283.76581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "más de 85 hasta 100",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 212.76,
+                "t": 304.08500000000004,
+                "r": 231.7316,
+                "b": 310.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Alta",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 279.84,
+                "t": 304.08500000000004,
+                "r": 376.5730999999999,
+                "b": 310.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "más de 70 hasta 85",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 212.76,
+                "t": 331.08500000000004,
+                "r": 234.85198699999998,
+                "b": 337.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Baja",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 279.84,
+                "t": 331.08500000000004,
+                "r": 376.5730999999999,
+                "b": 337.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "más de 50 hasta 70",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 5
+    }
+  }
+}

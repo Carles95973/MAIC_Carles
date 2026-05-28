@@ -1,0 +1,5153 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_22._gestion_de_la_calidad_del_proyecto_de_estructuras_de_acero",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1327238437722199550,
+    "filename": "capitulo_22._gestion_de_la_calidad_del_proyecto_de_estructuras_de_acero.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/18"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 421.94,
+            "r": 128.74729200000002,
+            "b": 412.09946961325966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Capítulo 22",
+      "text": "Capítulo 22",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 393.5,
+            "r": 487.23761999999994,
+            "b": 383.65946961325966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Gestión de la calidad del proyecto de estructuras de acero",
+      "text": "Gestión de la calidad del proyecto de estructuras de acero"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "371",
+      "text": "371"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.48,
+            "t": 715.335,
+            "r": 552.8886130000006,
+            "b": 690.6044585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Criterios específicos para el desarrollo del control de proyecto en las estructuras de acero",
+      "text": "Criterios específicos para el desarrollo del control de proyecto en las estructuras de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 671.96,
+            "r": 256.69199999999995,
+            "b": 664.5611049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Niveles del control de proyecto",
+      "text": "Niveles del control de proyecto",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 652.635,
+            "r": 552.8830959999998,
+            "b": 620.5141823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "Cuando la propiedad decida la realización del control de proyecto, independientemente del nivel de supervisión adoptado (supervisión normal o supervisión ampliada, acorde el apartado B.4 del apéndice B del Anexo 18), elegirá uno de los siguientes niveles de control:",
+      "text": "Cuando la propiedad decida la realización del control de proyecto, independientemente del nivel de supervisión adoptado (supervisión normal o supervisión ampliada, acorde el apartado B.4 del apéndice B del Anexo 18), elegirá uno de los siguientes niveles de control:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 607.875,
+            "r": 195.30697499999985,
+            "b": 601.074182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": " Control a nivel normal.",
+      "text": " Control a nivel normal.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.92,
+            "t": 588.435,
+            "r": 197.23501899999982,
+            "b": 581.6341823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": " Control a nivel intenso.",
+      "text": " Control a nivel intenso.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 569.955,
+            "r": 552.8616679999999,
+            "b": 550.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "La entidad de control identificará los aspectos que deben comprobarse y desarrollará, según el tipo de obra, una pauta de control como la que, a título orientativo, se recoge en el Anejo 3.",
+      "text": "La entidad de control identificará los aspectos que deben comprobarse y desarrollará, según el tipo de obra, una pauta de control como la que, a título orientativo, se recoge en el Anejo 3."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 538.635,
+            "r": 552.9057880000001,
+            "b": 519.114182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "La frecuencia de comprobación, según el nivel de control adoptado, no debe ser menor que el indicado en la tabla 96.1.",
+      "text": "La frecuencia de comprobación, según el nivel de control adoptado, no debe ser menor que el indicado en la tabla 96.1."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.16,
+            "t": 501.315,
+            "r": 481.9425349999996,
+            "b": 481.91418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Tabla 96.1 Frecuencia de comprobación de los elementos según el nivel de control adoptado",
+      "text": "Tabla 96.1 Frecuencia de comprobación de los elementos según el nivel de control adoptado"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "372",
+      "text": "372"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 113.16,
+            "t": 730.635,
+            "r": 481.9425349999996,
+            "b": 711.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Tabla 96.1 Frecuencia de comprobación de los elementos según el nivel de control adoptado",
+      "text": "Tabla 96.1 Frecuencia de comprobación de los elementos según el nivel de control adoptado"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "373",
+      "text": "373"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/tables/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.16,
+            "t": 730.635,
+            "r": 481.9425349999996,
+            "b": 711.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Tabla 96.1 Frecuencia de comprobación de los elementos según el nivel de control adoptado",
+      "text": "Tabla 96.1 Frecuencia de comprobación de los elementos según el nivel de control adoptado"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 589.995,
+            "r": 552.992293,
+            "b": 557.874182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "No obstante lo anterior, se comprobará el 100% de los elementos sometidos a fatiga y a torsión principal y, en general, los elementos que sean susceptibles de roturas frágiles, que sean susceptibles de fenómenos de fatiga o que contengan nudos complejos, transiciones complicadas en geometría, etc.",
+      "text": "No obstante lo anterior, se comprobará el 100% de los elementos sometidos a fatiga y a torsión principal y, en general, los elementos que sean susceptibles de roturas frágiles, que sean susceptibles de fenómenos de fatiga o que contengan nudos complejos, transiciones complicadas en geometría, etc."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.6,
+            "t": 539.6,
+            "r": 304.812,
+            "b": 532.2011049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Documentación del control de proyecto",
+      "text": "Documentación del control de proyecto",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 520.275,
+            "r": 552.9183919999998,
+            "b": 488.154182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "Cualquiera que sea el nivel de control aplicado, la entidad de control entregará a la propiedad un informe escrito y firmado por persona física, con indicación de su cualificación y cargo dentro de la entidad, cuyo contenido será equivalente al definido para las estructuras de hormigón en el apartado 55.2.",
+      "text": "Cualquiera que sea el nivel de control aplicado, la entidad de control entregará a la propiedad un informe escrito y firmado por persona física, con indicación de su cualificación y cargo dentro de la entidad, cuyo contenido será equivalente al definido para las estructuras de hormigón en el apartado 55.2."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 539.16,
+            "t": 43.82000000000005,
+            "r": 552.8489999999999,
+            "b": 38.053193277310925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "374",
+      "text": "374"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 508.7234802246094,
+            "t": 814.4321918487549,
+            "r": 552.6737060546875,
+            "b": 771.04541015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 43.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 508.7505187988281,
+            "t": 814.3902893066406,
+            "r": 552.6949462890625,
+            "b": 770.9798812866211,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 43.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 508.8144226074219,
+            "t": 814.5358695983887,
+            "r": 552.7905883789062,
+            "b": 770.8456268310547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 44.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 508.8077392578125,
+            "t": 814.4754867553711,
+            "r": 552.759521484375,
+            "b": 770.9265365600586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 44.0,
+          "height": 43.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.648681640625,
+            "t": 481.0791931152344,
+            "r": 500.14825439453125,
+            "b": 93.2728271484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 120.84,
+              "t": 379.08500000000004,
+              "r": 205.9331409999999,
+              "b": 385.88581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Tipo de elemento",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 244.2,
+              "t": 369.485,
+              "r": 320.1018420000001,
+              "b": 376.285817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 3,
+            "text": "Nivel de control",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 379.8,
+              "t": 379.08500000000004,
+              "r": 453.23774,
+              "b": 385.88581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Observaciones",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 239.76,
+              "t": 388.685,
+              "r": 273.540478,
+              "b": 395.485817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "normal",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 289.800904,
+              "t": 388.685,
+              "r": 325.33074,
+              "b": 395.485817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "intenso",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 101.52,
+              "t": 408.845,
+              "r": 225.01408599999982,
+              "b": 428.365817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Elementos de contención y tablestacas",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 415.20500000000004,
+              "r": 267.686764,
+              "b": 422.00581767955805,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 415.20500000000004,
+              "r": 318.686764,
+              "b": 422.00581767955805,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 337.19951599999996,
+              "t": 415.20500000000004,
+              "r": 495.727088,
+              "b": 422.00581767955805,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 3 secciones diferentes",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 117.72,
+              "t": 449.165,
+              "r": 208.93589399999985,
+              "b": 455.96581767955803,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Anclajes al terreno",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 449.165,
+              "r": 267.686764,
+              "b": 455.96581767955803,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "15%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 449.165,
+              "r": 318.686764,
+              "b": 455.96581767955803,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 367.2,
+              "t": 449.165,
+              "r": 465.7166509999999,
+              "b": 455.96581767955803,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 3 anclajes",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 103.32,
+              "t": 483.245,
+              "r": 223.33522399999984,
+              "b": 490.045817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Pilares y pilas de puente",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64229599999985,
+              "t": 483.245,
+              "r": 267.68905999999987,
+              "b": 490.045817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "15%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 483.245,
+              "r": 318.686764,
+              "b": 490.045817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 375.48,
+              "t": 483.245,
+              "r": 457.5553330000002,
+              "b": 490.045817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Mínimo 3 tramos",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 142.8,
+              "t": 517.205,
+              "r": 183.83601199999993,
+              "b": 524.005817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Jácenas",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 517.205,
+              "r": 267.686764,
+              "b": 524.005817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 517.205,
+              "r": 318.686764,
+              "b": 524.005817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 341.76,
+              "t": 510.845,
+              "r": 491.03671099999997,
+              "b": 530.365817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Mínimo 3 jácenas de al menos dos vanos",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 149.52,
+              "t": 558.725,
+              "r": 176.99572999999998,
+              "b": 565.525817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Vigas",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 558.725,
+              "r": 267.686764,
+              "b": 565.525817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 558.725,
+              "r": 318.686764,
+              "b": 565.525817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 340.92,
+              "t": 546.005,
+              "r": 492.0188669999999,
+              "b": 578.1258176795579,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Mínimo dos vanos En cada vano mínimo una viga interior y una viga de borde",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 143.16,
+              "t": 600.9649999999999,
+              "r": 183.59597999999994,
+              "b": 607.765817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Cajones",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 600.9649999999999,
+              "r": 267.686764,
+              "b": 607.765817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 600.9649999999999,
+              "r": 318.686764,
+              "b": 607.765817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 338.16,
+              "t": 594.605,
+              "r": 494.7738670000001,
+              "b": 614.005817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Mínimo dos vanos, uno extremo y otro interior",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 122.28,
+              "t": 682.685,
+              "r": 204.35533299999983,
+              "b": 689.4858176795581,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Losas ortótropas",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 682.685,
+              "r": 267.686764,
+              "b": 689.4858176795581,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 682.685,
+              "r": 318.686764,
+              "b": 689.4858176795581,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 337.2,
+              "t": 632.165,
+              "r": 495.7330869999999,
+              "b": 740.125817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 4 rigidizadores de la chapa del tablero, uno de borde y otro interior, ambos en un vano local extremo y en un vano local tipo Verificación de la chapa rigidizada, mínimo 3 módulos y al menos uno por vano de flexión local tipo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 9,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 120.84,
+                "t": 379.08500000000004,
+                "r": 205.9331409999999,
+                "b": 385.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Tipo de elemento",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 244.2,
+                "t": 369.485,
+                "r": 320.1018420000001,
+                "b": 376.285817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Nivel de control",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 244.2,
+                "t": 369.485,
+                "r": 320.1018420000001,
+                "b": 376.285817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Nivel de control",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 379.8,
+                "t": 379.08500000000004,
+                "r": 453.23774,
+                "b": 385.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Observaciones",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 120.84,
+                "t": 379.08500000000004,
+                "r": 205.9331409999999,
+                "b": 385.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Tipo de elemento",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 239.76,
+                "t": 388.685,
+                "r": 273.540478,
+                "b": 395.485817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "normal",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 289.800904,
+                "t": 388.685,
+                "r": 325.33074,
+                "b": 395.485817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "intenso",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 379.8,
+                "t": 379.08500000000004,
+                "r": 453.23774,
+                "b": 385.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Observaciones",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 101.52,
+                "t": 408.845,
+                "r": 225.01408599999982,
+                "b": 428.365817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Elementos de contención y tablestacas",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 415.20500000000004,
+                "r": 267.686764,
+                "b": 422.00581767955805,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 415.20500000000004,
+                "r": 318.686764,
+                "b": 422.00581767955805,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 337.19951599999996,
+                "t": 415.20500000000004,
+                "r": 495.727088,
+                "b": 422.00581767955805,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 3 secciones diferentes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 117.72,
+                "t": 449.165,
+                "r": 208.93589399999985,
+                "b": 455.96581767955803,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Anclajes al terreno",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 449.165,
+                "r": 267.686764,
+                "b": 455.96581767955803,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "15%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 449.165,
+                "r": 318.686764,
+                "b": 455.96581767955803,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 367.2,
+                "t": 449.165,
+                "r": 465.7166509999999,
+                "b": 455.96581767955803,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 3 anclajes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 103.32,
+                "t": 483.245,
+                "r": 223.33522399999984,
+                "b": 490.045817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Pilares y pilas de puente",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64229599999985,
+                "t": 483.245,
+                "r": 267.68905999999987,
+                "b": 490.045817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "15%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 483.245,
+                "r": 318.686764,
+                "b": 490.045817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 375.48,
+                "t": 483.245,
+                "r": 457.5553330000002,
+                "b": 490.045817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Mínimo 3 tramos",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 142.8,
+                "t": 517.205,
+                "r": 183.83601199999993,
+                "b": 524.005817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Jácenas",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 517.205,
+                "r": 267.686764,
+                "b": 524.005817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 517.205,
+                "r": 318.686764,
+                "b": 524.005817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 341.76,
+                "t": 510.845,
+                "r": 491.03671099999997,
+                "b": 530.365817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Mínimo 3 jácenas de al menos dos vanos",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 149.52,
+                "t": 558.725,
+                "r": 176.99572999999998,
+                "b": 565.525817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Vigas",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 558.725,
+                "r": 267.686764,
+                "b": 565.525817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 558.725,
+                "r": 318.686764,
+                "b": 565.525817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 340.92,
+                "t": 546.005,
+                "r": 492.0188669999999,
+                "b": 578.1258176795579,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Mínimo dos vanos En cada vano mínimo una viga interior y una viga de borde",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 143.16,
+                "t": 600.9649999999999,
+                "r": 183.59597999999994,
+                "b": 607.765817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Cajones",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 600.9649999999999,
+                "r": 267.686764,
+                "b": 607.765817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 600.9649999999999,
+                "r": 318.686764,
+                "b": 607.765817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 338.16,
+                "t": 594.605,
+                "r": 494.7738670000001,
+                "b": 614.005817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Mínimo dos vanos, uno extremo y otro interior",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 122.28,
+                "t": 682.685,
+                "r": 204.35533299999983,
+                "b": 689.4858176795581,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Losas ortótropas",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 682.685,
+                "r": 267.686764,
+                "b": 689.4858176795581,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 682.685,
+                "r": 318.686764,
+                "b": 689.4858176795581,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 337.2,
+                "t": 632.165,
+                "r": 495.7330869999999,
+                "b": 740.125817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 4 rigidizadores de la chapa del tablero, uno de borde y otro interior, ambos en un vano local extremo y en un vano local tipo Verificación de la chapa rigidizada, mínimo 3 módulos y al menos uno por vano de flexión local tipo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 94.76982879638672,
+            "t": 710.3348388671875,
+            "r": 500.1931457519531,
+            "b": 59.97039794921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 120.84,
+              "t": 149.765,
+              "r": 205.9331409999999,
+              "b": 156.565817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Tipo de elemento",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 244.2,
+              "t": 140.16499999999996,
+              "r": 320.1018420000001,
+              "b": 146.96581767955797,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 3,
+            "text": "Nivel de control",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 379.8,
+              "t": 149.765,
+              "r": 453.23774,
+              "b": 156.565817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Observaciones",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 239.76,
+              "t": 159.365,
+              "r": 273.540478,
+              "b": 166.16581767955802,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "normal",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 289.800904,
+              "t": 159.365,
+              "r": 325.33074,
+              "b": 166.16581767955802,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "intenso",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.84,
+              "t": 194.04499999999996,
+              "r": 184.68713799999995,
+              "b": 200.84581767955797,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Celosías",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 194.04499999999996,
+              "r": 267.686764,
+              "b": 200.84581767955797,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 194.04499999999996,
+              "r": 318.686764,
+              "b": 200.84581767955797,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 341.16,
+              "t": 175.44500000000005,
+              "r": 491.7161910000001,
+              "b": 220.16581767955802,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Mínimo dos elementos tipo por vano: cordón superior, cordón inferior, diagonales, nudos, arriostramientos, etc.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 100.32,
+              "t": 236.04499999999996,
+              "r": 226.31679299999976,
+              "b": 242.84581767955797,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Arcos, pórticos y bóvedas",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 236.04499999999996,
+              "r": 267.686764,
+              "b": 242.84581767955797,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "15%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 236.04499999999996,
+              "r": 318.686764,
+              "b": 242.84581767955797,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 375.12,
+              "t": 236.04499999999996,
+              "r": 457.8119100000002,
+              "b": 242.84581767955797,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Mínimo un tramo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 105.48,
+              "t": 263.765,
+              "r": 221.18690599999982,
+              "b": 283.165817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Mamparos o riostras de zonas de apoyo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 270.125,
+              "r": 267.686764,
+              "b": 276.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "15%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 270.125,
+              "r": 318.686764,
+              "b": 276.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 369.0,
+              "t": 270.125,
+              "r": 463.93410700000004,
+              "b": 276.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 1 por tipo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 108.48,
+              "t": 297.245,
+              "r": 218.03657799999982,
+              "b": 329.36581767955806,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Celosías o diafragmas intermedios de rigidización",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 309.845,
+              "r": 267.686764,
+              "b": 316.64581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 309.845,
+              "r": 318.686764,
+              "b": 316.64581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 369.0,
+              "t": 309.845,
+              "r": 463.93410700000004,
+              "b": 316.64581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 1 por tipo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 121.68,
+              "t": 342.125,
+              "r": 204.91237999999984,
+              "b": 386.845817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Rigidizadores longitudinales y transversales (vigas o cajones)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 361.08500000000004,
+              "r": 267.686764,
+              "b": 367.88581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 361.08500000000004,
+              "r": 318.686764,
+              "b": 367.88581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 339.6,
+              "t": 348.365,
+              "r": 493.19936800000005,
+              "b": 380.485817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 1 por tipo, y todos los de cambio de canto o puntos con quiebros",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 110.64,
+              "t": 407.765,
+              "r": 215.89377499999983,
+              "b": 427.165817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Paneles rigidizados. Control de abolladura",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 414.125,
+              "r": 267.686764,
+              "b": 420.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "15%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 414.125,
+              "r": 318.686764,
+              "b": 420.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 343.08,
+              "t": 414.125,
+              "r": 489.85400400000003,
+              "b": 420.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 3 recuadros por tipo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 99.72,
+              "t": 447.005,
+              "r": 226.93340199999983,
+              "b": 479.125817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Detalles de soldaduras en ángulo, a penetración parcial o total",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 459.725,
+              "r": 267.686764,
+              "b": 466.52581767955803,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 459.725,
+              "r": 318.686764,
+              "b": 466.52581767955803,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 369.0,
+              "t": 459.725,
+              "r": 463.93410700000004,
+              "b": 466.52581767955803,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 1 por tipo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 110.4,
+              "t": 497.765,
+              "r": 216.24277699999982,
+              "b": 504.565817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Costillas de voladizos",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 497.765,
+              "r": 267.686764,
+              "b": 504.565817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "15%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 497.765,
+              "r": 318.686764,
+              "b": 504.565817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 350.64,
+              "t": 491.40500000000003,
+              "r": 482.1749559999999,
+              "b": 510.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 1 de borde y una intermedia.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 111.96,
+              "t": 531.725,
+              "r": 214.8092349999998,
+              "b": 538.525817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Brochales o puntales",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 531.725,
+              "r": 267.686764,
+              "b": 538.525817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 531.725,
+              "r": 318.686764,
+              "b": 538.525817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 341.51996699999995,
+              "t": 531.725,
+              "r": 491.39671,
+              "b": 538.525817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Mínimo 3 brochales o puntales",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 139.08,
+              "t": 565.8050000000001,
+              "r": 187.43551999999994,
+              "b": 572.605817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Escaleras",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 565.8050000000001,
+              "r": 267.686764,
+              "b": 572.605817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 565.8050000000001,
+              "r": 318.686764,
+              "b": 572.605817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 364.8,
+              "t": 565.8050000000001,
+              "r": 468.2481640000001,
+              "b": 572.605817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos dos tramos",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 102.72,
+              "t": 590.165,
+              "r": 223.94080299999982,
+              "b": 622.285817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Conectadores de elementos metálicos con hormigón",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 602.765,
+              "r": 267.686764,
+              "b": 609.565817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 602.765,
+              "r": 318.686764,
+              "b": 609.565817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 343.68,
+              "t": 590.165,
+              "r": 489.24952800000017,
+              "b": 622.285817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Analizar al menos tres tramos de cada tipo de conexión (con losa superior e inferior)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 103.32,
+              "t": 634.685,
+              "r": 223.31536999999983,
+              "b": 717.325817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Elementos singulares: anclajes de tendones de pretensado exterior, anclajes de tirantes o péndolas, nudos de empalme con elementos de hormigón, etc.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 672.605,
+              "r": 267.686764,
+              "b": 679.405817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "15%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 672.605,
+              "r": 318.686764,
+              "b": 679.405817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 369.0,
+              "t": 672.605,
+              "r": 463.93410700000004,
+              "b": 679.405817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 1 por tipo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 110.4,
+              "t": 731.885,
+              "r": 216.36410699999985,
+              "b": 776.605817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Cuñas, basas o rigidización local de apoyos y zonas de sustitución de apoyos",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 750.845,
+              "r": 267.686764,
+              "b": 757.645817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "15%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 750.845,
+              "r": 318.686764,
+              "b": 757.645817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 369.0,
+              "t": 750.845,
+              "r": 463.93410700000004,
+              "b": 757.645817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 1 por tipo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 15,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 120.84,
+                "t": 149.765,
+                "r": 205.9331409999999,
+                "b": 156.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Tipo de elemento",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 244.2,
+                "t": 140.16499999999996,
+                "r": 320.1018420000001,
+                "b": 146.96581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Nivel de control",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 244.2,
+                "t": 140.16499999999996,
+                "r": 320.1018420000001,
+                "b": 146.96581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Nivel de control",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 379.8,
+                "t": 149.765,
+                "r": 453.23774,
+                "b": 156.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Observaciones",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 120.84,
+                "t": 149.765,
+                "r": 205.9331409999999,
+                "b": 156.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Tipo de elemento",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 239.76,
+                "t": 159.365,
+                "r": 273.540478,
+                "b": 166.16581767955802,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "normal",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 289.800904,
+                "t": 159.365,
+                "r": 325.33074,
+                "b": 166.16581767955802,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "intenso",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 379.8,
+                "t": 149.765,
+                "r": 453.23774,
+                "b": 156.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Observaciones",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 141.84,
+                "t": 194.04499999999996,
+                "r": 184.68713799999995,
+                "b": 200.84581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Celosías",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 194.04499999999996,
+                "r": 267.686764,
+                "b": 200.84581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 194.04499999999996,
+                "r": 318.686764,
+                "b": 200.84581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 341.16,
+                "t": 175.44500000000005,
+                "r": 491.7161910000001,
+                "b": 220.16581767955802,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Mínimo dos elementos tipo por vano: cordón superior, cordón inferior, diagonales, nudos, arriostramientos, etc.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 100.32,
+                "t": 236.04499999999996,
+                "r": 226.31679299999976,
+                "b": 242.84581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Arcos, pórticos y bóvedas",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 236.04499999999996,
+                "r": 267.686764,
+                "b": 242.84581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "15%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 236.04499999999996,
+                "r": 318.686764,
+                "b": 242.84581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 375.12,
+                "t": 236.04499999999996,
+                "r": 457.8119100000002,
+                "b": 242.84581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Mínimo un tramo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 105.48,
+                "t": 263.765,
+                "r": 221.18690599999982,
+                "b": 283.165817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Mamparos o riostras de zonas de apoyo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 270.125,
+                "r": 267.686764,
+                "b": 276.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "15%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 270.125,
+                "r": 318.686764,
+                "b": 276.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 369.0,
+                "t": 270.125,
+                "r": 463.93410700000004,
+                "b": 276.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 1 por tipo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 108.48,
+                "t": 297.245,
+                "r": 218.03657799999982,
+                "b": 329.36581767955806,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Celosías o diafragmas intermedios de rigidización",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 309.845,
+                "r": 267.686764,
+                "b": 316.64581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 309.845,
+                "r": 318.686764,
+                "b": 316.64581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 369.0,
+                "t": 309.845,
+                "r": 463.93410700000004,
+                "b": 316.64581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 1 por tipo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 121.68,
+                "t": 342.125,
+                "r": 204.91237999999984,
+                "b": 386.845817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Rigidizadores longitudinales y transversales (vigas o cajones)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 361.08500000000004,
+                "r": 267.686764,
+                "b": 367.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 361.08500000000004,
+                "r": 318.686764,
+                "b": 367.88581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 339.6,
+                "t": 348.365,
+                "r": 493.19936800000005,
+                "b": 380.485817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 1 por tipo, y todos los de cambio de canto o puntos con quiebros",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 110.64,
+                "t": 407.765,
+                "r": 215.89377499999983,
+                "b": 427.165817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Paneles rigidizados. Control de abolladura",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 414.125,
+                "r": 267.686764,
+                "b": 420.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "15%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 414.125,
+                "r": 318.686764,
+                "b": 420.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 343.08,
+                "t": 414.125,
+                "r": 489.85400400000003,
+                "b": 420.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 3 recuadros por tipo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 99.72,
+                "t": 447.005,
+                "r": 226.93340199999983,
+                "b": 479.125817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Detalles de soldaduras en ángulo, a penetración parcial o total",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 459.725,
+                "r": 267.686764,
+                "b": 466.52581767955803,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 459.725,
+                "r": 318.686764,
+                "b": 466.52581767955803,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 369.0,
+                "t": 459.725,
+                "r": 463.93410700000004,
+                "b": 466.52581767955803,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 1 por tipo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 110.4,
+                "t": 497.765,
+                "r": 216.24277699999982,
+                "b": 504.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Costillas de voladizos",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 497.765,
+                "r": 267.686764,
+                "b": 504.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "15%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 497.765,
+                "r": 318.686764,
+                "b": 504.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 350.64,
+                "t": 491.40500000000003,
+                "r": 482.1749559999999,
+                "b": 510.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 1 de borde y una intermedia.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 111.96,
+                "t": 531.725,
+                "r": 214.8092349999998,
+                "b": 538.525817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Brochales o puntales",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 531.725,
+                "r": 267.686764,
+                "b": 538.525817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 531.725,
+                "r": 318.686764,
+                "b": 538.525817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 341.51996699999995,
+                "t": 531.725,
+                "r": 491.39671,
+                "b": 538.525817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Mínimo 3 brochales o puntales",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 139.08,
+                "t": 565.8050000000001,
+                "r": 187.43551999999994,
+                "b": 572.605817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Escaleras",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 565.8050000000001,
+                "r": 267.686764,
+                "b": 572.605817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 565.8050000000001,
+                "r": 318.686764,
+                "b": 572.605817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 364.8,
+                "t": 565.8050000000001,
+                "r": 468.2481640000001,
+                "b": 572.605817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos dos tramos",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 102.72,
+                "t": 590.165,
+                "r": 223.94080299999982,
+                "b": 622.285817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Conectadores de elementos metálicos con hormigón",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 602.765,
+                "r": 267.686764,
+                "b": 609.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 602.765,
+                "r": 318.686764,
+                "b": 609.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 343.68,
+                "t": 590.165,
+                "r": 489.24952800000017,
+                "b": 622.285817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Analizar al menos tres tramos de cada tipo de conexión (con losa superior e inferior)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 103.32,
+                "t": 634.685,
+                "r": 223.31536999999983,
+                "b": 717.325817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Elementos singulares: anclajes de tendones de pretensado exterior, anclajes de tirantes o péndolas, nudos de empalme con elementos de hormigón, etc.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 672.605,
+                "r": 267.686764,
+                "b": 679.405817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "15%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 672.605,
+                "r": 318.686764,
+                "b": 679.405817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 369.0,
+                "t": 672.605,
+                "r": 463.93410700000004,
+                "b": 679.405817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 1 por tipo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 110.4,
+                "t": 731.885,
+                "r": 216.36410699999985,
+                "b": 776.605817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Cuñas, basas o rigidización local de apoyos y zonas de sustitución de apoyos",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 750.845,
+                "r": 267.686764,
+                "b": 757.645817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "15%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 750.845,
+                "r": 318.686764,
+                "b": 757.645817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 369.0,
+                "t": 750.845,
+                "r": 463.93410700000004,
+                "b": 757.645817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 1 por tipo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 94.85826110839844,
+            "t": 710.3433685302734,
+            "r": 500.11920166015625,
+            "b": 601.0241241455078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 120.84,
+              "t": 149.765,
+              "r": 205.9331409999999,
+              "b": 156.565817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Tipo de elemento",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 244.2,
+              "t": 140.16499999999996,
+              "r": 320.1018420000001,
+              "b": 146.96581767955797,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 3,
+            "text": "Nivel de control",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 379.8,
+              "t": 149.765,
+              "r": 453.23774,
+              "b": 156.565817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Observaciones",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 239.76,
+              "t": 159.365,
+              "r": 273.540478,
+              "b": 166.16581767955802,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "normal",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 289.800904,
+              "t": 159.365,
+              "r": 325.33074,
+              "b": 166.16581767955802,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "intenso",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 103.08,
+              "t": 178.80500000000006,
+              "r": 223.6787109999998,
+              "b": 236.24581767955806,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Elementos auxiliares provisionales necesarios durante la ejecución: apeos, pilonos de atirantamiento, etc.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.64,
+              "t": 204.125,
+              "r": 267.686764,
+              "b": 210.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "15%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.64,
+              "t": 204.125,
+              "r": 318.686764,
+              "b": 210.925817679558,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "30%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 348.48,
+              "t": 191.52499999999998,
+              "r": 484.33430399999986,
+              "b": 223.64581767955804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Al menos 1 por tipo y supervisión de afección a la estructura definitiva",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 3,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 244.2,
+                "t": 140.16499999999996,
+                "r": 320.1018420000001,
+                "b": 146.96581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Nivel de control",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 244.2,
+                "t": 140.16499999999996,
+                "r": 320.1018420000001,
+                "b": 146.96581767955797,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Nivel de control",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 379.8,
+                "t": 149.765,
+                "r": 453.23774,
+                "b": 156.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Observaciones",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 120.84,
+                "t": 149.765,
+                "r": 205.9331409999999,
+                "b": 156.565817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Tipo de elemento",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 239.76,
+                "t": 159.365,
+                "r": 273.540478,
+                "b": 166.16581767955802,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "normal",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 289.800904,
+                "t": 159.365,
+                "r": 325.33074,
+                "b": 166.16581767955802,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "intenso",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 103.08,
+                "t": 178.80500000000006,
+                "r": 223.6787109999998,
+                "b": 236.24581767955806,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Elementos auxiliares provisionales necesarios durante la ejecución: apeos, pilonos de atirantamiento, etc.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.64,
+                "t": 204.125,
+                "r": 267.686764,
+                "b": 210.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "15%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.64,
+                "t": 204.125,
+                "r": 318.686764,
+                "b": 210.925817679558,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "30%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 348.48,
+                "t": 191.52499999999998,
+                "r": 484.33430399999986,
+                "b": 223.64581767955804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Al menos 1 por tipo y supervisión de afección a la estructura definitiva",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 4
+    }
+  }
+}

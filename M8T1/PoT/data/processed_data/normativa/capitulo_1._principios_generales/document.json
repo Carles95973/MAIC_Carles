@@ -1,0 +1,4551 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_1._principios_generales",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12478780228760047897,
+    "filename": "capitulo_1._principios_generales.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 410.18,
+            "r": 119.87353200000001,
+            "b": 400.33946961325967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Capítulo 1",
+      "text": "Capítulo 1",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 381.74,
+            "r": 199.06066800000008,
+            "b": 371.89946961325967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Principios generales",
+      "text": "Principios generales"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "42",
+      "text": "42"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 703.5749999999999,
+            "r": 172.013397,
+            "b": 694.9244585635358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Objeto",
+      "text": "Objeto",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 682.755,
+            "r": 553.0022200000001,
+            "b": 625.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            464
+          ]
+        }
+      ],
+      "orig": "Este Código Estructural es el marco reglamentario por el que se establecen las exigencias que deben cumplir las estructuras de hormigón, las de acero y las mixtas hormigón-acero para satisfacer los requisitos de seguridad estructural y seguridad en caso de incendio, además de la protección del medio ambiente y la utilización eficiente de recursos naturales, proporcionando procedimientos que permiten demostrar su cumplimiento con suficientes garantías técnicas.",
+      "text": "Este Código Estructural es el marco reglamentario por el que se establecen las exigencias que deben cumplir las estructuras de hormigón, las de acero y las mixtas hormigón-acero para satisfacer los requisitos de seguridad estructural y seguridad en caso de incendio, además de la protección del medio ambiente y la utilización eficiente de recursos naturales, proporcionando procedimientos que permiten demostrar su cumplimiento con suficientes garantías técnicas."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 613.515,
+            "r": 552.972439,
+            "b": 581.3941823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Las exigencias deben cumplirse tanto en el proyecto como en la construcción de las estructuras, así como en su mantenimiento. Asimismo, se dan criterios para la gestión de las estructuras existentes durante su vida útil.",
+      "text": "Las exigencias deben cumplirse tanto en el proyecto como en la construcción de las estructuras, así como en su mantenimiento. Asimismo, se dan criterios para la gestión de las estructuras existentes durante su vida útil."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 569.595,
+            "r": 552.990087,
+            "b": 512.154182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "Este Código supone que el proyecto, construcción, control y mantenimiento de las estructuras que constituyen su ámbito de aplicación son llevados a cabo por técnicos y operarios con los conocimientos necesarios y la experiencia suficiente. Además, se da por hecho que dichas estructuras estarán destinadas al uso para el que hayan sido concebidas y serán adecuadamente mantenidas por la propiedad durante su vida de servicio.",
+      "text": "Este Código supone que el proyecto, construcción, control y mantenimiento de las estructuras que constituyen su ámbito de aplicación son llevados a cabo por técnicos y operarios con los conocimientos necesarios y la experiencia suficiente. Además, se da por hecho que dichas estructuras estarán destinadas al uso para el que hayan sido concebidas y serán adecuadamente mantenidas por la propiedad durante su vida de servicio."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 475.09499999999997,
+            "r": 268.494901,
+            "b": 466.4444585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Ámbito de aplicación",
+      "text": "Ámbito de aplicación",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 454.275,
+            "r": 552.8561530000003,
+            "b": 422.154182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "Este Código Estructural es de aplicación a todas las estructuras y elementos estructurales de hormigón, de acero o mixtos de hormigón-acero, con las excepciones indicadas para cada caso en los Artículos 26, 79 y 109.",
+      "text": "Este Código Estructural es de aplicación a todas las estructuras y elementos estructurales de hormigón, de acero o mixtos de hormigón-acero, con las excepciones indicadas para cada caso en los Artículos 26, 79 y 109."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 410.35499999999996,
+            "r": 552.742544,
+            "b": 390.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Si existe reglamentación específica de acciones, este Código se aplicará complementariamente a la misma.",
+      "text": "Si existe reglamentación específica de acciones, este Código se aplicará complementariamente a la misma."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 379.03499999999997,
+            "r": 552.9845719999997,
+            "b": 321.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "Con carácter general se aplicará a todas las obras de nueva construcción. Cuando a la vista de las características de la obra, definidas por la propiedad, la estructura pueda considerarse como una obra especial o singular, este Código será de aplicación con las adaptaciones y disposiciones adicionales que establezca el autor del proyecto para satisfacer las exigencias definidas en el mismo, con su mismo nivel de garantía.",
+      "text": "Con carácter general se aplicará a todas las obras de nueva construcción. Cuando a la vista de las características de la obra, definidas por la propiedad, la estructura pueda considerarse como una obra especial o singular, este Código será de aplicación con las adaptaciones y disposiciones adicionales que establezca el autor del proyecto para satisfacer las exigencias definidas en el mismo, con su mismo nivel de garantía."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 309.79499999999996,
+            "r": 552.9631439999997,
+            "b": 290.2741823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Así mismo, se utilizará para la intervención o la deconstrucción, en su caso, de las estructuras existentes, de acuerdo con los criterios definidos y las limitaciones indicadas en el articulado.",
+      "text": "Así mismo, se utilizará para la intervención o la deconstrucción, en su caso, de las estructuras existentes, de acuerdo con los criterios definidos y las limitaciones indicadas en el articulado."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 253.21500000000003,
+            "r": 309.963372,
+            "b": 244.56445856353594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Consideraciones generales",
+      "text": "Consideraciones generales",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 232.39499999999998,
+            "r": 552.7237930000002,
+            "b": 212.87418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "Todos los agentes que participan en el proyecto, construcción, control y mantenimiento de las estructuras en el ámbito de este Código, están obligados a conocer y aplicar el mismo.",
+      "text": "Todos los agentes que participan en el proyecto, construcción, control y mantenimiento de las estructuras en el ámbito de este Código, están obligados a conocer y aplicar el mismo."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 201.07500000000005,
+            "r": 553.0242800000001,
+            "b": 168.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "Para asegurar que una estructura satisface los requisitos establecidos en el Artículo 5 de este Código, los agentes que intervengan deben comprobar el cumplimiento de las exigencias que se establecen en el mismo para el proyecto, la ejecución, el control y el mantenimiento de la estructura.",
+      "text": "Para asegurar que una estructura satisface los requisitos establecidos en el Artículo 5 de este Código, los agentes que intervengan deben comprobar el cumplimiento de las exigencias que se establecen en el mismo para el proyecto, la ejecución, el control y el mantenimiento de la estructura."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 157.15499999999997,
+            "r": 552.896964,
+            "b": 137.63418232044194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "Para justificar que la estructura cumple las exigencias que establece este Código, el autor del proyecto, con la conformidad de la propiedad, y la dirección facultativa deberán:",
+      "text": "Para justificar que la estructura cumple las exigencias que establece este Código, el autor del proyecto, con la conformidad de la propiedad, y la dirección facultativa deberán:"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 125.83500000000004,
+            "r": 543.1350679999999,
+            "b": 93.71418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "a) adoptar soluciones técnicas de acuerdo con los procedimientos que contempla este Código cuya aplicación es suficiente para acreditar el cumplimiento de las exigencias establecidas en el mismo, o bien",
+      "text": "adoptar soluciones técnicas de acuerdo con los procedimientos que contempla este Código cuya aplicación es suficiente para acreditar el cumplimiento de las exigencias establecidas en el mismo, o bien",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 87.91499999999996,
+            "r": 518.1664569999999,
+            "b": 68.39418232044204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "b) adoptar, para el dimensionamiento y comprobación de la estructura en el proyecto, los procedimientos establecidos en los eurocódigos estructurales que se relacionan a",
+      "text": "adoptar, para el dimensionamiento y comprobación de la estructura en el proyecto, los procedimientos establecidos en los eurocódigos estructurales que se relacionan a",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "43",
+      "text": "43"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.6,
+            "t": 724.875,
+            "r": 550.4414830000001,
+            "b": 667.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "continuación, junto con los correspondientes Anejos Nacionales que se publiquen en la página web del Ministerio de Transportes, Movilidad y Agenda Urbana, cuya aplicación puede considerarse un medio para demostrar el cumplimiento de las exigencias establecidas en este Código respetando, en cualquier caso, su ámbito de aplicación y el resto de la reglamentación específica vigente:",
+      "text": "continuación, junto con los correspondientes Anejos Nacionales que se publiquen en la página web del Ministerio de Transportes, Movilidad y Agenda Urbana, cuya aplicación puede considerarse un medio para demostrar el cumplimiento de las exigencias establecidas en este Código respetando, en cualquier caso, su ámbito de aplicación y el resto de la reglamentación específica vigente:"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 661.635,
+            "r": 552.976352,
+            "b": 642.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "a. UNE-EN 1990:2003 y UNE-EN 1990:2003/A1:2010. Eurocódigos. Bases de cálculo de estructuras.",
+      "text": "UNE-EN 1990:2003 y UNE-EN 1990:2003/A1:2010. Eurocódigos. Bases de cálculo de estructuras.",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 636.3149999999999,
+            "r": 552.980764,
+            "b": 616.914182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "b. UNE-EN 1992-1-1:2013 y UNE-EN 1992-1-1:2013/A1:2015. Eurocódigo 2: Proyecto de estructuras de hormigón. Parte 1-1: Reglas generales y reglas para edificación.",
+      "text": "UNE-EN 1992-1-1:2013 y UNE-EN 1992-1-1:2013/A1:2015. Eurocódigo 2: Proyecto de estructuras de hormigón. Parte 1-1: Reglas generales y reglas para edificación.",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 610.995,
+            "r": 553.0370170000002,
+            "b": 591.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "c. UNE-EN 1992-1-2:2011. Eurocódigo 2: Proyecto de estructuras de hormigón. Parte 1-2: Reglas generales. Proyecto de estructuras sometidas al fuego.",
+      "text": "UNE-EN 1992-1-2:2011. Eurocódigo 2: Proyecto de estructuras de hormigón. Parte 1-2: Reglas generales. Proyecto de estructuras sometidas al fuego.",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 585.795,
+            "r": 552.9189960000001,
+            "b": 566.2741823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "d. UNE-EN 1992-2:2013. Eurocódigo 2: Proyecto de estructuras de hormigón. Parte 2: Puentes de hormigón. Cálculo y disposiciones constructivas.",
+      "text": "UNE-EN 1992-2:2013. Eurocódigo 2: Proyecto de estructuras de hormigón. Parte 2: Puentes de hormigón. Cálculo y disposiciones constructivas.",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 560.475,
+            "r": 552.980764,
+            "b": 540.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "e. UNE-EN 1993-1-1:2013 y UNE-EN 1993-1-1:2013/A1:2014. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-1: Reglas generales y reglas para edificios.",
+      "text": "UNE-EN 1993-1-1:2013 y UNE-EN 1993-1-1:2013/A1:2014. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-1: Reglas generales y reglas para edificios.",
+      "enumerated": true,
+      "marker": "e."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 535.155,
+            "r": 553.0359140000002,
+            "b": 515.6341823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "f. UNE-EN 1993-1-2:2016. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-2: Reglas generales. Proyecto de estructuras sometidas al fuego.",
+      "text": "UNE-EN 1993-1-2:2016. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-2: Reglas generales. Proyecto de estructuras sometidas al fuego.",
+      "enumerated": true,
+      "marker": "f."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 509.835,
+            "r": 553.0359140000002,
+            "b": 490.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "g. UNE-EN 1993-1-4:2012. Eurocódigo 3. Proyecto de estructuras de acero. Parte 1-4: Reglas generales. Reglas adicionales para los aceros inoxidables.",
+      "text": "UNE-EN 1993-1-4:2012. Eurocódigo 3. Proyecto de estructuras de acero. Parte 1-4: Reglas generales. Reglas adicionales para los aceros inoxidables.",
+      "enumerated": true,
+      "marker": "g."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 484.515,
+            "r": 553.2015070000001,
+            "b": 452.394182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "h. UNE-EN 1993-1-5:2013, UNE-EN 1993-1-5:2013/A1:2019 y UNE-EN 1993-15:2013/A2:2020. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-5: Placas planas cargadas en su plano.",
+      "text": "UNE-EN 1993-1-5:2013, UNE-EN 1993-1-5:2013/A1:2019 y UNE-EN 1993-15:2013/A2:2020. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-5: Placas planas cargadas en su plano.",
+      "enumerated": true,
+      "marker": "h."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 446.59499999999997,
+            "r": 553.0359140000002,
+            "b": 427.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "i. UNE-EN 1993-1-8:2013. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-8: Uniones.",
+      "text": "UNE-EN 1993-1-8:2013. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-8: Uniones.",
+      "enumerated": true,
+      "marker": "i."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 421.275,
+            "r": 553.0359140000002,
+            "b": 401.874182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "j. UNE-EN 1993-1-9:2013. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-9: Fatiga.",
+      "text": "UNE-EN 1993-1-9:2013. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-9: Fatiga.",
+      "enumerated": true,
+      "marker": "j."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 395.955,
+            "r": 553.0337080000002,
+            "b": 376.55418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "k. UNE-EN 1993-1-10:2013. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-10: Tenacidad de fractura y resistencia transversal.",
+      "text": "UNE-EN 1993-1-10:2013. Eurocódigo 3: Proyecto de estructuras de acero. Parte 1-10: Tenacidad de fractura y resistencia transversal.",
+      "enumerated": true,
+      "marker": "k."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 370.755,
+            "r": 553.0403260000003,
+            "b": 363.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "l. UNE-EN 1993-2:2013. Eurocódigo 3: Proyecto de estructuras de acero. Parte 2: Puentes.",
+      "text": "UNE-EN 1993-2:2013. Eurocódigo 3: Proyecto de estructuras de acero. Parte 2: Puentes.",
+      "enumerated": true,
+      "marker": "l."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 358.03499999999997,
+            "r": 553.2090850000001,
+            "b": 338.634182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "m. UNE-EN 1994-1-1:2013. Eurocódigo 4: Proyecto de estructuras mixtas de acero y hormigón. Parte 1-1: Reglas generales y reglas para edificación.",
+      "text": "UNE-EN 1994-1-1:2013. Eurocódigo 4: Proyecto de estructuras mixtas de acero y hormigón. Parte 1-1: Reglas generales y reglas para edificación.",
+      "enumerated": true,
+      "marker": "m."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 332.715,
+            "r": 553.2090850000001,
+            "b": 313.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "n. UNE-EN 1994-1-2:2016. Eurocódigo 4: Proyecto de estructuras mixtas de acero y hormigón. Parte 1-2: Reglas generales. Proyecto de estructuras sometidas al fuego.",
+      "text": "UNE-EN 1994-1-2:2016. Eurocódigo 4: Proyecto de estructuras mixtas de acero y hormigón. Parte 1-2: Reglas generales. Proyecto de estructuras sometidas al fuego.",
+      "enumerated": true,
+      "marker": "n."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.0,
+            "t": 307.515,
+            "r": 553.0359140000003,
+            "b": 287.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "o. UNE-EN1994-2:2013. Eurocódigo 4: Proyecto de estructuras mixtas de acero y hormigón. Parte 2: Reglas generales y reglas para puentes,",
+      "text": "UNE-EN1994-2:2013. Eurocódigo 4: Proyecto de estructuras mixtas de acero y hormigón. Parte 2: Reglas generales y reglas para puentes,",
+      "enumerated": true,
+      "marker": "o."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.2,
+            "t": 276.19499999999994,
+            "r": 114.49347400000002,
+            "b": 269.39418232044204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "o bien",
+      "text": "o bien",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.6,
+            "t": 257.475,
+            "r": 553.0819220000001,
+            "b": 174.83418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            639
+          ]
+        }
+      ],
+      "orig": "c) adoptar soluciones alternativas que se aparten parcial o totalmente de los procedimientos contemplados en este Código. Para ello, el autor del proyecto y la dirección facultativa pueden, en uso de sus atribuciones, bajo su responsabilidad y previa conformidad de la propiedad, adoptar soluciones alternativas (mediante sistemas de cálculo, disposiciones constructivas, procedimientos de control, etc., diferentes), siempre que se justifique documentalmente que la estructura cumple las exigencias de este Código porque sus prestaciones son, al menos, equivalentes a las que se obtendrían por la aplicación de los procedimientos de éste.",
+      "text": "adoptar soluciones alternativas que se aparten parcial o totalmente de los procedimientos contemplados en este Código. Para ello, el autor del proyecto y la dirección facultativa pueden, en uso de sus atribuciones, bajo su responsabilidad y previa conformidad de la propiedad, adoptar soluciones alternativas (mediante sistemas de cálculo, disposiciones constructivas, procedimientos de control, etc., diferentes), siempre que se justifique documentalmente que la estructura cumple las exigencias de este Código porque sus prestaciones son, al menos, equivalentes a las que se obtendrían por la aplicación de los procedimientos de éste.",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 127.68,
+            "t": 137.65499999999997,
+            "r": 281.04193,
+            "b": 129.00445856353588,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Condiciones generales",
+      "text": "Condiciones generales",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.6,
+            "t": 110.36000000000001,
+            "r": 242.112,
+            "b": 102.96110497237567,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Condiciones administrativas",
+      "text": "Condiciones administrativas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 91.03499999999997,
+            "r": 552.876478,
+            "b": 71.63418232044205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 724.875,
+            "r": 552.9922929999999,
+            "b": 642.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            191,
+            853
+          ]
+        }
+      ],
+      "orig": "Las mercancías comercializadas legalmente en otro Estado miembro de la Unión Europea, en Turquía, u originarias de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializadas legalmente en él, se consideran conformes con el presente Código, incluso cuando no cumplan las condiciones técnicas establecidas en el mismo, siempre que, conforme se indica en el apartado 3.c del mismo, aseguren un nivel equivalente al que exige este Código, en cuanto a la seguridad y el uso al que están destinadas. La aplicación de la presente medida está sujeta al Reglamento (UE) 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado Miembro y por el que se deroga el Reglamento (CE) nº 764/2008.",
+      "text": "Las mercancías comercializadas legalmente en otro Estado miembro de la Unión Europea, en Turquía, u originarias de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializadas legalmente en él, se consideran conformes con el presente Código, incluso cuando no cumplan las condiciones técnicas establecidas en el mismo, siempre que, conforme se indica en el apartado 3.c del mismo, aseguren un nivel equivalente al que exige este Código, en cuanto a la seguridad y el uso al que están destinadas. La aplicación de la presente medida está sujeta al Reglamento (UE) 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado Miembro y por el que se deroga el Reglamento (CE) nº 764/2008."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "44",
+      "text": "44"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 630.3149999999999,
+            "r": 553.0364129999998,
+            "b": 522.354182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            850
+          ]
+        }
+      ],
+      "orig": "A los efectos de este Código, debe entenderse que las normas UNE, UNE-EN o UNE-EN ISO mencionadas en el articulado, se refieren siempre a las versiones que se relacionan en el Anejo 1, salvo en el caso de normas armonizadas UNE-EN que sean transposición de normas EN cuya referencia haya sido publicada en el Diario Oficial de la Unión Europea, en el marco de aplicación del Reglamento Nº 305/2011 del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, por el que se establecen condiciones armonizadas para la comercialización de productos de construcción, en cuyo caso la cita se deberá relacionar con la última Comunicación de la Comisión que incluya dicha referencia. En el caso de normas de métodos de ensayo referenciadas en las normas armonizadas, debe aplicarse la versión incluida en las normas armonizadas UNE-EN citadas anteriormente.",
+      "text": "A los efectos de este Código, debe entenderse que las normas UNE, UNE-EN o UNE-EN ISO mencionadas en el articulado, se refieren siempre a las versiones que se relacionan en el Anejo 1, salvo en el caso de normas armonizadas UNE-EN que sean transposición de normas EN cuya referencia haya sido publicada en el Diario Oficial de la Unión Europea, en el marco de aplicación del Reglamento Nº 305/2011 del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, por el que se establecen condiciones armonizadas para la comercialización de productos de construcción, en cuyo caso la cita se deberá relacionar con la última Comunicación de la Comisión que incluya dicha referencia. En el caso de normas de métodos de ensayo referenciadas en las normas armonizadas, debe aplicarse la versión incluida en las normas armonizadas UNE-EN citadas anteriormente."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 510.435,
+            "r": 552.8632419999998,
+            "b": 465.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            381
+          ]
+        }
+      ],
+      "orig": "Las normas recogidas en este Código podrán ser sustituidas por otras de las utilizadas en cualquiera de los otros Estados miembros de la Unión Europea, o que sean parte del Acuerdo sobre el Espacio Económico Europeo, y en aquellos Estados que tengan un acuerdo de asociación aduanera con la Unión Europea, siempre que se demuestre que poseen especificaciones técnicas equivalentes.",
+      "text": "Las normas recogidas en este Código podrán ser sustituidas por otras de las utilizadas en cualquiera de los otros Estados miembros de la Unión Europea, o que sean parte del Acuerdo sobre el Espacio Económico Europeo, y en aquellos Estados que tengan un acuerdo de asociación aduanera con la Unión Europea, siempre que se demuestre que poseen especificaciones técnicas equivalentes."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 453.91499999999996,
+            "r": 553.0209710000001,
+            "b": 345.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            894
+          ]
+        }
+      ],
+      "orig": "Los distintivos reconocidos oficialmente en otro Estado miembro de la Unión Europea, en Turquía, u originarios de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo, que podrán referirse a los productos, a los procesos para su construcción o a la consideración de criterios de sostenibilidad, se consideran conformes con el presente Código, incluso cuando no cumplan las condiciones técnicas establecidas en el mismo, siempre que aseguren un nivel equivalente al que exige este Código, en cuanto a la seguridad y el uso al que están destinados. La aplicación de la presente medida está sujeta al Reglamento (UE) 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado Miembro y por el que se deroga el Reglamento (CE) nº 764/2008.",
+      "text": "Los distintivos reconocidos oficialmente en otro Estado miembro de la Unión Europea, en Turquía, u originarios de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo, que podrán referirse a los productos, a los procesos para su construcción o a la consideración de criterios de sostenibilidad, se consideran conformes con el presente Código, incluso cuando no cumplan las condiciones técnicas establecidas en el mismo, siempre que aseguren un nivel equivalente al que exige este Código, en cuanto a la seguridad y el uso al que están destinados. La aplicación de la presente medida está sujeta al Reglamento (UE) 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado Miembro y por el que se deroga el Reglamento (CE) nº 764/2008."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 334.03499999999997,
+            "r": 552.9768509999999,
+            "b": 263.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            609
+          ]
+        }
+      ],
+      "orig": "Conforme al artículo 8.3 del Reglamento (UE) Nº 305/2011, de 9 de marzo de 2011, para los productos de construcción cubiertos por una norma armonizada o por una evaluación técnica europea, los distintivos oficialmente reconocidos (tanto de calidad como de sostenibilidad) no podrán certificar la conformidad con las prestaciones declaradas en lo que respecta a las características esenciales cubiertas por la norma armonizada, ni tampoco con las prestaciones de ninguna característica esencial relacionada con los requisitos básicos incluidos en el anexo I del Reglamento (EU) 305/2011, de 9 de marzo de 2011.",
+      "text": "Conforme al artículo 8.3 del Reglamento (UE) Nº 305/2011, de 9 de marzo de 2011, para los productos de construcción cubiertos por una norma armonizada o por una evaluación técnica europea, los distintivos oficialmente reconocidos (tanto de calidad como de sostenibilidad) no podrán certificar la conformidad con las prestaciones declaradas en lo que respecta a las características esenciales cubiertas por la norma armonizada, ni tampoco con las prestaciones de ninguna característica esencial relacionada con los requisitos básicos incluidos en el anexo I del Reglamento (EU) 305/2011, de 9 de marzo de 2011."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.6,
+            "t": 227.0,
+            "r": 416.78400000000005,
+            "b": 219.60110497237565,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Condiciones técnicas para la conformidad con este Código",
+      "text": "Condiciones técnicas para la conformidad con este Código",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 201.67499999999995,
+            "r": 390.50053899999983,
+            "b": 194.87418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "4.2.1 Condiciones técnicas de los productos, equipos y sistemas",
+      "text": "4.2.1 Condiciones técnicas de los productos, equipos y sistemas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 183.07500000000005,
+            "r": 552.9735419999998,
+            "b": 113.03418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            599
+          ]
+        }
+      ],
+      "orig": "Los materiales y los productos de construcción que se incorporen con carácter permanente a las estructuras (hormigón, acero estructural, cemento, áridos, acero corrugado, armaduras elaboradas, sistemas de pretensado, elementos prefabricados, etc.) deberán presentar las características suficientes para que la estructura cumpla las exigencias de este Código, para lo que deberá comprobarse su conformidad de acuerdo con los criterios generales establecidos en el Capítulo 5, así como con los específicos establecidos para cada tipo de estructura en los Capítulos 12, 13, 14, 22, 23, 24, 32, 33 y 34.",
+      "text": "Los materiales y los productos de construcción que se incorporen con carácter permanente a las estructuras (hormigón, acero estructural, cemento, áridos, acero corrugado, armaduras elaboradas, sistemas de pretensado, elementos prefabricados, etc.) deberán presentar las características suficientes para que la estructura cumpla las exigencias de este Código, para lo que deberá comprobarse su conformidad de acuerdo con los criterios generales establecidos en el Capítulo 5, así como con los específicos establecidos para cada tipo de estructura en los Capítulos 12, 13, 14, 22, 23, 24, 32, 33 y 34."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 101.11500000000001,
+            "r": 553.03531,
+            "b": 81.71418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 724.875,
+            "r": 552.74853,
+            "b": 705.474182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            206,
+            329
+          ]
+        }
+      ],
+      "orig": "Las características de los materiales empleados, en su caso, para la elaboración de los productos a los que hace referencia el párrafo anterior, deberán permitir que éstos, tras su elaboración, en su caso, cumplan las exigencias de este Código, por lo que deberán cumplir las especificaciones establecidas para dichos materiales.",
+      "text": "Las características de los materiales empleados, en su caso, para la elaboración de los productos a los que hace referencia el párrafo anterior, deberán permitir que éstos, tras su elaboración, en su caso, cumplan las exigencias de este Código, por lo que deberán cumplir las especificaciones establecidas para dichos materiales."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "45",
+      "text": "45"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 687.555,
+            "r": 259.70018099999976,
+            "b": 680.7541823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "4.2.2 Condiciones técnicas del proyecto",
+      "text": "4.2.2 Condiciones técnicas del proyecto",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 668.955,
+            "r": 552.977954,
+            "b": 636.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "El proyecto deberá describir la estructura, justificando la solución adoptada y definiendo las exigencias técnicas de las obras de ejecución con el detalle suficiente para que puedan valorarse e interpretarse inequívocamente durante su ejecución.",
+      "text": "El proyecto deberá describir la estructura, justificando la solución adoptada y definiendo las exigencias técnicas de las obras de ejecución con el detalle suficiente para que puedan valorarse e interpretarse inequívocamente durante su ejecución."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 625.035,
+            "r": 553.0187649999997,
+            "b": 580.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            321
+          ]
+        }
+      ],
+      "orig": "En particular, el proyecto definirá las obras proyectadas con el detalle adecuado, de modo que pueda comprobarse explícitamente que las soluciones adoptadas cumplen las exigencias de este Código y del resto de la reglamentación técnica que le fuera aplicable. Esta definición incluirá, al menos, la siguiente información:",
+      "text": "En particular, el proyecto definirá las obras proyectadas con el detalle adecuado, de modo que pueda comprobarse explícitamente que las soluciones adoptadas cumplen las exigencias de este Código y del resto de la reglamentación técnica que le fuera aplicable. Esta definición incluirá, al menos, la siguiente información:"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.92,
+            "t": 568.395,
+            "r": 553.0903939999996,
+            "b": 536.2741823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "-las características técnicas de cada unidad de obra, con indicación de las condiciones para su ejecución y las verificaciones y controles a realizar para comprobar su conformidad con lo indicado en el proyecto,",
+      "text": "-las características técnicas de cada unidad de obra, con indicación de las condiciones para su ejecución y las verificaciones y controles a realizar para comprobar su conformidad con lo indicado en el proyecto,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.92,
+            "t": 524.475,
+            "r": 552.9900210000003,
+            "b": 492.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "-las características técnicas mínimas que deben cumplir los productos, equipos y sistemas que se incorporen de forma permanente a la estructura proyectada, así como sus condiciones de suministro, las garantías de calidad y el control de recepción que deba realizarse,",
+      "text": "-las características técnicas mínimas que deben cumplir los productos, equipos y sistemas que se incorporen de forma permanente a la estructura proyectada, así como sus condiciones de suministro, las garantías de calidad y el control de recepción que deba realizarse,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.92,
+            "t": 480.435,
+            "r": 553.0959089999997,
+            "b": 423.11418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            371
+          ]
+        }
+      ],
+      "orig": "-a la vista de las posibles mayores garantías técnicas y de trazabilidad que pueden estar asociadas a los distintivos de calidad, el autor del proyecto valorará la inclusión, en el correspondiente pliego de prescripciones técnicas particulares, de la exigencia de emplear materiales, productos y procesos que dispongan de un distintivo de calidad oficialmente reconocido,",
+      "text": "-a la vista de las posibles mayores garantías técnicas y de trazabilidad que pueden estar asociadas a los distintivos de calidad, el autor del proyecto valorará la inclusión, en el correspondiente pliego de prescripciones técnicas particulares, de la exigencia de emplear materiales, productos y procesos que dispongan de un distintivo de calidad oficialmente reconocido,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.92,
+            "t": 411.195,
+            "r": 552.9756819999999,
+            "b": 391.79418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "-las verificaciones y pruebas de carga que, en su caso, deban realizarse sobre la estructura construida,",
+      "text": "-las verificaciones y pruebas de carga que, en su caso, deban realizarse sobre la estructura construida,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.92,
+            "t": 379.995,
+            "r": 377.03946099999985,
+            "b": 373.14303030303034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "-las instrucciones de uso y mantenimiento de la estructura, y",
+      "text": "-las instrucciones de uso y mantenimiento de la estructura, y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.92,
+            "t": 361.275,
+            "r": 552.8631760000001,
+            "b": 341.874182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "-en su caso, criterios para la demolición, reciclado, etc. una vez finalizada la vida útil de la estructura.",
+      "text": "-en su caso, criterios para la demolición, reciclado, etc. una vez finalizada la vida útil de la estructura.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 323.9549999999999,
+            "r": 273.1424419999998,
+            "b": 317.15418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "4.2.3 Condiciones técnicas de la ejecución",
+      "text": "4.2.3 Condiciones técnicas de la ejecución",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 305.355,
+            "r": 552.994499,
+            "b": 247.91418232044202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            413
+          ]
+        }
+      ],
+      "orig": "Las obras de ejecución de la estructura se llevarán a cabo con sujeción al proyecto y a las modificaciones que, bajo su responsabilidad y en uso de sus atribuciones, autorice la dirección facultativa, con la conformidad, en su caso, de la propiedad. Además, deberán ser conformes a las instrucciones de la dirección facultativa, a la reglamentación que sea aplicable y a las normas de buena práctica constructiva.",
+      "text": "Las obras de ejecución de la estructura se llevarán a cabo con sujeción al proyecto y a las modificaciones que, bajo su responsabilidad y en uso de sus atribuciones, autorice la dirección facultativa, con la conformidad, en su caso, de la propiedad. Además, deberán ser conformes a las instrucciones de la dirección facultativa, a la reglamentación que sea aplicable y a las normas de buena práctica constructiva."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 236.115,
+            "r": 552.9823659999997,
+            "b": 178.67418232044201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            502
+          ]
+        }
+      ],
+      "orig": "Durante la construcción, se desarrollarán las actividades de control necesarias para comprobar la conformidad de los procesos empleados en la ejecución, la conformidad de los materiales y productos que lleguen a la obra, así como la conformidad de aquéllos que se preparen en la misma con la finalidad de ser incorporados a ella con carácter definitivo. Igualmente se deberá contemplar el control de los medios auxiliares utilizados para la ejecución de las estructuras, como cimbras y apuntalamientos.",
+      "text": "Durante la construcción, se desarrollarán las actividades de control necesarias para comprobar la conformidad de los procesos empleados en la ejecución, la conformidad de los materiales y productos que lleguen a la obra, así como la conformidad de aquéllos que se preparen en la misma con la finalidad de ser incorporados a ella con carácter definitivo. Igualmente se deberá contemplar el control de los medios auxiliares utilizados para la ejecución de las estructuras, como cimbras y apuntalamientos."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 166.875,
+            "r": 552.9801599999997,
+            "b": 134.75418232044194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "Atendiendo a los mismos criterios de garantía expuestos en el apartado anterior, la dirección facultativa valorará la conveniencia de exigir productos y procesos que dispongan de un distintivo de calidad oficialmente reconocido.",
+      "text": "Atendiendo a los mismos criterios de garantía expuestos en el apartado anterior, la dirección facultativa valorará la conveniencia de exigir productos y procesos que dispongan de un distintivo de calidad oficialmente reconocido."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 122.95500000000004,
+            "r": 552.9933960000001,
+            "b": 65.51418232044193,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            505
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 724.875,
+            "r": 552.981263,
+            "b": 705.474182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            506,
+            633
+          ]
+        }
+      ],
+      "orig": "Durante la ejecución de la obra, el constructor elaborará la documentación que reglamentariamente sea exigible y que, como mínimo, deberá incluir una memoria que recoja las incidencias principales de la ejecución, una colección de planos que reflejen el estado final de la obra tal y como ha sido construida y la documentación correspondiente al control de calidad efectuado durante la obra, todo ello de conformidad con lo establecido en el proyecto y en este Código. Dicha documentación será entregada a la dirección facultativa que, tras su aprobación, la trasladará a la propiedad como parte de la documentación final de la obra.",
+      "text": "Durante la ejecución de la obra, el constructor elaborará la documentación que reglamentariamente sea exigible y que, como mínimo, deberá incluir una memoria que recoja las incidencias principales de la ejecución, una colección de planos que reflejen el estado final de la obra tal y como ha sido construida y la documentación correspondiente al control de calidad efectuado durante la obra, todo ello de conformidad con lo establecido en el proyecto y en este Código. Dicha documentación será entregada a la dirección facultativa que, tras su aprobación, la trasladará a la propiedad como parte de la documentación final de la obra."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "46",
+      "text": "46"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 127.68,
+            "t": 668.295,
+            "r": 323.16419900000005,
+            "b": 659.6444585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Requisitos de las estructuras",
+      "text": "Requisitos de las estructuras",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 78.6,
+            "t": 641.0,
+            "r": 140.00399999999996,
+            "b": 633.6011049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Requisitos",
+      "text": "Requisitos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 621.675,
+            "r": 552.9790569999999,
+            "b": 564.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            512
+          ]
+        }
+      ],
+      "orig": "De conformidad con la normativa vigente, y con el fin de garantizar la seguridad de las personas, los animales y los bienes, el bienestar de la sociedad y la protección del medio ambiente, las estructuras incluidas en el ámbito de este Código, en su totalidad o en sus elementos aislados, deberán ser idóneas para su uso durante la totalidad del período de vida útil para la que se construye. Para ello, sin perjuicio de lo indicado en el apartado 2 del Anejo 18, se deberán satisfacer los requisitos siguientes:",
+      "text": "De conformidad con la normativa vigente, y con el fin de garantizar la seguridad de las personas, los animales y los bienes, el bienestar de la sociedad y la protección del medio ambiente, las estructuras incluidas en el ámbito de este Código, en su totalidad o en sus elementos aislados, deberán ser idóneas para su uso durante la totalidad del período de vida útil para la que se construye. Para ello, sin perjuicio de lo indicado en el apartado 2 del Anejo 18, se deberán satisfacer los requisitos siguientes:"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 552.435,
+            "r": 552.9900210000002,
+            "b": 507.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "-seguridad y funcionalidad estructural, consistente en reducir a límites aceptables el riesgo de que la estructura tenga un comportamiento mecánico inadecuado frente a las acciones e influencias previsibles a las que pueda estar sometido durante su construcción y uso previsto, considerando la totalidad de su vida útil,",
+      "text": "-seguridad y funcionalidad estructural, consistente en reducir a límites aceptables el riesgo de que la estructura tenga un comportamiento mecánico inadecuado frente a las acciones e influencias previsibles a las que pueda estar sometido durante su construcción y uso previsto, considerando la totalidad de su vida útil,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 495.79499999999996,
+            "r": 553.0981150000002,
+            "b": 476.394182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "-seguridad en caso de incendio, consistente en reducir a límites aceptables el riesgo de que los usuarios de la estructura sufran daños derivados de un incendio de origen accidental,",
+      "text": "-seguridad en caso de incendio, consistente en reducir a límites aceptables el riesgo de que los usuarios de la estructura sufran daños derivados de un incendio de origen accidental,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 464.59499999999997,
+            "r": 547.639368,
+            "b": 457.7430303030303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "-higiene, salud y protección del medio ambiente cumpliendo la legislación específica pertinente,",
+      "text": "-higiene, salud y protección del medio ambiente cumpliendo la legislación específica pertinente,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 445.875,
+            "r": 553.1378229999999,
+            "b": 413.754182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "-en particular se recomienda una utilización de los recursos naturales consistente en procurar el uso de materiales secundarios y reciclados en las obras de construcción, así como la reutilización y la reciclabilidad de las mismas, sus materiales y sus partes tras su demolición.",
+      "text": "-en particular se recomienda una utilización de los recursos naturales consistente en procurar el uso de materiales secundarios y reciclados en las obras de construcción, así como la reutilización y la reciclabilidad de las mismas, sus materiales y sus partes tras su demolición.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 401.955,
+            "r": 552.8599330000001,
+            "b": 344.514182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            405
+          ]
+        }
+      ],
+      "orig": "Para la consecución de los anteriores requisitos, deberán cumplirse las exigencias que se relacionan en este artículo. Para su comprobación será suficiente, en algunos casos, la aplicación de los procedimientos incluidos en este Código, mientras que en otros, deberán ser complementados con lo establecido por otras reglamentaciones vigentes de carácter más específico en función del uso de la estructura.",
+      "text": "Para la consecución de los anteriores requisitos, deberán cumplirse las exigencias que se relacionan en este artículo. Para su comprobación será suficiente, en algunos casos, la aplicación de los procedimientos incluidos en este Código, mientras que en otros, deberán ser complementados con lo establecido por otras reglamentaciones vigentes de carácter más específico en función del uso de la estructura."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 332.715,
+            "r": 552.917921,
+            "b": 300.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            295
+          ]
+        }
+      ],
+      "orig": "La propiedad podrá establecer también otros requisitos adicionales, como por ejemplo, el aspecto, en cuyo caso deberá identificar previamente a la realización del proyecto las exigencias ligadas a la consecución de los citados requisitos adicionales, así como los criterios para su comprobación.",
+      "text": "La propiedad podrá establecer también otros requisitos adicionales, como por ejemplo, el aspecto, en cuyo caso deberá identificar previamente a la realización del proyecto las exigencias ligadas a la consecución de los citados requisitos adicionales, así como los criterios para su comprobación."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 288.79499999999996,
+            "r": 553.050752,
+            "b": 243.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "Los anteriores requisitos se satisfarán mediante un proyecto que incluya una adecuada selección de la solución estructural y de los materiales de construcción, una ejecución cuidadosa conforme al proyecto, un control adecuado del proyecto y de la ejecución, así como una explotación, uso y mantenimiento apropiados.",
+      "text": "Los anteriores requisitos se satisfarán mediante un proyecto que incluya una adecuada selección de la solución estructural y de los materiales de construcción, una ejecución cuidadosa conforme al proyecto, un control adecuado del proyecto y de la ejecución, así como una explotación, uso y mantenimiento apropiados."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.6,
+            "t": 232.15499999999997,
+            "r": 552.9201270000002,
+            "b": 212.75418232044194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "En el caso de una intervención sobre una estructura existente, los requisitos deberán ser fijados por la propiedad, pudiéndose optar entre distintas alternativas:",
+      "text": "En el caso de una intervención sobre una estructura existente, los requisitos deberán ser fijados por la propiedad, pudiéndose optar entre distintas alternativas:"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 200.83500000000004,
+            "r": 530.5400999999998,
+            "b": 143.51418232044193,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "a) rebajar los requisitos que se hubieran exigido en su momento a la estructura en el proyecto original porque las exigencias a la que tiene que hacer frente la estructura se hayan visto modificadas a la baja con el paso del tiempo (por ejemplo, un puente para tráfico rodado o ferroviario que se reduce a uso peatonal, una estructura que se cambia de uso con una sobrecarga de utilización inferior, etc.),",
+      "text": "rebajar los requisitos que se hubieran exigido en su momento a la estructura en el proyecto original porque las exigencias a la que tiene que hacer frente la estructura se hayan visto modificadas a la baja con el paso del tiempo (por ejemplo, un puente para tráfico rodado o ferroviario que se reduce a uso peatonal, una estructura que se cambia de uso con una sobrecarga de utilización inferior, etc.),",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.92,
+            "t": 131.59500000000003,
+            "r": 547.4617850000001,
+            "b": 99.47418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "b) reponer los requisitos que se hubieran exigido en su momento para el proyecto original de la estructura, de manera que se mantengan dentro de criterios admisibles hasta la finalización de la vida útil prevista para la estructura,",
+      "text": "reponer los requisitos que se hubieran exigido en su momento para el proyecto original de la estructura, de manera que se mantengan dentro de criterios admisibles hasta la finalización de la vida útil prevista para la estructura,",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "47",
+      "text": "47"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.92,
+            "t": 724.875,
+            "r": 542.654349,
+            "b": 692.7541823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "c) adecuar la estructura para cumplir los requisitos que se le exigirían a una estructura de nueva construcción, para una vida útil que podría ser la inicialmente prevista o, incluso, prolongarse con motivo de la intervención, o",
+      "text": "adecuar la estructura para cumplir los requisitos que se le exigirían a una estructura de nueva construcción, para una vida útil que podría ser la inicialmente prevista o, incluso, prolongarse con motivo de la intervención, o",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.92,
+            "t": 680.955,
+            "r": 331.0261509999998,
+            "b": 674.154182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "d) cualquier situación intermedia entre las anteriores.",
+      "text": "cualquier situación intermedia entre las anteriores.",
+      "enumerated": true,
+      "marker": "d)"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 635.715,
+            "r": 120.90748499999998,
+            "b": 628.914182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "5.1.1 Vida útil",
+      "text": "5.1.1 Vida útil",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 617.115,
+            "r": 552.99119,
+            "b": 584.994182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "En cualquier caso, la propiedad deberá fijar previamente al inicio de proyecto, la vida útil nominal de la estructura, que deberá cumplir lo indicado en las correspondientes reglamentaciones específicas o, en su defecto, en el Anejo 18.",
+      "text": "En cualquier caso, la propiedad deberá fijar previamente al inicio de proyecto, la vida útil nominal de la estructura, que deberá cumplir lo indicado en las correspondientes reglamentaciones específicas o, en su defecto, en el Anejo 18."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 573.1949999999999,
+            "r": 552.9636150000002,
+            "b": 528.354182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "Se entiende por vida útil nominal (o simplemente, vida útil) de la estructura el período de tiempo, a partir de la fecha en la que finaliza su ejecución, durante el que debe mantenerse el cumplimiento de las exigencias. Durante ese período requerirá una conservación normal, que no implique intervenciones extraordinarias no previstas en el plan de mantenimiento.",
+      "text": "Se entiende por vida útil nominal (o simplemente, vida útil) de la estructura el período de tiempo, a partir de la fecha en la que finaliza su ejecución, durante el que debe mantenerse el cumplimiento de las exigencias. Durante ese período requerirá una conservación normal, que no implique intervenciones extraordinarias no previstas en el plan de mantenimiento."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 516.5550000000001,
+            "r": 552.9642470000001,
+            "b": 484.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "Para los elementos estructurales que componen la estructura, se podrán establecer valores inferiores de vida útil, en función del tipo de elemento, posibilidad de reposición del mismo y condiciones para su ejecución.",
+      "text": "Para los elementos estructurales que componen la estructura, se podrán establecer valores inferiores de vida útil, en función del tipo de elemento, posibilidad de reposición del mismo y condiciones para su ejecución."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 472.515,
+            "r": 552.9048650000001,
+            "b": 452.874182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "La vida útil nominal, t , así definida es un valor de proyecto para el que se pretende mantener el cumplimiento de las exigencias por encima de unos determinados umbrales.",
+      "text": "La vida útil nominal, t , así definida es un valor de proyecto para el que se pretende mantener el cumplimiento de las exigencias por encima de unos determinados umbrales."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 441.075,
+            "r": 552.873169,
+            "b": 408.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "Se entiende por vida útil real el período de tiempo realmente transcurrido desde la fecha de finalización de la estructura hasta el momento en el que se alcanzan cualquiera de los umbrales de inadmisibilidad en relación con las exigencias.",
+      "text": "Se entiende por vida útil real el período de tiempo realmente transcurrido desde la fecha de finalización de la estructura hasta el momento en el que se alcanzan cualquiera de los umbrales de inadmisibilidad en relación con las exigencias."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 397.155,
+            "r": 552.8577270000003,
+            "b": 352.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            357
+          ]
+        }
+      ],
+      "orig": "En el caso de estructuras existentes en las que la vida útil real fuera inferior a la vida útil nominal, se entiende por déficit de vida útil la diferencia entre ambos valores. En este último caso, la propiedad valorará qué intervenciones debe hacer sobre la estructura existente, de forma que le permita alcanzar la vida útil nominal inicialmente prevista.",
+      "text": "En el caso de estructuras existentes en las que la vida útil real fuera inferior a la vida útil nominal, se entiende por déficit de vida útil la diferencia entre ambos valores. En este último caso, la propiedad valorará qué intervenciones debe hacer sobre la estructura existente, de forma que le permita alcanzar la vida útil nominal inicialmente prevista."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 340.515,
+            "r": 552.8671830000003,
+            "b": 308.39418232044204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "Se denomina como vida útil residual de la estructura el período de tiempo, a partir de la fecha en que se hace la valoración, durante el cual debe mantener sus prestaciones por encima de los valores umbrales admisibles.",
+      "text": "Se denomina como vida útil residual de la estructura el período de tiempo, a partir de la fecha en que se hace la valoración, durante el cual debe mantener sus prestaciones por encima de los valores umbrales admisibles."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 78.6,
+            "t": 290.12,
+            "r": 141.432,
+            "b": 282.72110497237577,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Exigencias",
+      "text": "Exigencias",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 270.79499999999996,
+            "r": 552.8594620000002,
+            "b": 251.27418232044192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Las exigencias que debe cumplir cualquier estructura incluida en el ámbito de este Código para satisfacer los requisitos indicados en el apartado 5.1, son las que se relacionan a continuación.",
+      "text": "Las exigencias que debe cumplir cualquier estructura incluida en el ámbito de este Código para satisfacer los requisitos indicados en el apartado 5.1, son las que se relacionan a continuación."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 233.47500000000002,
+            "r": 476.11650199999985,
+            "b": 226.67418232044201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "5.2.1 Exigencias relativas al requisito de seguridad y de funcionalidad estructural",
+      "text": "5.2.1 Exigencias relativas al requisito de seguridad y de funcionalidad estructural",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 214.875,
+            "r": 552.8440200000005,
+            "b": 170.03418232044191,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "Para satisfacer este requisito, las estructuras deberán proyectarse, construirse, controlarse y mantenerse de forma que se cumplan unos niveles mínimos de fiabilidad para cada una de las exigencias que se establecen en los apartados siguientes, de acuerdo con el sistema de seguridad recogido en los Anejos 18 a 32.",
+      "text": "Para satisfacer este requisito, las estructuras deberán proyectarse, construirse, controlarse y mantenerse de forma que se cumplan unos niveles mínimos de fiabilidad para cada una de las exigencias que se establecen en los apartados siguientes, de acuerdo con el sistema de seguridad recogido en los Anejos 18 a 32."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.6,
+            "t": 158.235,
+            "r": 552.865448,
+            "b": 126.11418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "Se entiende que el cumplimiento de este Código, complementado por las correspondientes reglamentaciones específicas que sean de aplicación, es suficiente para garantizar la satisfacción de este requisito de seguridad estructural.",
+      "text": "Se entiende que el cumplimiento de este Código, complementado por las correspondientes reglamentaciones específicas que sean de aplicación, es suficiente para garantizar la satisfacción de este requisito de seguridad estructural."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 85.2,
+            "t": 108.31500000000005,
+            "r": 282.8620119999999,
+            "b": 101.51418232044193,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Exigencia de resistencia y estabilidad",
+      "text": "Exigencia de resistencia y estabilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "48",
+      "text": "48"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 724.875,
+            "r": 552.9956019999998,
+            "b": 692.7541823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "La resistencia y la estabilidad de la estructura serán las adecuadas para que no se generen riesgos inadmisibles como consecuencia de las acciones e influencias previsibles, tanto durante su fase de ejecución como durante su uso, manteniéndose durante su vida útil prevista.",
+      "text": "La resistencia y la estabilidad de la estructura serán las adecuadas para que no se generen riesgos inadmisibles como consecuencia de las acciones e influencias previsibles, tanto durante su fase de ejecución como durante su uso, manteniéndose durante su vida útil prevista."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 680.955,
+            "r": 552.98016,
+            "b": 610.914182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            589
+          ]
+        }
+      ],
+      "orig": "El nivel de fiabilidad mínima que, con carácter general, debe asegurarse en las estructuras incluidas en el ámbito de este Código vendrá definido por la clase de fiabilidad RC2 de las definidas en el apartado B.3.2 del Anejo 18. Consecuentemente, su índice de fiabilidad para el período de referencia de 50 años, no deberá ser inferior a 3,8. En el caso de estructuras singulares o de estructuras de poca importancia, la Propiedad podrá adoptar otros índices diferentes, coherentes con las posibles clases de consecuencias y de acuerdo con lo indicado en el referido apartado del Anejo 18.",
+      "text": "El nivel de fiabilidad mínima que, con carácter general, debe asegurarse en las estructuras incluidas en el ámbito de este Código vendrá definido por la clase de fiabilidad RC2 de las definidas en el apartado B.3.2 del Anejo 18. Consecuentemente, su índice de fiabilidad para el período de referencia de 50 años, no deberá ser inferior a 3,8. En el caso de estructuras singulares o de estructuras de poca importancia, la Propiedad podrá adoptar otros índices diferentes, coherentes con las posibles clases de consecuencias y de acuerdo con lo indicado en el referido apartado del Anejo 18."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 598.995,
+            "r": 552.8572559999997,
+            "b": 579.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Los procedimientos incluidos en este Código mediante la comprobación de los Estados Límite Últimos, junto con el resto de criterios relativos a ejecución y control, permiten satisfacer esta exigencia.",
+      "text": "Los procedimientos incluidos en este Código mediante la comprobación de los Estados Límite Últimos, junto con el resto de criterios relativos a ejecución y control, permiten satisfacer esta exigencia."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.2,
+            "t": 561.795,
+            "r": 249.2602199999998,
+            "b": 554.994182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Exigencia de aptitud al servicio",
+      "text": "Exigencia de aptitud al servicio",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 543.0749999999999,
+            "r": 552.9922929999999,
+            "b": 498.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "La aptitud al servicio será conforme con el uso previsto para la estructura, de forma que no se produzcan deformaciones inadmisibles, se limite a un nivel aceptable, en su caso, la probabilidad de un comportamiento dinámico inadmisible para la confortabilidad de los usuarios y, además, no se produzcan degradaciones o fisuras inaceptables.",
+      "text": "La aptitud al servicio será conforme con el uso previsto para la estructura, de forma que no se produzcan deformaciones inadmisibles, se limite a un nivel aceptable, en su caso, la probabilidad de un comportamiento dinámico inadmisible para la confortabilidad de los usuarios y, además, no se produzcan degradaciones o fisuras inaceptables."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 486.435,
+            "r": 552.864977,
+            "b": 467.03418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "Se entenderá que la estructura tiene deformaciones admisibles cuando cumpla las limitaciones de flecha establecidas por las reglamentaciones específicas que sean de aplicación.",
+      "text": "Se entenderá que la estructura tiene deformaciones admisibles cuando cumpla las limitaciones de flecha establecidas por las reglamentaciones específicas que sean de aplicación."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 455.235,
+            "r": 552.846226,
+            "b": 435.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "Se entenderá que un elemento estructural tiene vibraciones admisibles cuando cumpla las limitaciones establecidas por las reglamentaciones específicas que sean de aplicación.",
+      "text": "Se entenderá que un elemento estructural tiene vibraciones admisibles cuando cumpla las limitaciones establecidas por las reglamentaciones específicas que sean de aplicación."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 423.91499999999996,
+            "r": 552.8605649999997,
+            "b": 404.394182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "Los procedimientos incluidos en este Código mediante la comprobación de los Estados Límite de Servicio, junto con el resto de criterios relativos a ejecución y control, permiten satisfacer esta exigencia.",
+      "text": "Los procedimientos incluidos en este Código mediante la comprobación de los Estados Límite de Servicio, junto con el resto de criterios relativos a ejecución y control, permiten satisfacer esta exigencia."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 392.59499999999997,
+            "r": 552.8605650000002,
+            "b": 373.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "El nivel de fiabilidad mínima que debe asegurarse para su aptitud al servicio en las estructuras, vendrá definido por la clase de fiabilidad RC2 de las definidas en el apartado B.3.2 del Anejo 18.",
+      "text": "El nivel de fiabilidad mínima que debe asegurarse para su aptitud al servicio en las estructuras, vendrá definido por la clase de fiabilidad RC2 de las definidas en el apartado B.3.2 del Anejo 18."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 361.275,
+            "r": 552.920127,
+            "b": 341.874182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Consecuentemente, su índice de fiabilidad para un período de referencia de 50 años, no deberá ser inferior a 1,5.",
+      "text": "Consecuentemente, su índice de fiabilidad para un período de referencia de 50 años, no deberá ser inferior a 1,5."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.2,
+            "t": 323.9549999999999,
+            "r": 279.1327689999998,
+            "b": 317.15418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Exigencia de robustez y redundancia",
+      "text": "Exigencia de robustez y redundancia",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 305.355,
+            "r": 552.9807919999998,
+            "b": 285.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "Las estructuras incluidas en este Código deberán ser proyectadas de manera que cualquier evento extraordinario no produzca consecuencias desproporcionadas respecto a la causa original.",
+      "text": "Las estructuras incluidas en este Código deberán ser proyectadas de manera que cualquier evento extraordinario no produzca consecuencias desproporcionadas respecto a la causa original."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 274.03499999999997,
+            "r": 553.1025929999998,
+            "b": 229.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            387
+          ]
+        }
+      ],
+      "orig": "Cuando así lo establezca la propiedad, el proyecto deberá contemplar la selección de un esquema estructural y un diseño conceptual que asegure que la eliminación accidental de un elemento o de una parte limitada de la estructura origina daños proporcionados y limitados, de forma que, además, el resto de la estructura no afectada sea capaz de asegurar la estabilidad mínima de la misma.",
+      "text": "Cuando así lo establezca la propiedad, el proyecto deberá contemplar la selección de un esquema estructural y un diseño conceptual que asegure que la eliminación accidental de un elemento o de una parte limitada de la estructura origina daños proporcionados y limitados, de forma que, además, el resto de la estructura no afectada sea capaz de asegurar la estabilidad mínima de la misma."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 217.515,
+            "r": 552.9774829999999,
+            "b": 197.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "Los procedimientos incluidos en este Código no son suficientes para el cumplimiento de esta exigencia.",
+      "text": "Los procedimientos incluidos en este Código no son suficientes para el cumplimiento de esta exigencia."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.2,
+            "t": 180.19499999999994,
+            "r": 274.2222129999998,
+            "b": 173.39418232044204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Exigencias relativas a la durabilidad",
+      "text": "Exigencias relativas a la durabilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 161.47500000000002,
+            "r": 552.9812630000001,
+            "b": 129.47418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "El proyecto debe contemplar una estrategia de durabilidad que permita alcanzar la vida útil nominal definida para la estructura. Dicha estrategia será objeto de control durante la ejecución y establecerá condiciones a cumplir en el mantenimiento durante la fase de servicio.",
+      "text": "El proyecto debe contemplar una estrategia de durabilidad que permita alcanzar la vida útil nominal definida para la estructura. Dicha estrategia será objeto de control durante la ejecución y establecerá condiciones a cumplir en el mantenimiento durante la fase de servicio."
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.6,
+            "t": 111.55500000000006,
+            "r": 424.8258989999997,
+            "b": 104.75418232044194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "5.2.2 Exigencias relativas al requisito de seguridad en caso de incendio",
+      "text": "5.2.2 Exigencias relativas al requisito de seguridad en caso de incendio",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "49",
+      "text": "49"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 724.875,
+            "r": 552.962041,
+            "b": 692.7541823204419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "Para satisfacer este requisito, en su caso, las obras deberán proyectarse, construirse, controlarse y mantenerse de forma que se cumplan una serie de exigencias, entre las que se encuentra la de resistencia de la estructura frente al fuego.",
+      "text": "Para satisfacer este requisito, en su caso, las obras deberán proyectarse, construirse, controlarse y mantenerse de forma que se cumplan una serie de exigencias, entre las que se encuentra la de resistencia de la estructura frente al fuego."
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 680.955,
+            "r": 552.9113030000003,
+            "b": 648.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "El cumplimiento de este Código no es, por lo tanto, suficiente para el cumplimiento de este requisito, siendo necesario cumplir además las disposiciones del resto de la reglamentación vigente que sea de aplicación.",
+      "text": "El cumplimiento de este Código no es, por lo tanto, suficiente para el cumplimiento de este requisito, siendo necesario cumplir además las disposiciones del resto de la reglamentación vigente que sea de aplicación."
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 85.2,
+            "t": 631.035,
+            "r": 376.9434999999999,
+            "b": 624.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Exigencia de resistencia de la estructura frente al fuego",
+      "text": "Exigencia de resistencia de la estructura frente al fuego",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 612.3149999999999,
+            "r": 552.9933959999997,
+            "b": 567.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "La estructura deberá mantener su resistencia frente al fuego durante el tiempo establecido en las correspondientes reglamentaciones específicas que sean aplicables de manera que se limite la propagación del fuego y se facilite la evacuación de los ocupantes y la intervención de los equipos de rescate y extinción de incendios.",
+      "text": "La estructura deberá mantener su resistencia frente al fuego durante el tiempo establecido en las correspondientes reglamentaciones específicas que sean aplicables de manera que se limite la propagación del fuego y se facilite la evacuación de los ocupantes y la intervención de los equipos de rescate y extinción de incendios."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 555.795,
+            "r": 552.9834689999999,
+            "b": 523.674182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "En el caso de estructuras de edificación, la resistencia al fuego requerida para cada elemento estructural viene definida por lo establecido en el Documento Básico DB-SI del Código Técnico de la Edificación.",
+      "text": "En el caso de estructuras de edificación, la resistencia al fuego requerida para cada elemento estructural viene definida por lo establecido en el Documento Básico DB-SI del Código Técnico de la Edificación."
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 511.755,
+            "r": 552.7789429999998,
+            "b": 492.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "El cumplimiento de este Código es suficiente para la satisfacción de esta exigencia sin perjuicio del resto de la reglamentación específica que le sea aplicable.",
+      "text": "El cumplimiento de este Código es suficiente para la satisfacción de esta exigencia sin perjuicio del resto de la reglamentación específica que le sea aplicable."
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 474.435,
+            "r": 433.33995600000003,
+            "b": 467.634182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "5.2.3 Exigencias relativas al requisito de higiene, salud y medio ambiente",
+      "text": "5.2.3 Exigencias relativas al requisito de higiene, salud y medio ambiente",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 455.835,
+            "r": 552.8594620000002,
+            "b": 436.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "Las estructuras deberán proyectarse, construirse, controlarse y mantenerse de forma que se cumpla la exigencia de calidad medioambiental de la ejecución.",
+      "text": "Las estructuras deberán proyectarse, construirse, controlarse y mantenerse de forma que se cumpla la exigencia de calidad medioambiental de la ejecución."
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 85.2,
+            "t": 418.515,
+            "r": 362.30668999999983,
+            "b": 411.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Exigencia de calidad medioambiental de la ejecución",
+      "text": "Exigencia de calidad medioambiental de la ejecución",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 399.91499999999996,
+            "r": 552.8709629999998,
+            "b": 367.79418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "La construcción de la estructura deberá ser proyectada y ejecutada de manera que se minimice la generación de impactos ambientales provocados por la misma y evitando, en lo posible, la generación de residuos.",
+      "text": "La construcción de la estructura deberá ser proyectada y ejecutada de manera que se minimice la generación de impactos ambientales provocados por la misma y evitando, en lo posible, la generación de residuos."
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 355.995,
+            "r": 552.8594620000001,
+            "b": 323.87418232044206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "Asimismo, las tareas de intervención sobre las estructuras existentes, incluso las que forman parte de su mantenimiento, deberán definirse, planificarse y llevarse a cabo de acuerdo con los mismos criterios definidos en el párrafo anterior.",
+      "text": "Asimismo, las tareas de intervención sobre las estructuras existentes, incluso las que forman parte de su mantenimiento, deberán definirse, planificarse y llevarse a cabo de acuerdo con los mismos criterios definidos en el párrafo anterior."
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 85.2,
+            "t": 305.9549999999999,
+            "r": 302.422614,
+            "b": 299.15418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Exigencia de reutilización y reciclabilidad",
+      "text": "Exigencia de reutilización y reciclabilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.6,
+            "t": 287.355,
+            "r": 552.8709629999997,
+            "b": 242.63418232044194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            391
+          ]
+        }
+      ],
+      "orig": "Siempre que así lo considere la propiedad, el proyecto, construcción y mantenimiento de la estructura deberán estar enfocados a la reutilización o reciclaje de su totalidad o de una parte de la misma, una vez que se haya alcanzado el final de su vida de servicio. Para ello, se definirá una estrategia específica con dicha finalidad, de acuerdo con los criterios establecidos en este Código.",
+      "text": "Siempre que así lo considere la propiedad, el proyecto, construcción y mantenimiento de la estructura deberán estar enfocados a la reutilización o reciclaje de su totalidad o de una parte de la misma, una vez que se haya alcanzado el final de su vida de servicio. Para ello, se definirá una estrategia específica con dicha finalidad, de acuerdo con los criterios establecidos en este Código."
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 512.058349609375,
+            "t": 814.5561256408691,
+            "r": 552.7171020507812,
+            "b": 764.6786422729492,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 50.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 511.8843688964844,
+            "t": 814.5154056549072,
+            "r": 552.8555908203125,
+            "b": 764.4770812988281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 511.973876953125,
+            "t": 814.455738067627,
+            "r": 552.6980590820312,
+            "b": 764.8130416870117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 49.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 511.79681396484375,
+            "t": 814.5913352966309,
+            "r": 552.9025268554688,
+            "b": 764.3930511474609,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 511.8006286621094,
+            "t": 814.5783138275146,
+            "r": 552.8945922851562,
+            "b": 764.3866271972656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 511.84942626953125,
+            "t": 814.5347938537598,
+            "r": 552.7994384765625,
+            "b": 764.5819244384766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 50.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 511.795166015625,
+            "t": 814.6015796661377,
+            "r": 552.8397216796875,
+            "b": 764.3925476074219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAzCAIAAACFT7ZcAAAPzElEQVR4nMVYe1BT19Y/5+ScvAgJJJCEQBII8jSAysOi4oNaX0VpQZ1W66tWx2rHtuq0I860OtNp1dqxM+p0dEadUavjWGyxilirBUUEacFAxGDCIyEkIQkhCQnJSc7jG9h+wPXe9rb+c9dfkLPX/q219lrrt/aGaZqGXlZomoZh+KXVkZfWtFgsV69etVqt/wPsgYGBjo4Om832P8CGYXh4eBhBXn4H9J8qEARht9tRFDWZTBwOR6vVisViv98vl8tZLNY/2gr+m7kGljU2Np4/f763t5fBYERHR4tEIofD4fP5cByXy+WlpaVz585FEITL5f6dHIT/K/aDBw+ampr6+/thGH727Fl+fn5xcTGO43fv3n38+LFKpXrjjTd4PF5ra+vNmzclEgmKohKJJCcnZ9GiRRwO5yVjHgqFzpw5c+fOHaVSKRAI6urqioqKKioqGAwGiER7ezswBYKggoICGIZ//PHHhQsX+v3+K1eu1NfX79u3Lyoq6mWwa2pqrl+//uGHHxYVFbHZ7E8++UStVpMk2dnZabfbW1tb2Wy2wWCor6+PjIxMHxOZTLZr1y4YhjUazeHDhy9cuLBjx44/iz/yZ8AkSd66dWvOnDkLFiywWCx6vR6G4d/GhM/nz5w5E0VRHMdRFM3Ly5NKpQ8fPqysrMQw7PHjx3q9PjU1tbS09Pbt23/RAJA/+xAeExiGHzx4EA6HWSxWaWlpIBBIT09PSEjgcDhKpVIsFkulUjabLZFIZs+e7fP5li9frlQqIQh68uSJ1WqVyWR+v/8fxxxFUT6fbzabMzMzY2NjIQiKjIwsKChobW2VSCTBYJCm6eXLl7vdbqPRGBcXV1dXV1hYqFAohGMyNDR09+5dmqYjIiJeBjslJeXWrVtms5nH4zEYjEePHlmtVj6f//PPPweDQRiGXS6XVCqtqakRCATDw8M4jv/6669JSUkIgrhcrv7+/oSEBIlE8jI1ZrVaHz58ODg4OG670+mMiopiMplut1sul3d3d6tUKpfLhSDIyMiI3++XSCTDw8MMBiMcDsvl8uTk5PT09D/bH/mzDxAExcXFLVmyxGazOZ1Oj8fD4XAEAkEgEGCz2f39/SaTqa+vT6/X9/T0DA8PR0REoCgqFovtdjuCIF1dXRkZGX8BDL3gN47jJElyudzJK0wm07Vr1zwez+DgIJPJDIfDCIJERERwOByCIEA/93q9wWCQzWZ7vV6hUBgbGzt//vzs7OzJ++BjwufzX8QmSbK1tfX27dvhcHjRokUFBQWTScLpdJ44cYLP50ulUofDMTIykpaWhiCIXq8XiURxcXFWq7W3tzc7O9tms/X29m7cuHHq1Knj6uFwuK2tTavVDgwMqMdEoVBMYF+9evXw4cMZGRk4jlut1o8++qi0tHSy1ffu3dNoNKBX4zhO0zSCIBwOh6KokZERCIJYLBYYJdhs9tq1ayfrdnV17dmzZ3BwEKxcv379zp07J/I8Ozt72rRpAoEgFApxudzU1FTweygUIggCgiC5XH7x4kU2m52ZmZmSkqJSqfh8PpvNDofDPp/PaDTqdDqj0QicHh4eBiTL5XIRBJFKpfPnz29oaAC25uXlgc2fYwuFwgULFtTV1ZEkOWvWLKFQCKaD2tra8eDn5+d3dnZ2d3dbLJaamhomkzk4OCgQCEZGRoRCIYvF8vl8hYWFdrv92rVrMAwTBKFUKufNm0cQREpKisVisdlsWVlZDAaDoigEQZ5j6/X6zMzMnJwcCIIoitLpdBKJxOl0JiYm5ufnUxQFmJskSRaLxWAwQIuuqakpLi5mMpnj4dXpdCKRCPSicDh848YN4AOPx9u9ezfYpKurKxQKsdnsCb8vX74MMtzn8y1btgwEDcMwZEwgCLp06dLHH3984cKFJUuWAC2CIILBIJPJtFgsHA6nv79/3759NE3v378/EAhkZmYCxouJiTl//vz169dZLJbRaFy8eHFRUdFEzBMTE7u7u3EcB35/8MEH4HeQiTRNnz17trq6Gsfxc+fO2Wy2jRs3QhCEYRhBEIcOHWKxWGq1+siRI7dv3y4sLLx7965Gozlz5gxQFwqF0dHRWq02NjY2IiJiPJmeY8MwvHr1aoVC4fP59Hr9CyUOw/CdO3fa29uVSmVjY2NUVBTABifncDiam5vz8/MTEhIoipLL5Twer6ysDEGQ8eYxd+7cd955h8vl1tXVjZf4RD+Pj4/PzMz0jckLE6DFYrFarQiCBAIBgiD6xkQulweDQQzDvvjii5KSkpUrV4KK4HA4IpFo8eLF4F8gbDYbNGMej4eiz0EnMEBCeb1ej8fz79j19fU6na67u7uvr+/evXtGoxF8YjAYbrd77969GIY5nU4Wi7Vt2zYWi+XxeF4YGUAMMAwbHyknMMBSDMNgGAamcTgckCxKpTI1NRUsgGFYrVZnZGQALQzD7ty5s2PHjoKCgpKSEoARHx/f1taGIAiGYZOBAT3C/2/Tc/dRFHU6nc3NzX19fe3t7TiOC4VCt9stk8kgCIqOjp47dy6Px2tqalq6dKlUKhWJRMAOgiCKi4spilq7du3Vq1cbGhq2b9++dOnSFStWwDDc0dGBoqjBYLBYLPHx8YmJiYDrJrBHRkbujIlOp+vv75fJZLW1tUaj0eFwHD9+fPbs2SiKDg4OmkwmUMECgQBoDQ0NORyOxMTEdevWBYPBr776yuv1dnV1paen5+fnEwTx7bffJiUlEQSBYVgwGExLS5NIJD/88MPmzZtfffVVlCTJd99912w2C4VCGIZBUYKM6Onp8fl8EAT19fUZDAYweXV3dyuVyqamJoPBwGKxGhoatFptbm5uRUUFBEFlZWX37t1jMpkwPMoUkZGRPp+vuLgYTGBisbinp0en01VWVoZCIZSm6ZaWlsHBwffff3/ZsmUCgcBgMBQUFHg8nvv378fHx0MQdPTo0ZaWFhRFDxw4cPDgwfr6+qqqqlWrVqEoGgqFfD7f/fv3pVKpQqFYuHBhIBB4+vQpSN6tW7eWlJQkJiaaTCapVGq32ysrK9lsttFoHOVfFEW3bt0aFxcXHx8/a9as5ORkMJakp6cvXbpULBaDCpHL5VOmTMnNzc3Ozp4+fXpRUVFPT09SUhKGYVarNSYm5r333jtw4EBOTg5JktOmTQMnmpaWlpKS4nA4WlpamExmUlJSXFzcH3/8IRQKCwsLR/O8rKwMhmG9Xg+I3Gaz7d+/3+v1gjEBgqC9e/f+9ttvNTU1arX60qVLe/bsgSDo2LFjzc3Np06damhoAJ0YgiA+n3/w4MHCwkJQfqDEfx4TsBWXy42KinrzzTfFYvForqlUqvr6eq1WC2iYx+MNDAxoNJopU6bodDq73c5isbhc7tDQUHR0tN1u93g8oIXZ7XaKopKTk4eGhlwuVzAYJEmSyWR2d3d3dXUFxgRwPwzDgUCAx+NJJJLTp08nJiZO1LdAIIiJiSFJ8vLly/v27WttbeVwOGAW+Oabb44fP97U1FReXt7V1bVt27a6ujqhUHjkyJGHDx++9tprZWVlDAYDUA6KjiYviqJgrgK+ymSy77//vry8vLa2FsOwyMjIf6lvHMfv37+/a9eu6upqoVD43Xff5ebmdnd3Z2RkyOVygUCQnZ3N4/Hy8vJiYmI4HI7D4VCpVI2NjSqVasaMGTAMnzx5curUqSiKtre3Z2Zm+v3+Xbt2uVwuCII+//xzHMePHTv2yy+/lJaWbtmyZdmyZTAMj9ql1+vXrl27devW6urqRYsWHT58eM2aNaD7AM6mKAqcXCgUYrFYIpEoGAw6nc7Nmzfn5OQ4HI6BgYEdO3ZMmTJFpVLt3r07HA5DECQWi4EWj8fbtm3b5cuXCwsLq6qqysvLd+/ePcoaEARdvHixsrJy8eLFN2/ePHXqlEgkmkwDGIZNnmUpilKr1Xq9vq+vb9q0aUwmU6PRPHv2bGRkZGBgwO/3GwyG5ORkNps9NDQ0zgskSa5ataq2tvbYsWPTp0+/fv36KDlBEJSVlfXpp59++eWXS5YsAcc83vdBZvr9fsA0ADsqKqqzs/PgwYNarba9vf3mzZvz588/c+YMaMC3bt1KTU0Fc9xkLsFxnMlk5ufnV1RUlJSUSKXS0fOeOnXqo0ePBgYGABIINYZhKIoSBEHTNEmSwBoGg4Gio+2IoiiBQCCVStPS0kKhUEpKSnl5eUtLi9/vX7VqVWpqamJiokKhMJvNk+FHcxtBTCaTQqGIjIwcxU5LS9u+fXtnZyf0l0LTNJPJxDBsZGQEcB2fz/d4PK2trWazubm5WSgUstnss2fPtrS0uFwuk8k0zmPjQpLknDlzMjMzJ2osPj5+fFaZTHP/UcBoBTaKjo6Wy+Xr1q1bs2aNQCBgMBhlZWWbNm1SKBSxsbGgvoGAPWmajo2NBTY9rzHQ98EfHA7nb75cIQjicDg6Ozt7e3t/+umn9evXBwKBqqqqmJgYnU5nNpsB/Y9bTNM0juPjqfMcm8Fg1NXVVVZW+v1+s9k8ffp0kUjE5XLH7wb/LgwGQ6/XL1iwIDs7W6PRrF692mAw+Hy+lStX9vb2qtXq9PR0i8UCFre1tR06dIiiqEAgsHfv3oSEhImYu91un88XGxurUqlyc3M1Gg1odh6PJxAIgNOdXGygR7JYrN7eXtCD161blzEmb7/9ttvtZjKZZrMZ3LvcbrfNZsvJySksLMzLy9NqtcCf536bzeZNmzYJBAIQFpB3MAzHxcUZDIbU1FQwDpMkOe60RqN56623njx5UlJScvr06YqKitmzZ3M4nM8++4wgiDVr1jQ2NoJJ3uv1FhcXq9VqCIL8fn9bWxs4+1Hs4eHhGzdu2Gw2cMNDUdTn82EYlpubO2PGDKVSSRAEiqLhcBj4Ddp1TExMS0sLhmEtLS1btmw5evRodXV1KBSKjIzcvn17X18fmMYpijp37pzFYqEoCrCRz+fr6enZsGHDKLbL5XI4HKATBYNBkIcdHR0zZsxAEOTrr7++cuVKU1MTuBDRNN3a2pqQkHD8+PErV66kp6fDMPz06dOdO3fy+XyapgmC+P3330mSBCMbSZI4joPzio2NBUXkcDgoihrFRhCExWK53W4ul8vj8QKBAEmSYDUMwzKZbMOGDVVVVXK5/MSJEwqFQq1WSySSkydPgtR1u92vv/66TqczmUwGg0EsFs+bN2/mzJnjmQHDsMfjYbPZERER4JVgIuY0TQeDQZlMNjAwEAgEFAqF1+sF8Qf6UVFRGzZsWLFiRXV1dVZWFnjNycrKam9vj4yMTEhIkMlkHo+HJMmSkpKZM2dOfsqkKIrJZM6bN8/j8XR0dLzyyisIgoDrx+hEFwqFKIoCl2m/3w9eIXEc/4/vwiRJPnv2zOv1YhgWCoUYY0KSZHx8POjnf1/+D5RmCTOEPVxWAAAAAElFTkSuQmCC"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 511.73468017578125,
+            "t": 814.6178970336914,
+            "r": 552.9544677734375,
+            "b": 764.2507400512695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 511.7971496582031,
+            "t": 814.6061115264893,
+            "r": 552.9242553710938,
+            "b": 764.3743896484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 9
+    }
+  }
+}

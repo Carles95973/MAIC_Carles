@@ -4,9 +4,42 @@ version = "0.1.0"
 description = ""
 authors = ["Carles95973 <carles.farre.serra@gmail.com>"]
 readme = "README.md"
+package-mode = false
+
+[[tool.poetry.source]]
+name     = "pytorch-cu124"
+url      = "https://download.pytorch.org/whl/cu124"
+priority = "explicit"
 
 [tool.poetry.dependencies]
-python = "^3.14"
+python = "^3.11"
+torch       = {version = "2.6.0+cu124",  source = "pytorch-cu124"}
+torchvision = {version = "0.21.0+cu124", source = "pytorch-cu124"}
+ipykernel = "^7.2.0"
+dotenv = "^0.9.9"
+docling = "^2.96.0"
+pillow = "12.2.0"
+langchain = "^1.3.2"
+langgraph = "^1.2.2"
+pgvector = "^0.4.2"
+psycopg2-binary = "^2.9.12"
+openai = "^2.38.0"
+python-dotenv = "^1.2.2"
+pydantic = "^2.13.4"
+numpy = "^2.4.6"
+pandas = "^3.0.3"
+jupyter = "^1.1.1"
+jupyterlab = "^4.5.7"
+langchain-text-splitters = "^1.1.2"
+langchain-core = "^1.4.0"
+tiktoken = "^0.13.0"
+pypdf = "^6.12.2"
+fitz = "^0.0.1.dev2"
+pymupdf = "^1.27.2.3"
+umap-learn = "^0.5.7"
+scikit-learn = "^1.6.0"
+matplotlib = "^3.10.0"
+seaborn = "^0.13.0"
 
 
 [build-system]

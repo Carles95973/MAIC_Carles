@@ -1,0 +1,4362 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_17._criterios_generales_para_las_estructuras_de_acero",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1630656742071655105,
+    "filename": "capitulo_17._criterios_generales_para_las_estructuras_de_acero.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/22"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.0,
+            "t": 403.34640712500004,
+            "r": 419.2768392777998,
+            "b": 363.50381354875685,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Capítulo 17 Criterios generales para las estructuras de acero",
+      "text": "Capítulo 17 Criterios generales para las estructuras de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 532.6799925,
+            "t": 42.76811969999994,
+            "r": 545.623182518675,
+            "b": 35.94005080399165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "299",
+      "text": "299"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.80000150000001,
+            "t": 674.93891025,
+            "r": 548.982329773444,
+            "b": 648.2039868058012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Ámbito  de  aplicación  específico  relativo  a  las  estructuras  de acero",
+      "text": "Ámbito  de  aplicación  específico  relativo  a  las  estructuras  de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 639.69671655,
+            "r": 548.091470220746,
+            "b": 606.7907982087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "Este Título es aplicable a todas las estructuras y elementos de acero estructural, de edificación o de obra pública, de conformidad con lo indicado en el ámbito de aplicación general definido en el Artículo 2 y con las excepciones siguientes:",
+      "text": "Este Título es aplicable a todas las estructuras y elementos de acero estructural, de edificación o de obra pública, de conformidad con lo indicado en el ámbito de aplicación general definido en el Artículo 2 y con las excepciones siguientes:"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 598.2967188,
+            "r": 548.4928314629414,
+            "b": 553.5108027087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            383
+          ]
+        }
+      ],
+      "orig": " los elementos estructurales realizados con aceros especiales tales como los aceros de alto límite elástico, o los aceros inoxidables, que presenten un límite elástico superior a 700 N/mm 2 , salvo en  elementos  de  unión  (tornillos,  bulones,  etc.),  y  los  aceros  provenientes  de  aleaciones especiales como el acero inoxidable con un límite elástico superior a 480 N/mm 2 ,",
+      "text": " los elementos estructurales realizados con aceros especiales tales como los aceros de alto límite elástico, o los aceros inoxidables, que presenten un límite elástico superior a 700 N/mm 2 , salvo en  elementos  de  unión  (tornillos,  bulones,  etc.),  y  los  aceros  provenientes  de  aleaciones especiales como el acero inoxidable con un límite elástico superior a 480 N/mm 2 ,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 545.13671505,
+            "r": 383.42444212054295,
+            "b": 535.9907907087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": " perfiles y chapas de paredes delgadas conformadas en frío,",
+      "text": " perfiles y chapas de paredes delgadas conformadas en frío,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 527.6167263,
+            "r": 548.239897658926,
+            "b": 506.59080495878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": " los  elementos  estructurales  mixtos  de  acero  estructural  y  hormigón  que  se  regirán  por  lo contemplado en el Título 4 en aquello que les es específico y,",
+      "text": " los  elementos  estructurales  mixtos  de  acero  estructural  y  hormigón  que  se  regirán  por  lo contemplado en el Título 4 en aquello que les es específico y,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 92.63999775,
+            "t": 498.2167173,
+            "r": 548.2129897300842,
+            "b": 477.1907959587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": " en general, las estructuras mixtas de acero y cualquier otro material de distinta naturaleza con función resistente.",
+      "text": " en general, las estructuras mixtas de acero y cualquier otro material de distinta naturaleza con función resistente.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 468.8167308,
+            "r": 548.1822885531171,
+            "b": 435.91078920878454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "En el  caso  de  que  la  estructura  de  acero  se  pretense  con  armaduras  activas,  todo  aquello  que concierna al pretensado, en lo que se refiere a bases de proyecto, análisis estructural, dimensionamiento y comprobación, ejecución y control, se llevará a cabo de acuerdo con lo establecido en el Título 2.",
+      "text": "En el  caso  de  que  la  estructura  de  acero  se  pretense  con  armaduras  activas,  todo  aquello  que concierna al pretensado, en lo que se refiere a bases de proyecto, análisis estructural, dimensionamiento y comprobación, ejecución y control, se llevará a cabo de acuerdo con lo establecido en el Título 2."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 427.5367248,
+            "r": 548.1465000176208,
+            "b": 406.3908004587846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "Cuando,  en  función  de  las  características  de  la  estructura,  exista  reglamentación  específica  de acciones, este Código se aplicará complementariamente a la misma.",
+      "text": "Cuando,  en  función  de  las  características  de  la  estructura,  exista  reglamentación  específica  de acciones, este Código se aplicará complementariamente a la misma."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 398.01671279999994,
+            "r": 548.1197943809021,
+            "b": 353.2308192087845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            380
+          ]
+        }
+      ],
+      "orig": "Cuando a la vista de las características de la obra, definidas por la propiedad, la estructura pueda considerarse como una obra especial o singular, este Código será de aplicación con las adaptaciones y disposiciones adicionales que, bajo su responsabilidad, establezca el autor del proyecto para satisfacer las exigencias definidas en este Código, con su mismo nivel de garantía.",
+      "text": "Cuando a la vista de las características de la obra, definidas por la propiedad, la estructura pueda considerarse como una obra especial o singular, este Código será de aplicación con las adaptaciones y disposiciones adicionales que, bajo su responsabilidad, establezca el autor del proyecto para satisfacer las exigencias definidas en este Código, con su mismo nivel de garantía."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 145.89597074999998,
+            "t": 321.65891475,
+            "r": 465.4239849636242,
+            "b": 310.0439943058011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Criterios específicos para las estructuras de acero",
+      "text": "Criterios específicos para las estructuras de acero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.89477775,
+            "t": 295.5703346250001,
+            "r": 479.56362949075697,
+            "b": 285.64305728080114,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Clases de exposición relativas a la corrosividad del acero estructural",
+      "text": "Clases de exposición relativas a la corrosividad del acero estructural",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 277.2967420499999,
+            "r": 548.1922232995508,
+            "b": 256.2707974587845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "A los efectos de este Código, se definen como clases de exposición relativas a la corrosividad del acero estructural las recogidas en las tablas 80.1.a y 80.1.b.",
+      "text": "A los efectos de este Código, se definen como clases de exposición relativas a la corrosividad del acero estructural las recogidas en las tablas 80.1.a y 80.1.b."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 247.77670679999994,
+            "r": 548.1525481927222,
+            "b": 155.47077945878448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            799
+          ]
+        }
+      ],
+      "orig": "Se distingue entre estructuras o elementos estructurales expuestos a la corrosión atmosférica (tabla 80.1.a)  y  estructuras  o  elementos  estructurales  sumergidos  en  agua  o  enterrados  en  el  suelo  (tabla 80.1.b). En el caso de que existan procesos mecánicos (erosión eólica por arena, abrasión por la acción de las olas o de los sólidos transportados por el agua), biológicos (acción de organismos vivos), térmicos (temperaturas  superiores  a  60ºC),  o  agentes  químicos  particularmente  agresivos  (caso  de  ciertas instalaciones  industriales  especiales,  como  industrias  papeleras,  factorías  de  tintes  y  refinerías  de petróleo), cuyo efecto agrava fuertemente la posible corrosión, deberá tenerse en cuenta este hecho, al objeto de reforzar la protección de la estructura.",
+      "text": "Se distingue entre estructuras o elementos estructurales expuestos a la corrosión atmosférica (tabla 80.1.a)  y  estructuras  o  elementos  estructurales  sumergidos  en  agua  o  enterrados  en  el  suelo  (tabla 80.1.b). En el caso de que existan procesos mecánicos (erosión eólica por arena, abrasión por la acción de las olas o de los sólidos transportados por el agua), biológicos (acción de organismos vivos), térmicos (temperaturas  superiores  a  60ºC),  o  agentes  químicos  particularmente  agresivos  (caso  de  ciertas instalaciones  industriales  especiales,  como  industrias  papeleras,  factorías  de  tintes  y  refinerías  de petróleo), cuyo efecto agrava fuertemente la posible corrosión, deberá tenerse en cuenta este hecho, al objeto de reforzar la protección de la estructura."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 147.09671430000003,
+            "r": 548.1294842492755,
+            "b": 78.43080120878449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            522
+          ]
+        }
+      ],
+      "orig": "Debe tenerse en cuenta el peligro de formación de condensaciones, que puede producirse en las áreas más frías de estructuras en el interior de edificios, en espacios cerrados y elementos huecos cuya hermeticidad  no  haya  sido  garantizada  (caso  de  emplear  soldaduras  discontinuas  o  uniones  no herméticas con pernos), o en instalaciones especiales (como las estaciones de bombeo o los circuitos de refrigeración  por  agua).  La  formación  de  condensaciones  supone  siempre  un  agravamiento  de  la corrosión.",
+      "text": "Debe tenerse en cuenta el peligro de formación de condensaciones, que puede producirse en las áreas más frías de estructuras en el interior de edificios, en espacios cerrados y elementos huecos cuya hermeticidad  no  haya  sido  garantizada  (caso  de  emplear  soldaduras  discontinuas  o  uniones  no herméticas con pernos), o en instalaciones especiales (como las estaciones de bombeo o los circuitos de refrigeración  por  agua).  La  formación  de  condensaciones  supone  siempre  un  agravamiento  de  la corrosión."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 532.800018,
+            "t": 42.64847122499998,
+            "r": 545.5751232575426,
+            "b": 35.81997779590324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "300",
+      "text": "300"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 698.2562884499999,
+            "r": 548.1470761160153,
+            "b": 617.8308991196685,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            716
+          ]
+        }
+      ],
+      "orig": "En el caso de puentes de carretera o pasarelas peatonales, debe prestarse especial atención si existe riesgo de corrosión por la utilización de fundentes (sales de deshielo). Esto puede producir corrosión en tableros  de  puentes  o  pasarelas  en  las  que  se utilicen  fundentes,  en  zona  inferior  de  pilas  de pasos elevados sobre carreteras en que se empleen, e incluso en la cara inferior de tableros de pasos elevados sobre carreteras en las que se utilicen, por efecto de los aerosoles salinos producidos. A estos efectos, en las zonas con más de cinco nevadas anuales o con valor medio de la temperatura mínima en los meses de invierno inferior a 0ºC, se considerará que la clase de exposición es la C5.",
+      "text": "En el caso de puentes de carretera o pasarelas peatonales, debe prestarse especial atención si existe riesgo de corrosión por la utilización de fundentes (sales de deshielo). Esto puede producir corrosión en tableros  de  puentes  o  pasarelas  en  las  que  se utilicen  fundentes,  en  zona  inferior  de  pilas  de pasos elevados sobre carreteras en que se empleen, e incluso en la cara inferior de tableros de pasos elevados sobre carreteras en las que se utilicen, por efecto de los aerosoles salinos producidos. A estos efectos, en las zonas con más de cinco nevadas anuales o con valor medio de la temperatura mínima en los meses de invierno inferior a 0ºC, se considerará que la clase de exposición es la C5."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 532.6799925,
+            "t": 42.76811969999994,
+            "r": 545.623182518675,
+            "b": 35.94005080399165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "301",
+      "text": "301"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.47999925,
+            "t": 671.13629745,
+            "r": 523.5196702408517,
+            "b": 661.9909028696685,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Tabla 80.1.a Clases de exposición relativas a la corrosividad atmosférica del acero estructural",
+      "text": "Tabla 80.1.a Clases de exposición relativas a la corrosividad atmosférica del acero estructural"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 532.6799925,
+            "t": 42.76811969999994,
+            "r": 545.623182518675,
+            "b": 35.94005080399165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "302",
+      "text": "302"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 179.75999475,
+            "t": 698.2562884499999,
+            "r": 454.21803511228586,
+            "b": 689.1108938696685,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Tabla 80.1.b Clases de exposición relativas al agua y suelo",
+      "text": "Tabla 80.1.b Clases de exposición relativas al agua y suelo"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 532.6799925,
+            "t": 42.76811969999994,
+            "r": 545.623182518675,
+            "b": 35.94005080399165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "303",
+      "text": "303"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 507.4026184082031,
+            "t": 766.5802574157715,
+            "r": 545.3046875,
+            "b": 728.2655868530273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 38.0,
+          "height": 39.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 507.2038879394531,
+            "t": 765.9842300415039,
+            "r": 545.4487915039062,
+            "b": 728.0051231384277,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 38.0,
+          "height": 38.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 507.37689208984375,
+            "t": 766.6004295349121,
+            "r": 545.4864501953125,
+            "b": 728.1778945922852,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 38.0,
+          "height": 39.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 507.4397888183594,
+            "t": 766.6496238708496,
+            "r": 545.6582641601562,
+            "b": 728.0936889648438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 39.0,
+          "height": 39.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 507.5155029296875,
+            "t": 766.5752105712891,
+            "r": 545.636474609375,
+            "b": 728.1200065612793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 38.0,
+          "height": 39.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.46243667602539,
+            "t": 654.0109405517578,
+            "r": 546.0265502929688,
+            "b": 323.7809753417969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 67.38036631420255,
+              "t": 161.63517612218857,
+              "r": 82.59004619345069,
+              "b": 214.3993665575981,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Designación",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.38767196238041,
+              "t": 146.41138064861298,
+              "r": 110.78751616179943,
+              "b": 217.24601018428802,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Clase de exposición (corrosividad)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 131.6285308599472,
+              "t": 139.87264217063785,
+              "r": 305.55200922489166,
+              "b": 157.73431438207626,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 4,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 6,
+            "text": "Pérdida de masa por unidad de superficie/pérdida de espesor (tras el primer año",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 132.27496004104614,
+              "t": 165.0783868432045,
+              "r": 206.6036639213562,
+              "b": 180.91313275694847,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 4,
+            "text": "de exposición) Acero de bajo contenido en carbono",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 330.28870689868927,
+              "t": 147.54710561782122,
+              "r": 522.1968734264374,
+              "b": 159.89083769917488,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 8,
+            "text": "Ejemplos de ambientes típicos en un clima templado",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 245.18648082017899,
+              "t": 168.6533047556877,
+              "r": 287.1127708554268,
+              "b": 179.57623887062073,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 6,
+            "text": "Cinc",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.9923500716686,
+              "t": 169.67038187384605,
+              "r": 385.34373638033867,
+              "b": 210.00097873806953,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "Exterior",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 416.68857032060623,
+              "t": 171.4504598379135,
+              "r": 528.5428134799004,
+              "b": 208.7188841700554,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 2,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 7,
+            "end_col_offset_idx": 8,
+            "text": "Interior",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 128.10977563261986,
+              "t": 182.84477430582047,
+              "r": 161.26657757163048,
+              "b": 214.29979938268661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Pérdida de masa g/m 2",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 171.72411842644215,
+              "t": 183.21517619490623,
+              "r": 203.99233934283257,
+              "b": 220.86138832569122,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Pérdida de espesor µm",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 213.08616480231285,
+              "t": 183.83873480558395,
+              "r": 246.3194304406643,
+              "b": 214.01421743631363,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Pérdida de masa g/m 2",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 255.54931291937828,
+              "t": 182.7518652677536,
+              "r": 287.093986004591,
+              "b": 219.15764290094376,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Pérdida de espesor µm",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.74101704452187,
+              "t": 231.01133930683136,
+              "r": 83.05132943764329,
+              "b": 242.8093020915985,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "C l",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.67365163564682,
+              "t": 227.12360697984695,
+              "r": 113.8997700959444,
+              "b": 248.2013012766838,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "muy baja",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 135.30460381507874,
+              "t": 231.684863448143,
+              "r": 153.00468349456787,
+              "b": 242.8948448896408,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "≤ 10",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 176.7531468719244,
+              "t": 231.35565447807312,
+              "r": 197.47157782316208,
+              "b": 242.62370038032532,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "≤ 1,3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 219.9169987142086,
+              "t": 231.11261773109436,
+              "r": 239.24665340781212,
+              "b": 242.5573353767395,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "≤ 0,7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 263.38843989372253,
+              "t": 231.31385672092438,
+              "r": 280.184399664402,
+              "b": 242.6428781747818,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "≤ 0,1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 344.27586364746094,
+              "t": 230.9821202158928,
+              "r": 351.7649302482605,
+              "b": 241.9819523692131,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "-",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 404.1672077178955,
+              "t": 222.3615934252739,
+              "r": 540.0418771505356,
+              "b": 251.97777289152145,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 7,
+            "end_col_offset_idx": 8,
+            "text": "Edificios con calefacción y con atmósferas limpias, por ejemplo: oficinas, tiendas, colegios, hoteles.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.84730574302375,
+              "t": 267.4624748826027,
+              "r": 83.39281967282295,
+              "b": 279.4521762728691,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "C2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 97.23698484152555,
+              "t": 267.3973982334137,
+              "r": 114.27517562359571,
+              "b": 278.98808348178864,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "baja",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 132.37596639990807,
+              "t": 259.664577126503,
+              "r": 157.91867092251778,
+              "b": 288.2539676427841,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "> 10 y hasta 200",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 169.59662970900536,
+              "t": 263.2240839600563,
+              "r": 204.11532613635063,
+              "b": 284.94931894540787,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "> 1,3 y hasta 25",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 215.6578756570816,
+              "t": 262.97607082128525,
+              "r": 243.91242170333862,
+              "b": 284.377269923687,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "> 0,7 y hasta 5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 254.46803963184357,
+              "t": 263.37669986486435,
+              "r": 290.10602527856827,
+              "b": 283.8532539010048,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "> 0,1 y hasta 0,7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 294.802554666996,
+              "t": 259.6399312019348,
+              "r": 397.69620805978775,
+              "b": 286.7224781513214,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "Atmósferas con bajos niveles de contaminación. Áreas rurales en su mayor parte.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 404.82624650001526,
+              "t": 257.77715760469437,
+              "r": 541.4330788850784,
+              "b": 289.82783514261246,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 7,
+            "end_col_offset_idx": 8,
+            "text": "Edificios sin calefacción donde pueden ocurrir condensaciones, por ejemplo: almacenes, polideportivos.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.22270720358938,
+              "t": 312.0419268608093,
+              "r": 83.41652205213904,
+              "b": 323.724960565567,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "C3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.72944116592407,
+              "t": 312.00382697582245,
+              "r": 116.97374899685383,
+              "b": 323.5858772993088,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "media",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 130.1520271897316,
+              "t": 300.66556084156036,
+              "r": 160.0251940190792,
+              "b": 336.6208373308182,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "> 200 y hasta 400",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.31554970145226,
+              "t": 307.4477927684784,
+              "r": 202.92792204022408,
+              "b": 330.7963149547577,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "> 25 y hasta 50",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 213.8045953810215,
+              "t": 308.816752910614,
+              "r": 245.44542387127876,
+              "b": 329.2275516986847,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "> 5 y hasta 15",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 254.45121243596077,
+              "t": 310.05945432186127,
+              "r": 290.6988060772419,
+              "b": 327.49850142002106,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "> 0,7 y hasta 2,1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 294.6998641490936,
+              "t": 295.34988927841187,
+              "r": 398.43053019046783,
+              "b": 343.63721537590027,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "Atmósferas urbanas e industriales, con moderada contaminación de dióxido de azufre. Áreas costeras con baja salinidad.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 404.3044738769531,
+              "t": 291.99724692106247,
+              "r": 540.9269099235535,
+              "b": 345.3539328575134,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 7,
+            "end_col_offset_idx": 8,
+            "text": "Naves de fabricación con elevada humedad y con algo de contaminación del aire, por ejemplo: plantas de procesado de alimentos, lavanderías, plantas cerveceras, plantas lácteas. Interior de puentes-cajón.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.8471087180078,
+              "t": 351.97339940071106,
+              "r": 83.16599799692631,
+              "b": 363.32551288604736,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "C4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 97.40010356158018,
+              "t": 352.19210493564606,
+              "r": 113.23865490406752,
+              "b": 363.49213349819183,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "alta",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 130.35379520058632,
+              "t": 344.44736409187317,
+              "r": 160.62832447886467,
+              "b": 372.8839223384857,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "> 400 y hasta 650",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 169.9621641933918,
+              "t": 347.7387456893921,
+              "r": 203.51803985238075,
+              "b": 368.93597173690796,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "> 50 y hasta 80",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 213.351916462183,
+              "t": 347.97623562812805,
+              "r": 245.52989092469215,
+              "b": 367.0724015235901,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "> l5 y hasta 30",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 254.90308526158333,
+              "t": 348.5447244644165,
+              "r": 289.5667057335377,
+              "b": 367.09289717674255,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "> 2,1 y hasta 4,2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 296.61059296131134,
+              "t": 343.42161762714386,
+              "r": 398.64869356155396,
+              "b": 370.59393632411957,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "Áreas industriales y áreas costeras con moderada salinidad.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 405.45102632045746,
+              "t": 346.89641761779785,
+              "r": 539.1623718738556,
+              "b": 367.4021415710449,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 7,
+            "end_col_offset_idx": 8,
+            "text": "Plantas químicas, piscinas, barcos costeros y astilleros.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.2343267314136,
+              "t": 387.7285580635071,
+              "r": 83.25236872583628,
+              "b": 399.06285095214844,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "C5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.88547421991825,
+              "t": 384.41697585582733,
+              "r": 114.18917195498943,
+              "b": 404.26644551754,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "muy alta",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 130.9003839790821,
+              "t": 378.620698928833,
+              "r": 160.4560508430004,
+              "b": 408.0295615196228,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "> 650 y hasta 1.500",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 174.02940827608109,
+              "t": 379.19597375392914,
+              "r": 199.38642346858978,
+              "b": 408.65782606601715,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "> 80 y hasta 200",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 213.35682499408722,
+              "t": 384.55411183834076,
+              "r": 246.40483313798904,
+              "b": 404.59614622592926,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "> 30 y hasta 60",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 255.02437350153923,
+              "t": 385.12385952472687,
+              "r": 288.8552133142948,
+              "b": 399.6712886095047,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "> 4,2 y hasta 8,4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 303.51869666576385,
+              "t": 370.4343377351761,
+              "r": 393.5352988243103,
+              "b": 415.54558503627777,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "Áreas industriales con elevada humedad y con atmósfera agresiva y áreas costeras con elevada salinidad.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 405.5787345170975,
+              "t": 379.185804605484,
+              "r": 540.9391740560532,
+              "b": 408.18723249435425,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 7,
+            "end_col_offset_idx": 8,
+            "text": "Edificios o áreas con condensaciones casi permanentes, y con contaminación elevada.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.546277590096,
+              "t": 436.03392112255096,
+              "r": 84.48389383032918,
+              "b": 447.51479136943817,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "CX",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 89.80044924840331,
+              "t": 435.82444059848785,
+              "r": 120.0709030777216,
+              "b": 447.1477185487747,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "extrema",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 126.8778996616602,
+              "t": 424.38890862464905,
+              "r": 164.09149526059628,
+              "b": 455.1235764026642,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "> 1.500 y hasta 5.500",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 172.88916783034801,
+              "t": 426.94990146160126,
+              "r": 202.711212515831,
+              "b": 454.24562680721283,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "> 200 y hasta 700",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 218.2013876438141,
+              "t": 428.42531311511993,
+              "r": 241.76435601711273,
+              "b": 454.66816771030426,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "> 60 y hasta 180",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 255.08603963255882,
+              "t": 434.2828016281128,
+              "r": 290.36683961749077,
+              "b": 445.9249620437622,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "> 8,4 y hasta 25",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 297.3741071820259,
+              "t": 414.9789254665375,
+              "r": 398.2322024703026,
+              "b": 466.73080372810364,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "Áreas de ultramar con elevada salinidad y áreas industriales con humedad extrema y atmósfera agresiva y atmósferas subtropical y tropical.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 406.35592353343964,
+              "t": 431.4336107969284,
+              "r": 536.0996206998825,
+              "b": 450.7453941106796,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 7,
+            "end_col_offset_idx": 8,
+            "text": "Áreas industriales con humedad extrema y atmósfera agresiva.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 9,
+        "num_cols": 8,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 67.38036631420255,
+                "t": 161.63517612218857,
+                "r": 82.59004619345069,
+                "b": 214.3993665575981,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Designación",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 90.38767196238041,
+                "t": 146.41138064861298,
+                "r": 110.78751616179943,
+                "b": 217.24601018428802,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Clase de exposición (corrosividad)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 131.6285308599472,
+                "t": 139.87264217063785,
+                "r": 305.55200922489166,
+                "b": 157.73431438207626,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 4,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 6,
+              "text": "Pérdida de masa por unidad de superficie/pérdida de espesor (tras el primer año",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 131.6285308599472,
+                "t": 139.87264217063785,
+                "r": 305.55200922489166,
+                "b": 157.73431438207626,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 4,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 6,
+              "text": "Pérdida de masa por unidad de superficie/pérdida de espesor (tras el primer año",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 131.6285308599472,
+                "t": 139.87264217063785,
+                "r": 305.55200922489166,
+                "b": 157.73431438207626,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 4,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 6,
+              "text": "Pérdida de masa por unidad de superficie/pérdida de espesor (tras el primer año",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 131.6285308599472,
+                "t": 139.87264217063785,
+                "r": 305.55200922489166,
+                "b": 157.73431438207626,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 4,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 6,
+              "text": "Pérdida de masa por unidad de superficie/pérdida de espesor (tras el primer año",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 330.28870689868927,
+                "t": 147.54710561782122,
+                "r": 522.1968734264374,
+                "b": 159.89083769917488,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 8,
+              "text": "Ejemplos de ambientes típicos en un clima templado",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 330.28870689868927,
+                "t": 147.54710561782122,
+                "r": 522.1968734264374,
+                "b": 159.89083769917488,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 8,
+              "text": "Ejemplos de ambientes típicos en un clima templado",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 67.38036631420255,
+                "t": 161.63517612218857,
+                "r": 82.59004619345069,
+                "b": 214.3993665575981,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Designación",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 90.38767196238041,
+                "t": 146.41138064861298,
+                "r": 110.78751616179943,
+                "b": 217.24601018428802,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Clase de exposición (corrosividad)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 132.27496004104614,
+                "t": 165.0783868432045,
+                "r": 206.6036639213562,
+                "b": 180.91313275694847,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 4,
+              "text": "de exposición) Acero de bajo contenido en carbono",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 132.27496004104614,
+                "t": 165.0783868432045,
+                "r": 206.6036639213562,
+                "b": 180.91313275694847,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 4,
+              "text": "de exposición) Acero de bajo contenido en carbono",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.18648082017899,
+                "t": 168.6533047556877,
+                "r": 287.1127708554268,
+                "b": 179.57623887062073,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "Cinc",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 245.18648082017899,
+                "t": 168.6533047556877,
+                "r": 287.1127708554268,
+                "b": 179.57623887062073,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "Cinc",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.9923500716686,
+                "t": 169.67038187384605,
+                "r": 385.34373638033867,
+                "b": 210.00097873806953,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "Exterior",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 416.68857032060623,
+                "t": 171.4504598379135,
+                "r": 528.5428134799004,
+                "b": 208.7188841700554,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "Interior",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 67.38036631420255,
+                "t": 161.63517612218857,
+                "r": 82.59004619345069,
+                "b": 214.3993665575981,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Designación",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 90.38767196238041,
+                "t": 146.41138064861298,
+                "r": 110.78751616179943,
+                "b": 217.24601018428802,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Clase de exposición (corrosividad)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 128.10977563261986,
+                "t": 182.84477430582047,
+                "r": 161.26657757163048,
+                "b": 214.29979938268661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Pérdida de masa g/m 2",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 171.72411842644215,
+                "t": 183.21517619490623,
+                "r": 203.99233934283257,
+                "b": 220.86138832569122,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Pérdida de espesor µm",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 213.08616480231285,
+                "t": 183.83873480558395,
+                "r": 246.3194304406643,
+                "b": 214.01421743631363,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Pérdida de masa g/m 2",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 255.54931291937828,
+                "t": 182.7518652677536,
+                "r": 287.093986004591,
+                "b": 219.15764290094376,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Pérdida de espesor µm",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.9923500716686,
+                "t": 169.67038187384605,
+                "r": 385.34373638033867,
+                "b": 210.00097873806953,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "Exterior",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 416.68857032060623,
+                "t": 171.4504598379135,
+                "r": 528.5428134799004,
+                "b": 208.7188841700554,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "Interior",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.74101704452187,
+                "t": 231.01133930683136,
+                "r": 83.05132943764329,
+                "b": 242.8093020915985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "C l",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.67365163564682,
+                "t": 227.12360697984695,
+                "r": 113.8997700959444,
+                "b": 248.2013012766838,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "muy baja",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 135.30460381507874,
+                "t": 231.684863448143,
+                "r": 153.00468349456787,
+                "b": 242.8948448896408,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "≤ 10",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 176.7531468719244,
+                "t": 231.35565447807312,
+                "r": 197.47157782316208,
+                "b": 242.62370038032532,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "≤ 1,3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 219.9169987142086,
+                "t": 231.11261773109436,
+                "r": 239.24665340781212,
+                "b": 242.5573353767395,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "≤ 0,7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 263.38843989372253,
+                "t": 231.31385672092438,
+                "r": 280.184399664402,
+                "b": 242.6428781747818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "≤ 0,1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 344.27586364746094,
+                "t": 230.9821202158928,
+                "r": 351.7649302482605,
+                "b": 241.9819523692131,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "-",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 404.1672077178955,
+                "t": 222.3615934252739,
+                "r": 540.0418771505356,
+                "b": 251.97777289152145,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "Edificios con calefacción y con atmósferas limpias, por ejemplo: oficinas, tiendas, colegios, hoteles.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.84730574302375,
+                "t": 267.4624748826027,
+                "r": 83.39281967282295,
+                "b": 279.4521762728691,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "C2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 97.23698484152555,
+                "t": 267.3973982334137,
+                "r": 114.27517562359571,
+                "b": 278.98808348178864,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "baja",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 132.37596639990807,
+                "t": 259.664577126503,
+                "r": 157.91867092251778,
+                "b": 288.2539676427841,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "> 10 y hasta 200",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 169.59662970900536,
+                "t": 263.2240839600563,
+                "r": 204.11532613635063,
+                "b": 284.94931894540787,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "> 1,3 y hasta 25",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.6578756570816,
+                "t": 262.97607082128525,
+                "r": 243.91242170333862,
+                "b": 284.377269923687,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "> 0,7 y hasta 5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 254.46803963184357,
+                "t": 263.37669986486435,
+                "r": 290.10602527856827,
+                "b": 283.8532539010048,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "> 0,1 y hasta 0,7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 294.802554666996,
+                "t": 259.6399312019348,
+                "r": 397.69620805978775,
+                "b": 286.7224781513214,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "Atmósferas con bajos niveles de contaminación. Áreas rurales en su mayor parte.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 404.82624650001526,
+                "t": 257.77715760469437,
+                "r": 541.4330788850784,
+                "b": 289.82783514261246,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "Edificios sin calefacción donde pueden ocurrir condensaciones, por ejemplo: almacenes, polideportivos.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.22270720358938,
+                "t": 312.0419268608093,
+                "r": 83.41652205213904,
+                "b": 323.724960565567,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "C3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.72944116592407,
+                "t": 312.00382697582245,
+                "r": 116.97374899685383,
+                "b": 323.5858772993088,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "media",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 130.1520271897316,
+                "t": 300.66556084156036,
+                "r": 160.0251940190792,
+                "b": 336.6208373308182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "> 200 y hasta 400",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.31554970145226,
+                "t": 307.4477927684784,
+                "r": 202.92792204022408,
+                "b": 330.7963149547577,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "> 25 y hasta 50",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 213.8045953810215,
+                "t": 308.816752910614,
+                "r": 245.44542387127876,
+                "b": 329.2275516986847,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "> 5 y hasta 15",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 254.45121243596077,
+                "t": 310.05945432186127,
+                "r": 290.6988060772419,
+                "b": 327.49850142002106,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "> 0,7 y hasta 2,1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 294.6998641490936,
+                "t": 295.34988927841187,
+                "r": 398.43053019046783,
+                "b": 343.63721537590027,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "Atmósferas urbanas e industriales, con moderada contaminación de dióxido de azufre. Áreas costeras con baja salinidad.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 404.3044738769531,
+                "t": 291.99724692106247,
+                "r": 540.9269099235535,
+                "b": 345.3539328575134,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "Naves de fabricación con elevada humedad y con algo de contaminación del aire, por ejemplo: plantas de procesado de alimentos, lavanderías, plantas cerveceras, plantas lácteas. Interior de puentes-cajón.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.8471087180078,
+                "t": 351.97339940071106,
+                "r": 83.16599799692631,
+                "b": 363.32551288604736,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "C4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 97.40010356158018,
+                "t": 352.19210493564606,
+                "r": 113.23865490406752,
+                "b": 363.49213349819183,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "alta",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 130.35379520058632,
+                "t": 344.44736409187317,
+                "r": 160.62832447886467,
+                "b": 372.8839223384857,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "> 400 y hasta 650",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 169.9621641933918,
+                "t": 347.7387456893921,
+                "r": 203.51803985238075,
+                "b": 368.93597173690796,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "> 50 y hasta 80",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 213.351916462183,
+                "t": 347.97623562812805,
+                "r": 245.52989092469215,
+                "b": 367.0724015235901,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "> l5 y hasta 30",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 254.90308526158333,
+                "t": 348.5447244644165,
+                "r": 289.5667057335377,
+                "b": 367.09289717674255,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "> 2,1 y hasta 4,2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 296.61059296131134,
+                "t": 343.42161762714386,
+                "r": 398.64869356155396,
+                "b": 370.59393632411957,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "Áreas industriales y áreas costeras con moderada salinidad.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 405.45102632045746,
+                "t": 346.89641761779785,
+                "r": 539.1623718738556,
+                "b": 367.4021415710449,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "Plantas químicas, piscinas, barcos costeros y astilleros.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.2343267314136,
+                "t": 387.7285580635071,
+                "r": 83.25236872583628,
+                "b": 399.06285095214844,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "C5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.88547421991825,
+                "t": 384.41697585582733,
+                "r": 114.18917195498943,
+                "b": 404.26644551754,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "muy alta",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 130.9003839790821,
+                "t": 378.620698928833,
+                "r": 160.4560508430004,
+                "b": 408.0295615196228,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "> 650 y hasta 1.500",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 174.02940827608109,
+                "t": 379.19597375392914,
+                "r": 199.38642346858978,
+                "b": 408.65782606601715,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "> 80 y hasta 200",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 213.35682499408722,
+                "t": 384.55411183834076,
+                "r": 246.40483313798904,
+                "b": 404.59614622592926,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "> 30 y hasta 60",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 255.02437350153923,
+                "t": 385.12385952472687,
+                "r": 288.8552133142948,
+                "b": 399.6712886095047,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "> 4,2 y hasta 8,4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 303.51869666576385,
+                "t": 370.4343377351761,
+                "r": 393.5352988243103,
+                "b": 415.54558503627777,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "Áreas industriales con elevada humedad y con atmósfera agresiva y áreas costeras con elevada salinidad.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 405.5787345170975,
+                "t": 379.185804605484,
+                "r": 540.9391740560532,
+                "b": 408.18723249435425,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "Edificios o áreas con condensaciones casi permanentes, y con contaminación elevada.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 68.546277590096,
+                "t": 436.03392112255096,
+                "r": 84.48389383032918,
+                "b": 447.51479136943817,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "CX",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 89.80044924840331,
+                "t": 435.82444059848785,
+                "r": 120.0709030777216,
+                "b": 447.1477185487747,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "extrema",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 126.8778996616602,
+                "t": 424.38890862464905,
+                "r": 164.09149526059628,
+                "b": 455.1235764026642,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "> 1.500 y hasta 5.500",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 172.88916783034801,
+                "t": 426.94990146160126,
+                "r": 202.711212515831,
+                "b": 454.24562680721283,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "> 200 y hasta 700",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 218.2013876438141,
+                "t": 428.42531311511993,
+                "r": 241.76435601711273,
+                "b": 454.66816771030426,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "> 60 y hasta 180",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 255.08603963255882,
+                "t": 434.2828016281128,
+                "r": 290.36683961749077,
+                "b": 445.9249620437622,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "> 8,4 y hasta 25",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 297.3741071820259,
+                "t": 414.9789254665375,
+                "r": 398.2322024703026,
+                "b": 466.73080372810364,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "Áreas de ultramar con elevada salinidad y áreas industriales con humedad extrema y atmósfera agresiva y atmósferas subtropical y tropical.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 406.35592353343964,
+                "t": 431.4336107969284,
+                "r": 536.0996206998825,
+                "b": 450.7453941106796,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "Áreas industriales con humedad extrema y atmósfera agresiva.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 105.15003967285156,
+            "t": 670.9275741577148,
+            "r": 505.7462463378906,
+            "b": 467.5599670410156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 111.24000525,
+              "t": 130.22371079999994,
+              "r": 167.9876527650455,
+              "b": 139.36910538033146,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Designación",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 190.8803002365803,
+              "t": 130.22371079999994,
+              "r": 283.3258536802926,
+              "b": 139.36910538033146,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Clase de exposición",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 350.5903809802926,
+              "t": 130.22371079999994,
+              "r": 393.13687444309517,
+              "b": 139.36910538033146,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Ejemplos",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 111.24000525,
+              "t": 153.86370254999997,
+              "r": 128.50504901215976,
+              "b": 163.0090971303315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Im1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 190.9013398121598,
+              "t": 153.86370254999997,
+              "r": 242.7285564749623,
+              "b": 163.0090971303315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Agua dulce",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.4508077749623,
+              "t": 153.86370254999997,
+              "r": 500.04325896687243,
+              "b": 174.88910613033147,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Instalaciones ribereñas, plantas hidroeléctricas.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 111.24000525,
+              "t": 189.38370329999998,
+              "r": 128.50504901215976,
+              "b": 198.5290978803315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Im2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 190.9013398121598,
+              "t": 189.38370329999998,
+              "r": 295.56927426622997,
+              "b": 198.5290978803315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Agua de mar o salobre",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.36240106622995,
+              "t": 189.38370329999998,
+              "r": 500.2480308012098,
+              "b": 234.16911213033154,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Estructuras en contacto con el agua de mar sin protección catódica (por ejemplo áreas portuarias con estructuras como diques, compuertas o embarcaderos).",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 111.24000525,
+              "t": 248.78371230000005,
+              "r": 128.50504901215976,
+              "b": 257.9291068803316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Im3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 190.9013398121598,
+              "t": 248.78371230000005,
+              "r": 217.265397588924,
+              "b": 257.9291068803316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Suelo",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.42835206045885,
+              "t": 248.78371230000005,
+              "r": 500.0309993594001,
+              "b": 269.6891016303315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Tanques enterrados, pilotes de acero, tuberías de acero.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 111.24000525,
+              "t": 284.30370105000003,
+              "r": 128.50504901215976,
+              "b": 293.4490956303315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Im4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 190.9013398121598,
+              "t": 284.30370105000003,
+              "r": 295.56927426622997,
+              "b": 293.4490956303315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Agua de mar o salobre",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.36240106622995,
+              "t": 284.30370105000003,
+              "r": 500.2557923540698,
+              "b": 317.0891106303315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Estructuras en contacto con agua de mar con protección catódica (por ejemplo estructuras off-shore).",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 3,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 111.24000525,
+                "t": 130.22371079999994,
+                "r": 167.9876527650455,
+                "b": 139.36910538033146,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Designación",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 190.8803002365803,
+                "t": 130.22371079999994,
+                "r": 283.3258536802926,
+                "b": 139.36910538033146,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Clase de exposición",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 350.5903809802926,
+                "t": 130.22371079999994,
+                "r": 393.13687444309517,
+                "b": 139.36910538033146,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Ejemplos",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 111.24000525,
+                "t": 153.86370254999997,
+                "r": 128.50504901215976,
+                "b": 163.0090971303315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Im1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 190.9013398121598,
+                "t": 153.86370254999997,
+                "r": 242.7285564749623,
+                "b": 163.0090971303315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Agua dulce",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.4508077749623,
+                "t": 153.86370254999997,
+                "r": 500.04325896687243,
+                "b": 174.88910613033147,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Instalaciones ribereñas, plantas hidroeléctricas.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 111.24000525,
+                "t": 189.38370329999998,
+                "r": 128.50504901215976,
+                "b": 198.5290978803315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Im2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 190.9013398121598,
+                "t": 189.38370329999998,
+                "r": 295.56927426622997,
+                "b": 198.5290978803315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Agua de mar o salobre",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.36240106622995,
+                "t": 189.38370329999998,
+                "r": 500.2480308012098,
+                "b": 234.16911213033154,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Estructuras en contacto con el agua de mar sin protección catódica (por ejemplo áreas portuarias con estructuras como diques, compuertas o embarcaderos).",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 111.24000525,
+                "t": 248.78371230000005,
+                "r": 128.50504901215976,
+                "b": 257.9291068803316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Im3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 190.9013398121598,
+                "t": 248.78371230000005,
+                "r": 217.265397588924,
+                "b": 257.9291068803316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Suelo",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.42835206045885,
+                "t": 248.78371230000005,
+                "r": 500.0309993594001,
+                "b": 269.6891016303315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Tanques enterrados, pilotes de acero, tuberías de acero.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 111.24000525,
+                "t": 284.30370105000003,
+                "r": 128.50504901215976,
+                "b": 293.4490956303315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Im4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 190.9013398121598,
+                "t": 284.30370105000003,
+                "r": 295.56927426622997,
+                "b": 293.4490956303315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Agua de mar o salobre",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.36240106622995,
+                "t": 284.30370105000003,
+                "r": 500.2557923540698,
+                "b": 317.0891106303315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Estructuras en contacto con agua de mar con protección catódica (por ejemplo estructuras off-shore).",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

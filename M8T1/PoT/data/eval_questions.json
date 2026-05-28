@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué tipo de mapa se elabora como resultado de la inspección especial?",
+    "gold_chunk_id": 1832,
+    "doc_type": "normativa",
+    "source": "capitulo_25._gestion_de_las_estructuras_de_acero_durante_su_vida_de_servicio",
+    "page_no": 3,
+    "gold_content": "Mapa de daños o deterioros, como resultado de la inspección especial, asociado a un catálogo de daños o deterioros elaborado desde la perspectiva de la solución de reparación y no tanto"
+  },
+  {
+    "id": 2,
+    "question": "¿Los distintivos de otros Estados miembros de la UE se consideran conformes con el Código si aseguran un nivel equivalente de seguridad?",
+    "gold_chunk_id": 496,
+    "doc_type": "normativa",
+    "source": "capitulo_1._principios_generales",
+    "page_no": 4,
+    "gold_content": "Los distintivos reconocidos oficialmente en otro Estado miembro de la Unión Europea, en Turquía, u originarios de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo, que podrán referirse a los productos, a los procesos para su construcción o a la consideración de criterios de sostenibilidad, se consideran conformes con el presente Código, incluso cuando no cumplan las condiciones técnicas establecidas en el mismo, siempre que aseguren un nivel equivalente al que exige este Código, en cuanto a la seguridad y el uso al que están destinados. La aplicación de la presente medida está sujeta al Reglamento (UE) 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado Miembro y por el que se deroga el Reglamento (CE) nº 764/2008."
+  },
+  {
+    "id": 3,
+    "question": "¿Qué información mínima debe incluir la definición de las obras proyectadas según la normativa?",
+    "gold_chunk_id": 504,
+    "doc_type": "normativa",
+    "source": "capitulo_1._principios_generales",
+    "page_no": 5,
+    "gold_content": "En particular, el proyecto definirá las obras proyectadas con el detalle adecuado, de modo que pueda comprobarse explícitamente que las soluciones adoptadas cumplen las exigencias de este Código y del resto de la reglamentación técnica que le fuera aplicable. Esta definición incluirá, al menos, la siguiente información:"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué requisitos deben cumplir las estructuras para su recepción según el proyecto?",
+    "gold_chunk_id": 2063,
+    "doc_type": "normativa",
+    "source": "capitulo_5._bases_generales_para_la_gestion_de_la_calidad_de_las_estructuras",
+    "page_no": 2,
+    "gold_content": "Las estructuras deberán presentar para su recepción una calidad conforme con los criterios y especificaciones definidos en su proyecto, de forma que pueda asumirse el cumplimiento, con una garantía suficiente, de los requisitos exigibles a la estructura en su proyecto."
+  },
+  {
+    "id": 5,
+    "question": "¿Qué puede provocar la formación de condensaciones en el interior de edificios?",
+    "gold_chunk_id": 589,
+    "doc_type": "normativa",
+    "source": "capitulo_17._criterios_generales_para_las_estructuras_de_acero",
+    "page_no": 2,
+    "gold_content": "Debe tenerse en cuenta el peligro de formación de condensaciones, que puede producirse en las áreas más frías de estructuras en el interior de edificios, en espacios cerrados y elementos huecos cuya hermeticidad  no  haya  sido  garantizada  (caso  de  emplear  soldaduras  discontinuas  o  uniones  no herméticas con pernos), o en instalaciones especiales (como las estaciones de bombeo o los circuitos de refrigeración  por  agua).  La  formación  de  condensaciones  supone  siempre  un  agravamiento  de  la corrosión."
+  },
+  {
+    "id": 6,
+    "question": "¿Quién debe recalcular la estimación inicial del ICES al término de la obra?",
+    "gold_chunk_id": 937,
+    "doc_type": "normativa",
+    "source": "capitulo_2._bases_generales_para_la_contribucion_de_la_estructura_a_la_sostenibilidad",
+    "page_no": 3,
+    "gold_content": "La estimación inicial del ICES realizada por el autor del proyecto debe ser recalculada por parte de la dirección facultativa al término de la obra con los datos que los agentes intervinientes aporten durante el proceso de construcción."
+  },
+  {
+    "id": 7,
+    "question": "¿Qué se debe considerar al usar explosivos para la demolición?",
+    "gold_chunk_id": 1924,
+    "doc_type": "normativa",
+    "source": "capitulo_26._deconstruccion_de_estructuras_de_acero",
+    "page_no": 3,
+    "gold_content": "En el caso de uso de explosivos para la demolición, se estará a lo dispuesto en la legislación vigente que sea de aplicación."
+  },
+  {
+    "id": 8,
+    "question": "¿Quién debe realizar el control de proyecto según la normativa?",
+    "gold_chunk_id": 2151,
+    "doc_type": "normativa",
+    "source": "capitulo_5._bases_generales_para_la_gestion_de_la_calidad_de_las_estructuras",
+    "page_no": 8,
+    "gold_content": "La propiedad podrá decidir la realización del control de proyecto, que como mínimo deberá realizarse por una persona distinta a aquellos inicialmente responsables y de conformidad con el procedimiento de la organización. Para ello, podrá contar con la asistencia técnica de una entidad de control de calidad, de acuerdo con lo indicado en el apartado 17.2.2.2."
+  },
+  {
+    "id": 9,
+    "question": "¿Quién asumirá el refuerzo de las vigas perforadas y por qué?",
+    "gold_chunk_id": 235,
+    "doc_type": "actas",
+    "source": "Acta_08_S15",
+    "page_no": 1,
+    "gold_content": "La propiedad exige que el refuerzo de las vigas perforadas lo asuma Arquitectura, con cargo a su seguro de responsabilidad civil profesional, por error de coordinacion del proyecto. Carlos Mendoza lo acepta a reganadientes para no detener la obra."
+  },
+  {
+    "id": 10,
+    "question": "¿Quién debe contrastar cualquier replanteo crítico futuro antes de hormigonar?",
+    "gold_chunk_id": 112,
+    "doc_type": "actas",
+    "source": "Acta_04_S07",
+    "page_no": 1,
+    "gold_content": "Se acuerda que cualquier replanteo critico futuro sea contrastado por el topografo externo independiente antes de hormigonar. ·"
+  },
+  {
+    "id": 11,
+    "question": "¿Se ha contratado algún servicio para la limpieza de la vía pública?",
+    "gold_chunk_id": 109,
+    "doc_type": "actas",
+    "source": "Acta_04_S07",
+    "page_no": 1,
+    "gold_content": "Limpieza de via publica (Acta 3): PARCIALMENTE RESUELTO. Se ha contratado una barredora, pero siguen llegando quejas puntuales de vecinos."
+  },
+  {
+    "id": 12,
+    "question": "¿Cuál es el plazo de ejecución de la estructura y por qué es improrrogable?",
+    "gold_chunk_id": 32,
+    "doc_type": "actas",
+    "source": "Acta_01_S01",
+    "page_no": 2,
+    "gold_content": "Se recuerda formalmente a la constructora que el plazo de ejecucion de la estructura (20 semanas) es improrrogable, ya que la inauguracion esta ligada al calendario pre-electoral del Ayuntamiento. Elena Vargas insiste en que cualquier desviacion de plazo debera justificarse documentalmente."
+  },
+  {
+    "id": 13,
+    "question": "¿Qué tipo de conductos se sustituirán en la zona afectada por el recrecido del Eje 4?",
+    "gold_chunk_id": 197,
+    "doc_type": "actas",
+    "source": "Acta_07_S13",
+    "page_no": 1,
+    "gold_content": "Rediseno de conductos de ventilacion (Actas 5 y 6): RESUELTO. Se sustituiran los conductos circulares por conductos rectangulares en la zona afectada por el recrecido del Eje 4."
+  },
+  {
+    "id": 14,
+    "question": "¿Cuál es el nombre del proyecto de obra aprobado en el contrato?",
+    "gold_chunk_id": 324,
+    "doc_type": "contratos",
+    "source": "20 - Contrato Obra - Firmado",
+    "page_no": 3,
+    "gold_content": "Tercer.-  Aprovar  l'expedient  de  contractació  de  l'obra  'Intervención  de  mejora  en  el  edificio  del  polideportivo  y  otras infraestructuras  deportivas  de  la  zona  de  equipamientos  de  Linyola  para  el  fomento  de  actividades  y  turismo  deportivo sostenibles'."
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es la fecha de la orden que configura el sistema de gestión del plan de recuperación, transformación y resiliencia?",
+    "gold_chunk_id": 409,
+    "doc_type": "contratos",
+    "source": "20 - Contrato Obra - Firmado",
+    "page_no": 6,
+    "gold_content": "-Orden HFP/1030/2021, de 29 de septiembre, por la que se configura el sistema de gestión del plan de recuperación, transformación y resiliencia."
+  },
+  {
+    "id": 16,
+    "question": "¿Qué tipo de equipos se están instalando según el contrato?",
+    "gold_chunk_id": 420,
+    "doc_type": "contratos",
+    "source": "20 - Contrato Obra - Firmado",
+    "page_no": 6,
+    "gold_content": "-1.Instalación de equipos de bies. Depósito de acumulación de agua e instalación de bombajockey. Mejora de la seguridad contra incendios"
+  },
+  {
+    "id": 17,
+    "question": "¿Quién está facultado para firmar los documentos necesarios para hacer efectivos los acuerdos?",
+    "gold_chunk_id": 356,
+    "doc_type": "contratos",
+    "source": "20 - Contrato Obra - Firmado",
+    "page_no": 4,
+    "gold_content": "Décimo.- Facultar al alcalde para firmar cualquier documento que sea necesario para hacer efectivos los acuerdos precedentes. Undécimo.-  Publicar  en  el  perfil  del  contratante  del  ayuntamiento  de  Linyola  este  acuerdo,  el  anuncio  de  licitación  para  la adjudicación del contrato, la documentación que corresponda del expediente de contratación y la documentación necesaria para la presentación de las ofertas."
+  },
+  {
+    "id": 18,
+    "question": "¿Cuáles son los principales elementos estructurales de una obra?",
+    "gold_chunk_id": 2458,
+    "doc_type": "proyecto",
+    "source": "TFG-I-1343",
+    "page_no": 17,
+    "gold_content": "Las estructuras a veces se componen de un solo elemento, por ejemplo una presa;  sin  embargo,  por  lo  general,  suelen  estar  compuestas  por  diferentes elementos que se unen de forma conveniente para que la estructura funcione correctamente. Los principales elementos estructurales son:"
+  },
+  {
+    "id": 19,
+    "question": "¿Qué normativa actual referente a la edificación se debe aprender a manejar?",
+    "gold_chunk_id": 2434,
+    "doc_type": "proyecto",
+    "source": "TFG-I-1343",
+    "page_no": 13,
+    "gold_content": "-Aprender a manejar la normativa actual referente a la edificación, como  puede  ser  el  Código  Técnico  de  la  Edificación  (CTE),  la Instrucción de Acero Estructural (EAE) o los Eurocódigos."
+  },
+  {
+    "id": 20,
+    "question": "¿Cuántas alturas distintas tendrá el edificio?",
+    "gold_chunk_id": 2645,
+    "doc_type": "proyecto",
+    "source": "TFG-I-1343",
+    "page_no": 38,
+    "gold_content": "En nuestro edificio, tendremos tres alturas distintas: la correspondiente a la estructura secundaria y las correspondientes a la altura de coronación de la estructura principal y la altura del faldón. Tendremos que interpolar para conseguir el valor del coeficiente de exposición correspondiente a las alturas concretas."
+  }
+]

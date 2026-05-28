@@ -1,0 +1,2480 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "capitulo_3._bases_generales_para_el_proyecto_y_criterios_de_seguridad",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17821080183226878780,
+    "filename": "capitulo_3._bases_generales_para_el_proyecto_y_criterios_de_seguridad.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/68"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 422.18,
+            "r": 296.79492000000005,
+            "b": 355.45946961325967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Capítulo 3 Bases generales para el proyecto y criterios de seguridad",
+      "text": "Capítulo 3 Bases generales para el proyecto y criterios de seguridad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "56",
+      "text": "56"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 703.5749999999999,
+            "r": 276.4134330000001,
+            "b": 694.9244585635358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Criterios de seguridad",
+      "text": "Criterios de seguridad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 676.28,
+            "r": 408.2520000000002,
+            "b": 668.8811049723756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Bases generales para el proyecto y criterios de seguridad",
+      "text": "Bases generales para el proyecto y criterios de seguridad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 656.955,
+            "r": 552.8616680000001,
+            "b": 624.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "Las exigencias del requisito de seguridad y estabilidad, así como las correspondientes al requisito de aptitud al servicio pueden ser expresadas en términos de la probabilidad de fallo, que está ligada al índice de fiabilidad, tal como se indica en el Artículo 5.",
+      "text": "Las exigencias del requisito de seguridad y estabilidad, así como las correspondientes al requisito de aptitud al servicio pueden ser expresadas en términos de la probabilidad de fallo, que está ligada al índice de fiabilidad, tal como se indica en el Artículo 5."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 613.035,
+            "r": 552.9746449999997,
+            "b": 568.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "Las bases de proyecto de las estructuras incluidas en el ámbito de este Código, incluidos los principios y requisitos de seguridad, se regirán por los criterios indicados en el Anejo 18. Además, se asegura el cumplimiento de los niveles de fiabilidad requeridos adoptando los procedimientos indicados en los Anejos 18 a 32 que sean necesarios.",
+      "text": "Las bases de proyecto de las estructuras incluidas en el ámbito de este Código, incluidos los principios y requisitos de seguridad, se regirán por los criterios indicados en el Anejo 18. Además, se asegura el cumplimiento de los niveles de fiabilidad requeridos adoptando los procedimientos indicados en los Anejos 18 a 32 que sean necesarios."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 556.395,
+            "r": 552.9944989999998,
+            "b": 499.074182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            467
+          ]
+        }
+      ],
+      "orig": "Como criterio general, se utilizará el método de los Estados Límite de acuerdo con lo indicado en el apartado 3 del Anejo 18. Este método permite tener en cuenta de manera sencilla el carácter aleatorio de las variables de solicitación, de resistencia y dimensionales que intervienen en el cálculo. El valor de cálculo de una variable se obtiene a partir de su principal valor representativo, ponderándolo mediante su correspondiente coeficiente parcial de seguridad.",
+      "text": "Como criterio general, se utilizará el método de los Estados Límite de acuerdo con lo indicado en el apartado 3 del Anejo 18. Este método permite tener en cuenta de manera sencilla el carácter aleatorio de las variables de solicitación, de resistencia y dimensionales que intervienen en el cálculo. El valor de cálculo de una variable se obtiene a partir de su principal valor representativo, ponderándolo mediante su correspondiente coeficiente parcial de seguridad."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.84,
+            "t": 487.155,
+            "r": 450.91137799999944,
+            "b": 480.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Los coeficientes parciales de seguridad vienen definidos en los Anejos 18 a 32.",
+      "text": "Los coeficientes parciales de seguridad vienen definidos en los Anejos 18 a 32."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 468.555,
+            "r": 553.0176619999999,
+            "b": 423.834182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            326
+          ]
+        }
+      ],
+      "orig": "Los coeficientes parciales de seguridad no tienen en cuenta la influencia de posibles errores humanos groseros. Estos fallos deben ser evitados mediante mecanismos adecuados de control de calidad que deberán abarcar todas las actividades relacionadas con el proyecto, la ejecución, el uso y el mantenimiento de una estructura.",
+      "text": "Los coeficientes parciales de seguridad no tienen en cuenta la influencia de posibles errores humanos groseros. Estos fallos deben ser evitados mediante mecanismos adecuados de control de calidad que deberán abarcar todas las actividades relacionadas con el proyecto, la ejecución, el uso y el mantenimiento de una estructura."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 405.44,
+            "r": 329.41200000000015,
+            "b": 398.0411049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Comprobación estructural mediante cálculo",
+      "text": "Comprobación estructural mediante cálculo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 386.115,
+            "r": 553.1136230000001,
+            "b": 353.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "La comprobación estructural mediante cálculo es el método que se propone con carácter general en este Código. Para ello, y de acuerdo con lo indicado en el apartado anterior, se seguirán los principios de cálculo en estados límite que se recogen en el apartado 3 del Anejo 18.",
+      "text": "La comprobación estructural mediante cálculo es el método que se propone con carácter general en este Código. Para ello, y de acuerdo con lo indicado en el apartado anterior, se seguirán los principios de cálculo en estados límite que se recogen en el apartado 3 del Anejo 18."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 335.72,
+            "r": 336.0840000000002,
+            "b": 328.3211049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Comprobación estructural mediante ensayos",
+      "text": "Comprobación estructural mediante ensayos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 316.395,
+            "r": 552.9845720000004,
+            "b": 271.674182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            378
+          ]
+        }
+      ],
+      "orig": "En aquellos casos donde los procedimientos de comprobación estructural mediante cálculo no sean suficientes o donde los resultados de ensayos pueden llevar a una economía significativa de una estructura, existe también la posibilidad de abordar el dimensionamiento estructural mediante la combinación de ensayos y cálculos que permitan alcanzar el nivel de fiabilidad requerido.",
+      "text": "En aquellos casos donde los procedimientos de comprobación estructural mediante cálculo no sean suficientes o donde los resultados de ensayos pueden llevar a una economía significativa de una estructura, existe también la posibilidad de abordar el dimensionamiento estructural mediante la combinación de ensayos y cálculos que permitan alcanzar el nivel de fiabilidad requerido."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.84,
+            "t": 259.755,
+            "r": 540.7959509999998,
+            "b": 252.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Para ello, se seguirá lo indicado en el apartado 5.2 del Anejo 18 y en particular en su Apéndice D.",
+      "text": "Para ello, se seguirá lo indicado en el apartado 5.2 del Anejo 18 y en particular en su Apéndice D."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 215.89499999999998,
+            "r": 289.6128570000001,
+            "b": 207.2444585635359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Situaciones de proyecto",
+      "text": "Situaciones de proyecto",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.84,
+            "t": 195.07500000000005,
+            "r": 531.7965739999997,
+            "b": 188.27418232044192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Las situaciones a considerar en el proyecto serán las indicadas en el apartado 3.2 del Anejo 18.",
+      "text": "Las situaciones a considerar en el proyecto serán las indicadas en el apartado 3.2 del Anejo 18."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.68,
+            "t": 151.09500000000003,
+            "r": 325.31359500000013,
+            "b": 142.44445856353593,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Método de los Estados Límite",
+      "text": "Método de los Estados Límite",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.6,
+            "t": 123.79999999999995,
+            "r": 377.5320000000002,
+            "b": 116.40110497237572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Estados Límite Últimos y Estados Límite de Servicio",
+      "text": "Estados Límite Últimos y Estados Límite de Servicio",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.6,
+            "t": 104.47500000000002,
+            "r": 552.8594619999998,
+            "b": 85.07418232044199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "Se definen como Estados Límite aquellas situaciones para las que, de ser superadas, puede considerarse que la estructura no cumple alguna de las funciones para las que ha sido proyectada.",
+      "text": "Se definen como Estados Límite aquellas situaciones para las que, de ser superadas, puede considerarse que la estructura no cumple alguna de las funciones para las que ha sido proyectada."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "57",
+      "text": "57"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.84,
+            "t": 724.035,
+            "r": 381.3142839999999,
+            "b": 717.234182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "A los efectos de este Código, los Estados Límite se clasifican en:",
+      "text": "A los efectos de este Código, los Estados Límite se clasifican en:"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.0,
+            "t": 704.595,
+            "r": 457.08153199999987,
+            "b": 697.794182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": " Estados Límite Últimos, conformes con el apartado 3.3 del Anejo 18, y",
+      "text": " Estados Límite Últimos, conformes con el apartado 3.3 del Anejo 18, y",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.0,
+            "t": 685.155,
+            "r": 466.3908519999999,
+            "b": 678.354182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": " Estados Límite de Servicio, conformes con el apartado 3.4 del Anejo 18.",
+      "text": " Estados Límite de Servicio, conformes con el apartado 3.4 del Anejo 18.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 666.675,
+            "r": 552.8462259999999,
+            "b": 647.154182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "Los principios de cálculo para su comprobación deberán ser conformes con lo indicado en los apartados 3 y 6 del Anejo 18.",
+      "text": "Los principios de cálculo para su comprobación deberán ser conformes con lo indicado en los apartados 3 y 6 del Anejo 18."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.6,
+            "t": 628.88,
+            "r": 394.7760000000002,
+            "b": 621.4811049723756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Cumplimiento de los Estados Límite durante la vida útil",
+      "text": "Cumplimiento de los Estados Límite durante la vida útil",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 609.555,
+            "r": 552.8539380000002,
+            "b": 590.154182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "A partir de la vida útil definida para la estructura, tL, para cualquier edad t ≤ tL , deberá cumplirse la condición:",
+      "text": "A partir de la vida útil definida para la estructura, tL, para cualquier edad t ≤ tL , deberá cumplirse la condición:"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 275.4,
+            "t": 576.445,
+            "r": 320.14338,
+            "b": 565.7854545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "d t d t E R ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 553.515,
+            "r": 76.26686899999999,
+            "b": 546.714182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "donde:",
+      "text": "donde:"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 534.915,
+            "r": 370.8736039999999,
+            "b": 527.6286408839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "Rdt Valor de cálculo de la respuesta estructural, a la edad t.",
+      "text": "Rdt Valor de cálculo de la respuesta estructural, a la edad t."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 516.315,
+            "r": 367.74880499999966,
+            "b": 509.02864088397786,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Edt Valor de cálculo del efecto de las acciones, a la edad t.",
+      "text": "Edt Valor de cálculo del efecto de las acciones, a la edad t."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 497.59499999999997,
+            "r": 397.1647119999998,
+            "b": 490.3086408839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "tL Vida útil nominal de la estructura considerada en el proyecto.",
+      "text": "tL Vida útil nominal de la estructura considerada en el proyecto."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.84,
+            "t": 478.995,
+            "r": 382.5110389999998,
+            "b": 472.194182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "El incumplimiento de la condición anterior podrá ser considerado:",
+      "text": "El incumplimiento de la condición anterior podrá ser considerado:"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 459.555,
+            "r": 542.7762409999999,
+            "b": 427.434182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": " como un Estado Límite Último, cuando pueda afectar a la seguridad de las personas o a la de la propia estructura (por ejemplo, la pérdida de sección de armadura por corrosión que sea superior a un determinado límite), o",
+      "text": " como un Estado Límite Último, cuando pueda afectar a la seguridad de las personas o a la de la propia estructura (por ejemplo, la pérdida de sección de armadura por corrosión que sea superior a un determinado límite), o",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 414.79499999999996,
+            "r": 544.5829550000001,
+            "b": 382.79418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": " como un Estado Límite de Servicio, si puede afectar a la funcionalidad de la estructura, al confort de las personas o al aspecto de los elementos constructivos (por ejemplo, la fisuración del recubrimiento como consecuencia de la corrosión de las armaduras).",
+      "text": " como un Estado Límite de Servicio, si puede afectar a la funcionalidad de la estructura, al confort de las personas o al aspecto de los elementos constructivos (por ejemplo, la fisuración del recubrimiento como consecuencia de la corrosión de las armaduras).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 370.995,
+            "r": 552.7392349999998,
+            "b": 351.47418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "La comprobación de los Estados Límite asociados a la durabilidad se realizará de acuerdo con lo indicado en el Artículo 11.",
+      "text": "La comprobación de los Estados Límite asociados a la durabilidad se realizará de acuerdo con lo indicado en el Artículo 11."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.48,
+            "t": 314.41499999999996,
+            "r": 552.8437170000003,
+            "b": 289.6844585635358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Bases para la comprobación de los Estados Límite asociados a la durabilidad",
+      "text": "Bases para la comprobación de los Estados Límite asociados a la durabilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.6,
+            "t": 270.9200000000001,
+            "r": 123.33599999999998,
+            "b": 263.5211049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "General",
+      "text": "General",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 251.59500000000003,
+            "r": 552.9823660000001,
+            "b": 206.87418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "La durabilidad de una estructura es su capacidad para soportar, durante la vida útil para la que ha sido proyectada, las condiciones físicas y químicas a las que está expuesta, y que podrían llegar a provocar su degradación como consecuencia de efectos diferentes a las cargas y solicitaciones consideradas en el análisis estructural.",
+      "text": "La durabilidad de una estructura es su capacidad para soportar, durante la vida útil para la que ha sido proyectada, las condiciones físicas y químicas a las que está expuesta, y que podrían llegar a provocar su degradación como consecuencia de efectos diferentes a las cargas y solicitaciones consideradas en el análisis estructural."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.6,
+            "t": 195.07500000000005,
+            "r": 552.8495350000003,
+            "b": 175.554182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "La comprobación de la vida útil requerida para la estructura comprenderá, al menos, las siguientes fases:",
+      "text": "La comprobación de la vida útil requerida para la estructura comprenderá, al menos, las siguientes fases:"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 163.755,
+            "r": 383.11422299999987,
+            "b": 156.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "a) Identificación de la vida útil nominal, según el apartado 5.1.1.",
+      "text": "Identificación de la vida útil nominal, según el apartado 5.1.1.",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 151.15499999999997,
+            "r": 373.27215399999983,
+            "b": 144.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "b) Identificación del tipo de ambiente, según el apartado 11.2.",
+      "text": "Identificación del tipo de ambiente, según el apartado 11.2.",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 138.43499999999995,
+            "r": 553.110789,
+            "b": 119.03418232044203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "c) Definición de la estrategia de durabilidad para el cumplimiento de la vida útil, según el apartado 11.3.",
+      "text": "Definición de la estrategia de durabilidad para el cumplimiento de la vida útil, según el apartado 11.3.",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.92,
+            "t": 113.11500000000001,
+            "r": 362.82894999999985,
+            "b": 106.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "d) Comprobación del Estado límite, según el apartado 11.4.",
+      "text": "Comprobación del Estado límite, según el apartado 11.4.",
+      "enumerated": true,
+      "marker": "d)"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "58",
+      "text": "58"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.6,
+            "t": 722.6,
+            "r": 275.352,
+            "b": 715.2011049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Identificación del tipo de ambiente",
+      "text": "Identificación del tipo de ambiente",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 703.275,
+            "r": 552.9658209999999,
+            "b": 658.554182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            309
+          ]
+        }
+      ],
+      "orig": "Antes de comenzar el proyecto se deberá identificar el tipo de ambiente de cada elemento estructural. En función del tipo de elemento, la clase de exposición se determinará de acuerdo con los apartados 27.1, 80.1 o con el Artículo 110, según se trate de elementos de hormigón, acero o mixtos, respectivamente.",
+      "text": "Antes de comenzar el proyecto se deberá identificar el tipo de ambiente de cada elemento estructural. En función del tipo de elemento, la clase de exposición se determinará de acuerdo con los apartados 27.1, 80.1 o con el Artículo 110, según se trate de elementos de hormigón, acero o mixtos, respectivamente."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 646.755,
+            "r": 552.9933960000001,
+            "b": 563.994182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            638
+          ]
+        }
+      ],
+      "orig": "Cuando una estructura contenga elementos con diferentes tipos de ambiente, el autor del proyecto deberá definir algunos grupos con los elementos estructurales que presenten características similares de exposición ambiental. Para ello, siempre que sea posible, se agruparán elementos del mismo tipo (por ejemplo, pilares, vigas de cubierta, cimentación, etc.), cuidando además que los criterios seguidos sean congruentes con los aspectos propios de la fase de ejecución. Para cada grupo, se identificará la clase o, en su caso, la combinación de clases, que definen la agresividad del ambiente al que se encuentran sometidos sus elementos.",
+      "text": "Cuando una estructura contenga elementos con diferentes tipos de ambiente, el autor del proyecto deberá definir algunos grupos con los elementos estructurales que presenten características similares de exposición ambiental. Para ello, siempre que sea posible, se agruparán elementos del mismo tipo (por ejemplo, pilares, vigas de cubierta, cimentación, etc.), cuidando además que los criterios seguidos sean congruentes con los aspectos propios de la fase de ejecución. Para cada grupo, se identificará la clase o, en su caso, la combinación de clases, que definen la agresividad del ambiente al que se encuentran sometidos sus elementos."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.6,
+            "t": 545.72,
+            "r": 222.01199999999997,
+            "b": 538.3211049723757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Estrategia de durabilidad",
+      "text": "Estrategia de durabilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 520.395,
+            "r": 177.86750799999996,
+            "b": 513.594182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "11.3.1 Criterios generales",
+      "text": "11.3.1 Criterios generales",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.84,
+            "t": 501.675,
+            "r": 476.7116509999997,
+            "b": 494.874182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "En general, la estrategia de durabilidad tendrá uno de los siguientes planteamientos:",
+      "text": "En general, la estrategia de durabilidad tendrá uno de los siguientes planteamientos:"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 483.075,
+            "r": 552.9823000000001,
+            "b": 450.954182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "a) Definir criterios de proyecto, de ejecución y de calidad de los materiales que garanticen una respuesta adecuada del elemento estructural frente a la agresividad del ambiente, que permita alcanzar la vida útil nominal,",
+      "text": "Definir criterios de proyecto, de ejecución y de calidad de los materiales que garanticen una respuesta adecuada del elemento estructural frente a la agresividad del ambiente, que permita alcanzar la vida útil nominal,",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 445.155,
+            "r": 552.9806350000005,
+            "b": 425.634182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "b) aislar total o parcialmente el elemento estructural del ambiente que lo rodea, de manera que desaparezca o disminuya su agresividad, para alcanzar la vida útil nominal, o",
+      "text": "aislar total o parcialmente el elemento estructural del ambiente que lo rodea, de manera que desaparezca o disminuya su agresividad, para alcanzar la vida útil nominal, o",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 419.835,
+            "r": 553.1019650000001,
+            "b": 400.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "c) cualquier combinación eficaz de los dos planteamientos anteriores, que permita alcanzar la vida útil nominal de la estructura.",
+      "text": "cualquier combinación eficaz de los dos planteamientos anteriores, que permita alcanzar la vida útil nominal de la estructura.",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 388.515,
+            "r": 552.9922929999999,
+            "b": 356.394182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "Los elementos de equipamiento, tales como apoyos, juntas, drenajes, etc., pueden tener una vida más corta que la de la propia estructura por lo que, en su caso, se estudiará la adopción de medidas de proyecto que faciliten el mantenimiento y sustitución de dichos elementos durante la fase de uso.",
+      "text": "Los elementos de equipamiento, tales como apoyos, juntas, drenajes, etc., pueden tener una vida más corta que la de la propia estructura por lo que, en su caso, se estudiará la adopción de medidas de proyecto que faciliten el mantenimiento y sustitución de dichos elementos durante la fase de uso."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 344.59499999999997,
+            "r": 552.8616679999998,
+            "b": 299.87418232044206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            352
+          ]
+        }
+      ],
+      "orig": "La buena calidad de la ejecución de la obra tiene una influencia decisiva para conseguir una estructura durable. En el caso de que se produjera cualquier incidencia durante la misma que pudiera comprometer la durabilidad, se adoptarán las medidas adecuadas para corregirla, a propuesta del constructor y previa autorización de la dirección facultativa.",
+      "text": "La buena calidad de la ejecución de la obra tiene una influencia decisiva para conseguir una estructura durable. En el caso de que se produjera cualquier incidencia durante la misma que pudiera comprometer la durabilidad, se adoptarán las medidas adecuadas para corregirla, a propuesta del constructor y previa autorización de la dirección facultativa."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 287.9549999999999,
+            "r": 552.8654480000001,
+            "b": 255.83418232044198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "El proyecto incluirá un plan de mantenimiento que identifique todas las operaciones de mantenimiento derivadas de la estrategia de durabilidad que se ha adoptado para la estructura. Asimismo, identificará aquellos elementos cuya reposición esté prevista, así como su frecuencia.",
+      "text": "El proyecto incluirá un plan de mantenimiento que identifique todas las operaciones de mantenimiento derivadas de la estrategia de durabilidad que se ha adoptado para la estructura. Asimismo, identificará aquellos elementos cuya reposición esté prevista, así como su frecuencia."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 238.03500000000008,
+            "r": 270.6209839999998,
+            "b": 231.23418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "11.3.2 Fases de la estrategia de durabilidad",
+      "text": "11.3.2 Fases de la estrategia de durabilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.84,
+            "t": 219.43499999999995,
+            "r": 383.7099999999997,
+            "b": 212.63418232044194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "La estrategia de durabilidad incluirá, al menos, las siguientes fases:",
+      "text": "La estrategia de durabilidad incluirá, al menos, las siguientes fases:"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 200.71499999999992,
+            "r": 475.3934089999995,
+            "b": 193.91418232044202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "a) Identificación de los mecanismos de daño, en función de la clase de exposición,",
+      "text": "Identificación de los mecanismos de daño, en función de la clase de exposición,",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 182.115,
+            "r": 309.06983299999973,
+            "b": 175.314182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "b) selección de formas estructurales adecuadas,",
+      "text": "selección de formas estructurales adecuadas,",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 163.39499999999998,
+            "r": 203.2237469999999,
+            "b": 156.59418232044197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "c) selección de materiales,",
+      "text": "selección de materiales,",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 144.79500000000007,
+            "r": 299.3479909999997,
+            "b": 137.99418232044195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "d) medidas específicas frente a la agresividad,",
+      "text": "medidas específicas frente a la agresividad,",
+      "enumerated": true,
+      "marker": "d)"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 126.19500000000005,
+            "r": 425.41978799999976,
+            "b": 119.39418232044204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "e) identificación de medidas a considerar durante la fase de ejecución, e",
+      "text": "identificación de medidas a considerar durante la fase de ejecución, e",
+      "enumerated": true,
+      "marker": "e)"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.92,
+            "t": 107.47500000000002,
+            "r": 387.4423949999998,
+            "b": 100.67418232044201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "f) identificación de medidas a considerar durante la fase de uso.",
+      "text": "identificación de medidas a considerar durante la fase de uso.",
+      "enumerated": true,
+      "marker": "f)"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.6,
+            "t": 88.875,
+            "r": 552.7447500000002,
+            "b": 69.35418232044196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "En función del tipo de elemento estructural, la estrategia de durabilidad será conforme con lo indicado en los capítulos 9, 19 y 29.",
+      "text": "En función del tipo de elemento estructural, la estrategia de durabilidad será conforme con lo indicado en los capítulos 9, 19 y 29."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "59",
+      "text": "59"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 78.6,
+            "t": 699.8,
+            "r": 443.53200000000027,
+            "b": 692.4011049723756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Comprobación de los Estados Límite asociados a la durabilidad",
+      "text": "Comprobación de los Estados Límite asociados a la durabilidad",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.6,
+            "t": 680.475,
+            "r": 552.9856749999999,
+            "b": 623.034182320442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            404
+          ]
+        }
+      ],
+      "orig": "Con carácter general, para todos los Estados Límite asociados a la durabilidad, este Código contempla un método simplificado, mediante la aplicación de una serie de criterios relativos a dimensiones geométricas, calidades de los productos a emplear y condiciones de ejecución y mantenimiento de la estructura, de forma que se pueda asumir el cumplimiento de los Estados Límite asociados a la durabilidad.",
+      "text": "Con carácter general, para todos los Estados Límite asociados a la durabilidad, este Código contempla un método simplificado, mediante la aplicación de una serie de criterios relativos a dimensiones geométricas, calidades de los productos a emplear y condiciones de ejecución y mantenimiento de la estructura, de forma que se pueda asumir el cumplimiento de los Estados Límite asociados a la durabilidad."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 543.72,
+            "t": 56.539999999999964,
+            "r": 552.846,
+            "b": 50.77319327731095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 512.0565795898438,
+            "t": 814.5366115570068,
+            "r": 552.6767578125,
+            "b": 764.6604309082031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 50.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 511.755126953125,
+            "t": 814.5037498474121,
+            "r": 552.733642578125,
+            "b": 764.565544128418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 50.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 511.9403381347656,
+            "t": 814.3907928466797,
+            "r": 552.7176513671875,
+            "b": 764.7103652954102,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 49.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 511.7803955078125,
+            "t": 814.6324348449707,
+            "r": 552.88525390625,
+            "b": 764.3501663208008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 511.9838562011719,
+            "t": 814.6438961029053,
+            "r": 552.7802734375,
+            "b": 764.4630737304688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "image": {
+        "mimetype": "image/png",
+        "dpi": 72,
+        "size": {
+          "width": 41.0,
+          "height": 51.0
+        },
+        "uri": "data:image/png;base64,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"
+      },
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 5
+    }
+  }
+}
